@@ -32,6 +32,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          cd youtube
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
@@ -44,6 +45,7 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
 
         run: |
+          cd youtube
           python main.py
 
       - name: Commit Updated JSON
