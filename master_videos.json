@@ -8,20 +8,26 @@
       "drive_link": "https://drive.google.com/file/d/1DRdlnXNoz7pxPuAXRhdPYYT3G6AbaqqM/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "CAMERA NEWS 300 D0 * 400 180 Kmh J00- 500 0-500 Kiph in 5 seconds S00 200 * Ito J00 - '600 0500 Kiph fin 6 seconds CAMERANEWS Km/h 100- E00 in 6 seconds Joo JCo 78o 100 600 J00 300 * 1to Kmn J0O 200 1t0 0 0 M Look at the fuel gauge D0 *8 B00 0 0 h 30o Jto 0 0 0 4 20 * ^00 1io Knh Iet I00 - 0 0 ICAMERA NEWS Jo0 @CAMERA NEWS @JCAMERA NEWS Jo0- I00 Soo Nnvn I00- 0 0 0 0 3o0 w *",
+      "ocr_generated_at": "2026-06-01T07:25:48.852267"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "8eha6BSd0nE",
+        "uploaded_at": "2026-06-01T07:26:02.535300",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Extreme vehicle acceleration (0-500 km/h in 5-6 seconds) and its shocking fuel consumption implications.\nTarget Audience: Car enthusiasts, performance junkies, automotive fans, luxury car dreamers, and anyone fascinated by engineering marvels and extreme speed.\nEmotion: Surprise (due to the mind-boggling speed and acceleration)\nViral Angle: Mind-blowing reveal of extreme vehicle performance combined with a hidden fact/unexpected twist regarding its real-world cost (fuel consumption). The \"Look at the fuel gauge\" creates an open loop.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  This Car Hits 500 km/h in SECONDS... But Look at the Fuel Gauge!\n2.  0-500 km/h in 5 Seconds?! Hypercar Fuel Burn Is INSANE.\n3.  The TRUTH About Hypercar Speed & Fuel 🔥 (0-500 km/h)\n4.  Can You Guess How Fast The Fuel Drops at 500 km/h?\n5.  Mind-Blown: Watch 0-500 km/h & The Unbelievable Fuel Gauge Drop!\n\n[YOUTUBE_DESCRIPTION]\nEver wonder what it takes to hit 500 km/h in mere seconds? Prepare to be surprised! This Short showcases a hypercar's insane acceleration from 0-500 km/h, but the real shocker is the fuel gauge. Witness the mind-blowing speed and then 'look at the fuel gauge' to see the true cost of such extreme performance. It's not just fast; it's a testament to engineering... and fuel efficiency challenges! What's your dream hypercar? Let us know in the comments!\n\n[YOUTUBE_HASHTAGS]\n#Hypercar #ExtremeSpeed #CarPerformance #FastestCar #Supercar #0to500kmh #CarTok #MindBlown #DidYouKnow #Automotive #CarFacts #EngineeringMarvel #FuelConsumption #LuxuryCars #SpeedTest #CarEnthusiast #ViralCars #Shorts #WhatIf #FutureCars\n\n[YOUTUBE_KEYWORDS]\nPrimary Keyword: 0-500 km/h, hypercar acceleration, extreme speed\nSecondary Keywords: supercar fuel consumption, fastest car, insane car performance, vehicle speed test\nLong-tail Keywords: \"what car goes 0-500 km/h\", \"fastest car fuel gauge drop\", \"how fast can a car accelerate\", \"hypercar real cost\", \"mind-blowing car speed facts\"\n\n[BONUS_CTA]\n1.  🤯 What's the CRAZIEST car fact you know? Share below!\n2.  Would YOU drive a car that burns fuel this fast? 👇\n3.  Hit LIKE if this speed blew your mind! 🔥",
+          "title": "This Car Hits 500 km/h in SECONDS... But Look at the Fuel Gauge!",
+          "description": "Ever wonder what it takes to hit 500 km/h in mere seconds? Prepare to be surprised! This Short showcases a hypercar's insane acceleration from 0-500 km/h, but the real shocker is the fuel gauge. Witness the mind-blowing speed and then 'look at the fuel gauge' to see the true cost of such extreme performance. It's not just fast; it's a testament to engineering... and fuel efficiency challenges! What's your dream hypercar? Let us know in the comments!",
+          "hashtags": "#Hypercar #ExtremeSpeed #CarPerformance #FastestCar #Supercar #0to500kmh #CarTok #MindBlown #DidYouKnow #Automotive #CarFacts #EngineeringMarvel #FuelConsumption #LuxuryCars #SpeedTest #CarEnthusiast #ViralCars #Shorts #WhatIf #FutureCars",
+          "keywords": "Primary Keyword: 0-500 km/h, hypercar acceleration, extreme speed\nSecondary Keywords: supercar fuel consumption, fastest car, insane car performance, vehicle speed test\nLong-tail Keywords: \"what car goes 0-500 km/h\", \"fastest car fuel gauge drop\", \"how fast can a car accelerate\", \"hypercar real cost\", \"mind-blowing car speed facts\""
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -74,7 +80,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958030",
-      "updated_at": "2026-05-31T17:24:21.958077"
+      "updated_at": "2026-06-01T07:26:02.535340"
     }
   },
   {
