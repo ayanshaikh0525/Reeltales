@@ -344,20 +344,26 @@
       "drive_link": "https://drive.google.com/file/d/1HNpZFZ6hgqEZ4cqSEnjE-epMmDyxA9rr/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "850 vs 10,000 Horsepower Fdpiun Ubaptun WIX FJap-jil Enae ACNGO Tumuo onst Went off like a rocket Funst NNto DENSO",
+      "ocr_generated_at": "2026-06-01T22:00:58.139586"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "exueim0FmiM",
+        "uploaded_at": "2026-06-01T22:01:20.244992",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Extreme Horsepower Comparison (850 HP vs. 10,000 HP) and its dramatic impact on acceleration.\nTarget Audience: Automotive enthusiasts, speed fanatics, engineering fans, people curious about raw power and \"vs.\" content.\nEmotion: Shock\nViral Angle: Mind-blowing reveal of the extreme power difference and its \"rocket-like\" effect.\nContent Category: Educational (demonstrating the real-world impact of extreme power differences).\n\n[YOUTUBE_TITLES]\n\n1.  850HP vs 10,000HP: The SHOCKING Difference! 🤯\n2.  Can 850HP Compete? Watch 10,000HP Launch!\n3.  Mind-Blown by 10,000 Horsepower Rocket Acceleration!\n4.  This is What TRUE 10,000HP Power Looks Like!\n5.  850 vs 10K HP: Pure Force Unleashed!\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered what *true* power looks like in action? 🤯 Get ready for an insane showdown: a mighty 850 horsepower machine going head-to-head with an absolute monster packing 10,000 horsepower!\n\nYou won't believe how quickly one of these \"went off like a rocket.\" This isn't just a comparison; it's a mind-blowing demonstration of raw acceleration and engineering might. From the quiet start to an explosive launch, prepare to be genuinely shocked by the sheer force on display.\n\nWhich one leaves you speechless? Watch till the end to witness the incredible difference and experience the extreme speed first-hand!\n\n#horsepower #extremepower #rocketlaunch #speeddemon #automotive #engineering #supercar #fastcars #shorts #viral\n\n[YOUTUBE_HASHTAGS]\n\n#shorts\n#viralvideo\n#trending\n#speed\n#power\n#automotive\n#horsepower\n#engine\n#dragrace\n#supercars\n#fastcars\n#engineering\n#mechanic\n#acceleration\n#vehicle\n#carguy\n#mindblown\n#shocking\n#rocketmode\n#vs\n\n[YOUTUBE_KEYWORDS]\n\nhorsepower comparison, 850 horsepower, 10000 horsepower, extreme speed, rocket acceleration, engine power, vehicle comparison, automotive engineering, fast cars, car performance, power difference, insane speed, mind blowing, vs video, high horsepower, ultimate power\n\n[BONUS_CTA]\n\n1.  Which horsepower figure shocked you more? Let me know in the comments! 👇\n2.  Hit like & share if you were blown away by the speed!\n3.  Save this for your friends who NEED to see extreme machines!",
+          "title": "HP vs 10,000HP: The SHOCKING Difference! 🤯",
+          "description": "Ever wondered what *true* power looks like in action? 🤯 Get ready for an insane showdown: a mighty 850 horsepower machine going head-to-head with an absolute monster packing 10,000 horsepower!\n\nYou won't believe how quickly one of these \"went off like a rocket.\" This isn't just a comparison; it's a mind-blowing demonstration of raw acceleration and engineering might. From the quiet start to an explosive launch, prepare to be genuinely shocked by the sheer force on display.\n\nWhich one leaves you speechless? Watch till the end to witness the incredible difference and experience the extreme speed first-hand!\n\n#horsepower #extremepower #rocketlaunch #speeddemon #automotive #engineering #supercar #fastcars #shorts #viral",
+          "hashtags": "#shorts\n#viralvideo\n#trending\n#speed\n#power\n#automotive\n#horsepower\n#engine\n#dragrace\n#supercars\n#fastcars\n#engineering\n#mechanic\n#acceleration\n#vehicle\n#carguy\n#mindblown\n#shocking\n#rocketmode\n#vs",
+          "keywords": "horsepower comparison, 850 horsepower, 10000 horsepower, extreme speed, rocket acceleration, engine power, vehicle comparison, automotive engineering, fast cars, car performance, power difference, insane speed, mind blowing, vs video, high horsepower, ultimate power"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -410,7 +416,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958305",
-      "updated_at": "2026-05-31T17:24:21.958309"
+      "updated_at": "2026-06-01T22:01:20.245029"
     }
   },
   {
