@@ -1,9 +1,15 @@
 import json
 from datetime import datetime
 
-from ../process_video import generate_ocr_from_video
 from youtube_upload import upload_to_youtube
 from generate_meta_data import generate_youtube_metadata
+import sys
+import os
+
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(ROOT_DIR)
+
+from process_video import generate_ocr_from_video
 
 
 MASTER_JSON = "../master_videos.json"
