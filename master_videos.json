@@ -176,20 +176,26 @@
       "drive_link": "https://drive.google.com/file/d/1-xC2ODuYA7lTMFjxY8GqzaqZSWF2wNTh/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "4DX Theatres with dynamic Seats and climate Control Seats andclimate Control From motion-synchronized seats that twist; tilt; and rumbleb to wd; rain, lightning; and scent effects) 4DX transforms films into full-body adventures: From motion-synchrouized seats that twist; tilt; and rumbleb to wid; full-body adventuress that twist; and rumbleb to wbd; tilt, that twist; tilt, and rumbleb to wd; rain, lightning, and scent effectss that twist; tilt, and rumbleb to wibd;",
+      "ocr_generated_at": "2026-06-01T08:23:39.292058"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "XAMPSmNB4go",
+        "uploaded_at": "2026-06-01T08:23:53.747682",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: 4DX Theatres and Immersive Cinema Experience\nTarget Audience: Movie enthusiasts, tech-curious individuals, thrill-seekers, people looking for unique entertainment.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of the future of cinema / Unexpected transformation of movie watching.\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  You won't BELIEVE this movie theatre! 🤯\n2.  Is THIS the future of movies? #4DX\n3.  What happens when movies come ALIVE?\n4.  Your couch can't do THIS: Inside 4DX cinema.\n5.  Movies just got an UPGRADE. Experience 4DX!\n\n[YOUTUBE_DESCRIPTION]\n\nReady for a movie experience that blows your mind? 🤯 Dive into the exhilarating world of 4DX Theatres! This isn't just watching a film; it's living it. Discover how dynamic seats twist, tilt, and rumble, while environmental effects like wind, rain, lightning, and scents transform movies into full-body adventures. Experience cinema like never before and see why 4DX is revolutionizing entertainment. Have you tried 4DX yet? Share your thoughts below! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#4DX #MovieExperience #ImmersiveCinema #FutureOfMovies #CinemaTech #DynamicSeats #FilmBuff #NextGenEntertainment #SensoryExperience #MovieTheater #TechInnovation #MindBlown #MustSee #WhatsHappening #FYP #ViralShorts #FilmTok #AdventureTime #MovieMagic #ExperienceIt\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: 4DX Theatres\nSecondary keywords: Immersive cinema, dynamic seats, movie experience, future of movies, film technology, sensory cinema, cinema effects.\nLong-tail keywords: What is 4DX cinema like, best immersive movie experience, how 4DX works, 4DX theatre review, movie watching transformed, next generation cinema.\n\n[BONUS_CTA]\n\n1.  What's YOUR dream movie to watch in 4DX? Tell us! 👇\n2.  Hit like if you're ready for THIS level of cinema! ❤️\n3.  Would you dare to try a 4DX movie? Share your thoughts!",
+          "title": "You won't BELIEVE this movie theatre! 🤯",
+          "description": "Ready for a movie experience that blows your mind? 🤯 Dive into the exhilarating world of 4DX Theatres! This isn't just watching a film; it's living it. Discover how dynamic seats twist, tilt, and rumble, while environmental effects like wind, rain, lightning, and scents transform movies into full-body adventures. Experience cinema like never before and see why 4DX is revolutionizing entertainment. Have you tried 4DX yet? Share your thoughts below! 👇",
+          "hashtags": "#4DX #MovieExperience #ImmersiveCinema #FutureOfMovies #CinemaTech #DynamicSeats #FilmBuff #NextGenEntertainment #SensoryExperience #MovieTheater #TechInnovation #MindBlown #MustSee #WhatsHappening #FYP #ViralShorts #FilmTok #AdventureTime #MovieMagic #ExperienceIt",
+          "keywords": "Primary keyword: 4DX Theatres\nSecondary keywords: Immersive cinema, dynamic seats, movie experience, future of movies, film technology, sensory cinema, cinema effects.\nLong-tail keywords: What is 4DX cinema like, best immersive movie experience, how 4DX works, 4DX theatre review, movie watching transformed, next generation cinema."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -242,7 +248,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958198",
-      "updated_at": "2026-05-31T17:24:21.958201"
+      "updated_at": "2026-06-01T08:23:53.747719"
     }
   },
   {
