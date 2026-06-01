@@ -92,20 +92,26 @@
       "drive_link": "https://drive.google.com/file/d/19lYNl97uIaCmSiGLg504e21_RZH78jUN/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "300 times more powerful than the Hiroshima bomb: than the Hiroshima bomb. Detonated in 1971 Deneath Amchitka Island; Alaskas the blast had a yield @f nearly 5 megatons Amchitka Island, Alaskas the blast had a yield of the blast had a yield of",
+      "ocr_generated_at": "2026-06-01T07:31:30.406603"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "FlofbMqal9E",
+        "uploaded_at": "2026-06-01T07:31:46.558123",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A specific, extremely powerful nuclear bomb test (Project Cannikin) conducted in Alaska in 1971, compared to the Hiroshima bomb.\nTarget Audience: History enthusiasts, science curious, people interested in Cold War facts, military history, shocking historical events, and general short-form content consumers looking for mind-blowing facts.\nEmotion: Shock\nViral Angle: Mind-blowing reveal / Hidden fact (The immense power and relatively unknown nature of this specific test).\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1. 🤯 300X Hiroshima: The Secret Alaska Nuke (1971)\n2. This 1971 Alaska Bomb Was 300 Times Stronger Than Hiroshima!\n3. Forgotten History: America's Most Powerful Nuclear Test (5 Megatons)\n4. Did You Know About Alaska's Mind-Blowing Nuclear Blast?\n5. The 5-Megaton Bomb That Changed Everything (You've Never Heard Of It!)\n\n[YOUTUBE_DESCRIPTION]\nDiscover the astonishing power of Project Cannikin! 🤯 In 1971, beneath Amchitka Island, Alaska, a nuclear device with a yield of nearly 5 megatons was detonated. That's an unbelievable 300 times more powerful than the Hiroshima bomb! This incredible, yet often overlooked, event was a significant part of the Cold War nuclear testing program.\n\nWhat do you think about this hidden piece of history? Let us know in the comments! 👇\n\n[YOUTUBE_HASHTAGS]\n#Shorts #Viral #Facts #History #Mindblown #DidYouKnow #ShockingFacts #NuclearBomb #ColdWar #AlaskaHistory #AmchitkaIsland #ProjectCannikin #AtomicBomb #NuclearTest #MilitaryHistory #HistoricalFacts #ScienceFacts #LearnOnShorts #BigExplosion #UntoldHistory\n\n[YOUTUBE_KEYWORDS]\nnuclear bomb test, Amchitka Island, Hiroshima bomb comparison, 1971 nuclear test, Alaska nuclear test, 5 megatons, Cold War history, Project Cannikin, US nuclear testing, atomic bomb, powerful explosion, historical facts, military history, nuclear weapons, hidden history, mind blowing facts, forgotten history, biggest bombs, nuclear power, underground test\n\n[BONUS_CTA]\n1. Did this fact shock you? Tell us your thoughts in the comments! 👇\n2. Share this with a friend who loves mind-blowing historical discoveries!\n3. Save this video to impress everyone with your knowledge!",
+          "title": "🤯 300X Hiroshima: The Secret Alaska Nuke (1971)",
+          "description": "Discover the astonishing power of Project Cannikin! 🤯 In 1971, beneath Amchitka Island, Alaska, a nuclear device with a yield of nearly 5 megatons was detonated. That's an unbelievable 300 times more powerful than the Hiroshima bomb! This incredible, yet often overlooked, event was a significant part of the Cold War nuclear testing program.\n\nWhat do you think about this hidden piece of history? Let us know in the comments! 👇",
+          "hashtags": "#Shorts #Viral #Facts #History #Mindblown #DidYouKnow #ShockingFacts #NuclearBomb #ColdWar #AlaskaHistory #AmchitkaIsland #ProjectCannikin #AtomicBomb #NuclearTest #MilitaryHistory #HistoricalFacts #ScienceFacts #LearnOnShorts #BigExplosion #UntoldHistory",
+          "keywords": "nuclear bomb test, Amchitka Island, Hiroshima bomb comparison, 1971 nuclear test, Alaska nuclear test, 5 megatons, Cold War history, Project Cannikin, US nuclear testing, atomic bomb, powerful explosion, historical facts, military history, nuclear weapons, hidden history, mind blowing facts, forgotten history, biggest bombs, nuclear power, underground test"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -158,7 +164,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958143",
-      "updated_at": "2026-05-31T17:24:21.958147"
+      "updated_at": "2026-06-01T07:31:46.558151"
     }
   },
   {
