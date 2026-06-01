@@ -260,20 +260,26 @@
       "drive_link": "https://drive.google.com/file/d/1N0IVpAgld5LOkHTxyG_IMyg5XWau4dLj/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Diamonds are a very rare thingll on earth rare thingll o earth Diamonds are a Very Meet 55 Cancri e It Has A Diamond Core Inside",
+      "ocr_generated_at": "2026-06-01T18:37:10.154090"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "5YjTdKdOnGU",
+        "uploaded_at": "2026-06-01T18:37:22.495887",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The exoplanet 55 Cancri e, known for its diamond core, contrasting with the rarity of diamonds on Earth.\nTarget Audience: Space enthusiasts, science lovers, curious minds, people interested in amazing facts and astronomical discoveries.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal / Hidden fact (a planet made of diamonds)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  This Planet Is Made of DIAMONDS?! 🤯 (Meet 55 Cancri e)\n2.  Forget Earth's Diamonds: The REAL Diamond Planet is 55 Cancri e!\n3.  Mind-Blown! This Exoplanet Has a Solid Diamond Core\n4.  Diamonds Are Rare... Unless You're On 55 Cancri e!\n5.  What if an Entire Planet was Pure Diamond? (55 Cancri e Revealed)\n\n[YOUTUBE_DESCRIPTION]\n\nDiamonds are a rare treasure on Earth, but imagine an entire planet made of them! 🤯 Discover 55 Cancri e, an incredible exoplanet with a massive diamond core. This isn't science fiction, it's a jaw-dropping reality of our universe! Learn why this \"diamond planet\" exists and what it means for our understanding of space. Prepare to have your mind blown by the cosmos! #SpaceFacts #DiamondPlanet #55CancriE\n\n[YOUTUBE_HASHTAGS]\n\n#Space #Science #Universe #Astronomy #Facts #DidYouKnow #Shorts #Exoplanet #DiamondCore #Cosmos #Planets #RareDiamonds #Mindblown #ViralFacts #Fascinating #SpaceExploration #Unbelievable #ScienceTikTok #MysteryOfSpace #BeyondEarth\n\n[YOUTUBE_KEYWORDS]\n\n55 Cancri e, Diamond Planet, Exoplanet, Space, Diamonds, Rare Earth, Planet core, Astronomy facts, What is 55 Cancri e, Planet made of diamonds, Diamond planet facts, Space discovery, Universe facts, Science Shorts, Mind blowing facts, Beyond Earth's diamonds, Celestial bodies, Planetary science\n\n[BONUS_CTA]\n\n1.  Hit LIKE if your mind is blown by this diamond planet! ✨\n2.  Comment below: Would you visit 55 Cancri e if you could? 👇\n3.  Follow for more unbelievable discoveries from the universe!",
+          "title": "This Planet Is Made of DIAMONDS?! 🤯 (Meet 55 Cancri e)",
+          "description": "Diamonds are a rare treasure on Earth, but imagine an entire planet made of them! 🤯 Discover 55 Cancri e, an incredible exoplanet with a massive diamond core. This isn't science fiction, it's a jaw-dropping reality of our universe! Learn why this \"diamond planet\" exists and what it means for our understanding of space. Prepare to have your mind blown by the cosmos! #SpaceFacts #DiamondPlanet #55CancriE",
+          "hashtags": "#Space #Science #Universe #Astronomy #Facts #DidYouKnow #Shorts #Exoplanet #DiamondCore #Cosmos #Planets #RareDiamonds #Mindblown #ViralFacts #Fascinating #SpaceExploration #Unbelievable #ScienceTikTok #MysteryOfSpace #BeyondEarth",
+          "keywords": "55 Cancri e, Diamond Planet, Exoplanet, Space, Diamonds, Rare Earth, Planet core, Astronomy facts, What is 55 Cancri e, Planet made of diamonds, Diamond planet facts, Space discovery, Universe facts, Science Shorts, Mind blowing facts, Beyond Earth's diamonds, Celestial bodies, Planetary science"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -326,7 +332,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958249",
-      "updated_at": "2026-05-31T17:24:21.958252"
+      "updated_at": "2026-06-01T18:37:22.495916"
     }
   },
   {
