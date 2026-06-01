@@ -428,20 +428,26 @@
       "drive_link": "https://drive.google.com/file/d/1avR3cwU0zO94Cg1nNTguVtcOv4LKmTQQ/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "COOL BUS Cool WaN SNeU 8750HP Engine in A school bus L L (COOL BUS CoL EaWN JHEV COOL CoQL BSrwN JP1 (COOL BUS Cool EUSRN JHd! Cok Nirwn Snp (COOL  BUS COQL NSRW S61! COOL BuS BSem enp fire-breathing monster COOL Buu",
+      "ocr_generated_at": "2026-06-01T23:29:43.283741"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "mv4DmkUIum0",
+        "uploaded_at": "2026-06-01T23:29:58.491334",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: An extreme school bus modification featuring an 8750HP engine, often referred to as a \"fire-breathing monster.\"\nTarget Audience: Car enthusiasts, fans of unique and extreme vehicles, mechanical engineering hobbyists, and a general audience looking for shocking or awe-inspiring content.\nEmotion: Surprise\nViral Angle: Unexpected twist (an ultra-powerful engine in a school bus), Mind-blowing reveal (the sheer horsepower and \"fire-breathing\" nature), Rare footage of an iconic custom build.\nContent Category: Facts (highlighting the astonishing 8750HP statistic)\n\n[YOUTUBE_TITLES]\n\n1.  They put an 8750HP engine in THIS?! 🤯\n2.  This isn't your average school bus... it's a MONSTER!\n3.  The 8750HP 'Cool Bus' will absolutely blow your mind!\n4.  Watch this school bus breathe FIRE! 🔥\n5.  Mind-blown: The 8750HP School Bus you won't believe!\n\n[YOUTUBE_DESCRIPTION]\n\nGet ready for the ultimate shocker! This isn't just any old yellow bus; it's the legendary \"Cool Bus,\" a custom-built, fire-breathing monster powered by an INSANE 8750HP engine! 🤯 Witness the extreme engineering and raw power that turns a humble school bus into an absolute beast. You have to see this incredible transformation to believe it. What do you think of this mind-blowing machine?\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts #Viral #OMG #Unbelievable #MindBlown #CoolBus #SchoolBus #CustomBuild #EngineSwap #HighPerformance #Automotive #ExtremeVehicles #CarMod #MechanicLife #FireBreathing #UniqueCars #InsaneBuild #Engineering #WhatTheHeck #FastestBus\n\n[YOUTUBE_KEYWORDS]\n\n8750HP school bus, cool bus, fire breathing bus, custom school bus, engine swap, extreme vehicle build, monster bus, school bus modification, world's most powerful school bus, high horsepower engine, car build, unique bus, automotive engineering, bus transformation, insane engine\n\n[BONUS_CTA]\n\n1.  What's the craziest vehicle mod you've ever seen? Tell us in the comments! 👇\n2.  Smash that like button if you were NOT expecting this!\n3.  Share this with a friend who needs to see this monster bus!",
+          "title": "They put an 8750HP engine in THIS?! 🤯",
+          "description": "Get ready for the ultimate shocker! This isn't just any old yellow bus; it's the legendary \"Cool Bus,\" a custom-built, fire-breathing monster powered by an INSANE 8750HP engine! 🤯 Witness the extreme engineering and raw power that turns a humble school bus into an absolute beast. You have to see this incredible transformation to believe it. What do you think of this mind-blowing machine?",
+          "hashtags": "#Shorts #Viral #OMG #Unbelievable #MindBlown #CoolBus #SchoolBus #CustomBuild #EngineSwap #HighPerformance #Automotive #ExtremeVehicles #CarMod #MechanicLife #FireBreathing #UniqueCars #InsaneBuild #Engineering #WhatTheHeck #FastestBus",
+          "keywords": "8750HP school bus, cool bus, fire breathing bus, custom school bus, engine swap, extreme vehicle build, monster bus, school bus modification, world's most powerful school bus, high horsepower engine, car build, unique bus, automotive engineering, bus transformation, insane engine"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -494,7 +500,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958355",
-      "updated_at": "2026-05-31T17:24:21.958358"
+      "updated_at": "2026-06-01T23:29:58.491360"
     }
   },
   {
