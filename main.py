@@ -3,7 +3,7 @@ from datetime import datetime
 
 from process_video import generate_ocr_from_video
 from youtube_upload import upload_to_youtube
-from Generate_meta_data import generate_youtube_metadata
+from generate_meta_data import generate_youtube_metadata
 
 
 MASTER_JSON = "master_videos.json"
