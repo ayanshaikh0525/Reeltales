@@ -764,20 +764,26 @@
       "drive_link": "https://drive.google.com/file/d/1ZrUG3jTJP07dWwbCw-Qx5J_FvqPjnvq8/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "What do he want to prove? just w8 and Watched just W8 and Watched This is called a Dolly Zoom and it's pure Magic. and its pure Magic.",
+      "ocr_generated_at": "2026-06-02T16:31:44.712502"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "JMM913vto5s",
+        "uploaded_at": "2026-06-02T16:32:00.262494",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Dolly Zoom cinematic technique and its \"magic\" effect.\nTarget Audience: Film enthusiasts, aspiring filmmakers, video creators, curious viewers interested in behind-the-scenes magic and visual effects.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of a hidden cinematic technique that looks like \"pure magic.\"\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  What's Happening Here? Dolly Zoom Magic!\n2.  The \"Pure Magic\" Film Technique You NEED to See\n3.  Mind-Blown by the Dolly Zoom? Wait For It...\n4.  This Camera Trick Is PURE Magic (Dolly Zoom Explained)\n5.  Unlock the Secret: Dolly Zoom Explained in Seconds!\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered how filmmakers create that mind-bending visual effect where the background seems to stretch or compress while the subject stays in place? It's called a Dolly Zoom, and it's pure cinematic magic! 🤯\n\nThis powerful filmmaking technique, also known as the Vertigo effect or Zolly shot, plays with perspective to create an intense emotional impact. From Jaws to Lord of the Rings, the Dolly Zoom has been used to shock, surprise, and captivate audiences for decades.\n\nWatch till the end to truly appreciate this incredible camera trick! You'll never watch movies the same way again.\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts\n#ViralVideo\n#Filmmaking\n#VideoEditing\n#Cinephile\n#DollyZoom\n#Cinematography\n#FilmTechnique\n#VertigoEffect\n#CameraMoves\n#VisualEffects\n#BehindTheScenes\n#FilmTips\n#VideoMagic\n#MovieSecrets\n#MindBlown\n#WaitForIt\n#PureMagic\n#LearnOnShorts\n#PerspectiveShift\n\n[YOUTUBE_KEYWORDS]\n\nDolly Zoom, filmmaking technique, cinematic effect, camera trick, video magic, Vertigo effect, Zolly shot, how to do a dolly zoom, what is a dolly zoom, mind-blowing camera trick, filmmaking for beginners, explain dolly zoom, visual effects explained, famous dolly zoom scenes, film production\n\n[BONUS_CTA]\n\n1.  What other film techniques amaze you? Let me know below! 👇\n2.  Hit subscribe to unlock more filmmaking secrets!\n3.  Share this mind-bending magic with a friend!",
+          "title": "What's Happening Here? Dolly Zoom Magic!",
+          "description": "Ever wondered how filmmakers create that mind-bending visual effect where the background seems to stretch or compress while the subject stays in place? It's called a Dolly Zoom, and it's pure cinematic magic! 🤯\n\nThis powerful filmmaking technique, also known as the Vertigo effect or Zolly shot, plays with perspective to create an intense emotional impact. From Jaws to Lord of the Rings, the Dolly Zoom has been used to shock, surprise, and captivate audiences for decades.\n\nWatch till the end to truly appreciate this incredible camera trick! You'll never watch movies the same way again.",
+          "hashtags": "#Shorts\n#ViralVideo\n#Filmmaking\n#VideoEditing\n#Cinephile\n#DollyZoom\n#Cinematography\n#FilmTechnique\n#VertigoEffect\n#CameraMoves\n#VisualEffects\n#BehindTheScenes\n#FilmTips\n#VideoMagic\n#MovieSecrets\n#MindBlown\n#WaitForIt\n#PureMagic\n#LearnOnShorts\n#PerspectiveShift",
+          "keywords": "Dolly Zoom, filmmaking technique, cinematic effect, camera trick, video magic, Vertigo effect, Zolly shot, how to do a dolly zoom, what is a dolly zoom, mind-blowing camera trick, filmmaking for beginners, explain dolly zoom, visual effects explained, famous dolly zoom scenes, film production"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -830,7 +836,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958616",
-      "updated_at": "2026-05-31T17:24:21.958620"
+      "updated_at": "2026-06-02T16:32:00.262531"
     }
   },
   {
