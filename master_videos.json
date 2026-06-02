@@ -848,20 +848,26 @@
       "drive_link": "https://drive.google.com/file/d/1U0D5Ywj40RGFr6IHWUs9D_zhV2YZ0IaW/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Which Chemical Is This? Guy's Recent News Vral Which Chemical ls This? Which Chemical ls This?e Recent News Viral Recent News VVral Now [ understandll",
+      "ocr_generated_at": "2026-06-02T22:27:50.802964"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "LSV-Nib84R0",
+        "uploaded_at": "2026-06-02T22:28:04.386338",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The identification and explanation of an unknown chemical that has recently garnered viral attention or news coverage.\nTarget Audience: Curious individuals, science enthusiasts, people interested in viral trends, those seeking quick educational content or satisfying reveals.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of a hidden/unknown fact (the chemical's identity and significance) that resolves a recent mystery or trending topic. The \"Now I understand\" implies a satisfying \"aha!\" moment.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  WHAT IS THIS VIRAL CHEMICAL?! 🤯 (Thumbnail: \"Mystery Chemical\")\n2.  The Chemical That Broke The Internet (Revealed!)\n3.  Finally! The Truth Behind This Viral Chemical! 🧪\n4.  Recent News: You WON'T Believe This Chemical's Identity!\n5.  Which Chemical Is This? Now I Understand EVERYTHING!\n\n[YOUTUBE_DESCRIPTION]\n\nHave you been seeing this chemical everywhere? 👀 It's been sparking questions across news and social media, and for good reason! In this quick Short, we're finally unmasking the mystery substance and explaining *why* it's gone viral. Get ready for an \"aha!\" moment that makes everything click. You'll say \"Now I understand!\" after this mind-blowing reveal. Don't miss out on the science secret everyone's talking about!\n\n[YOUTUBE_HASHTAGS]\n#WhichChemicalIsThis #MysteryChemical #ViralScience #ScienceFacts #ChemicalExplained #DidYouKnow #Mindblown #ScienceTok #ChemistryFacts #EducationalShorts #TrendingNow #ScienceMystery #FactCheck #CuriosityKilledTheCat #ExplainThis #ChemicalReveal #UnexpectedTruth #LearnOnTikTok #ScienceCommunity #Shorts\n\n[YOUTUBE_KEYWORDS]\nWhich Chemical Is This, viral chemical, mystery chemical, chemical explanation, science facts, trending chemical, recent news chemical, what is this chemical, chemical identity, science shorts, chemistry explained, mind blowing facts, chemical reveal, science mystery solved, educational science\n\n[BONUS_CTA]\n1.  Did this chemical surprise you? Tell us your guess in the comments! 👇\n2.  Like if you finally understand this viral mystery! ❤️\n3.  Subscribe for more rapid-fire science reveals! 🔔",
+          "title": "WHAT IS THIS VIRAL CHEMICAL?! 🤯 (Thumbnail: \"Mystery Chemical\")",
+          "description": "Have you been seeing this chemical everywhere? 👀 It's been sparking questions across news and social media, and for good reason! In this quick Short, we're finally unmasking the mystery substance and explaining *why* it's gone viral. Get ready for an \"aha!\" moment that makes everything click. You'll say \"Now I understand!\" after this mind-blowing reveal. Don't miss out on the science secret everyone's talking about!",
+          "hashtags": "#WhichChemicalIsThis #MysteryChemical #ViralScience #ScienceFacts #ChemicalExplained #DidYouKnow #Mindblown #ScienceTok #ChemistryFacts #EducationalShorts #TrendingNow #ScienceMystery #FactCheck #CuriosityKilledTheCat #ExplainThis #ChemicalReveal #UnexpectedTruth #LearnOnTikTok #ScienceCommunity #Shorts",
+          "keywords": "Which Chemical Is This, viral chemical, mystery chemical, chemical explanation, science facts, trending chemical, recent news chemical, what is this chemical, chemical identity, science shorts, chemistry explained, mind blowing facts, chemical reveal, science mystery solved, educational science"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -914,7 +920,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958671",
-      "updated_at": "2026-05-31T17:24:21.958674"
+      "updated_at": "2026-06-02T22:28:04.386371"
     }
   },
   {
