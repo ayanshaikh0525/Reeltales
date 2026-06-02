@@ -680,20 +680,26 @@
       "drive_link": "https://drive.google.com/file/d/1IL4ouXrXwoF6U0a6LlmsTclS6928JBEr/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Watch till the end Chinese inventor built a trash can that chases your trash FI= trash can that chases trash your",
+      "ocr_generated_at": "2026-06-02T12:01:52.289008"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "c5CG0bK-lFA",
+        "uploaded_at": "2026-06-02T12:02:12.059131",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A Chinese inventor's smart, mobile trash can that actively \"chases\" and collects trash.\nTarget Audience: Tech enthusiasts, innovation lovers, curious general audience, smart home product seekers, people interested in viral or quirky inventions.\nEmotion: Curiosity\nViral Angle: Unexpected innovation / Mind-blowing reveal of a common object transformed into futuristic tech.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  This Trash Can CHASES Your Trash! 🤯 (Chinese Inventor Genius)\n2.  You Won't Believe This Smart Trash Can Exists! #FutureHome\n3.  Chinese Inventor Just Revolutionized The Trash Can?!\n4.  Forget Walking: The Trash Can That Comes To YOU! 💨\n5.  The CRAZIEST Smart Gadget You'll See Today! 🗑️\n\n[YOUTUBE_DESCRIPTION]\n\n🤯 Ever wished your trash can would just come to you? Well, a brilliant Chinese inventor just made that a reality! Forget boring bins, this is a *mobile* trash can that actually *chases* your trash. 🗑️💨\n\nWatch till the end to see this mind-blowing invention in action! Is this the ultimate lazy tech solution or a stroke of genius? What do YOU think about the future of home tech? Let us know in the comments! 👇\n\n#SmartTrashCan #FutureTech #ChineseInvention\n\n[YOUTUBE_HASHTAGS]\n\n#shorts #invention #tech #innovation #future #smarthome #robotics #chinesetech #gadget #engineering #newtech #design #viraltech #mindblown #coolinventions #dailyfacts #futureisnow #smartliving #autonomoustech #techshorts\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keyword: Smart trash can, trash can invention, Chinese inventor trash can\nSecondary Keywords: Moving trash can, robot trash can, future trash can, revolutionary trash can, innovative tech, home automation, creative invention\nLong-tail Keywords: Chinese inventor builds smart trash can, watch the trash can that chases your trash, amazing invention smart home, future of waste management tech, how does smart trash can work\n\n[BONUS_CTA]\n\n1.  What's the craziest invention YOU'VE seen? Share below! 👇\n2.  Hit like if you NEED this smart trash can in your life! ❤️\n3.  Follow for more mind-blowing tech and daily discoveries! ✨",
+          "title": "This Trash Can CHASES Your Trash! 🤯 (Chinese Inventor Genius)",
+          "description": "🤯 Ever wished your trash can would just come to you? Well, a brilliant Chinese inventor just made that a reality! Forget boring bins, this is a *mobile* trash can that actually *chases* your trash. 🗑️💨\n\nWatch till the end to see this mind-blowing invention in action! Is this the ultimate lazy tech solution or a stroke of genius? What do YOU think about the future of home tech? Let us know in the comments! 👇\n\n#SmartTrashCan #FutureTech #ChineseInvention",
+          "hashtags": "#shorts #invention #tech #innovation #future #smarthome #robotics #chinesetech #gadget #engineering #newtech #design #viraltech #mindblown #coolinventions #dailyfacts #futureisnow #smartliving #autonomoustech #techshorts",
+          "keywords": "Primary Keyword: Smart trash can, trash can invention, Chinese inventor trash can\nSecondary Keywords: Moving trash can, robot trash can, future trash can, revolutionary trash can, innovative tech, home automation, creative invention\nLong-tail Keywords: Chinese inventor builds smart trash can, watch the trash can that chases your trash, amazing invention smart home, future of waste management tech, how does smart trash can work"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -746,7 +752,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958523",
-      "updated_at": "2026-05-31T17:24:21.958526"
+      "updated_at": "2026-06-02T12:02:12.059156"
     }
   },
   {
