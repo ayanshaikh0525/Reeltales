@@ -596,20 +596,26 @@
       "drive_link": "https://drive.google.com/file/d/1mPM_WnBx0qKffy40VFWVJDUu0g6gsvdr/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Photographer Captures Rare Melanistic Leopard Its Hidden Rosettes Only Visible Under Moonlight VaryRare",
+      "ocr_generated_at": "2026-06-02T07:22:06.479787"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "_8s9uwZh7gg",
+        "uploaded_at": "2026-06-02T07:22:21.545144",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Rare Melanistic Leopard with hidden rosettes visible only under moonlight, captured by a photographer.\nTarget Audience: Wildlife enthusiasts, nature lovers, photography aficionados, people interested in rare animals, natural mysteries, and stunning visual content.\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal (the rosettes' unique visibility under moonlight) combined with rare footage of an elusive animal.\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n\n1.  You Won't BELIEVE What Appears on This Rare Leopard in Moonlight! 🤯\n2.  The Secret of the Melanistic Leopard: Hidden Rosettes Revealed ONLY by Moonlight!\n3.  Photographer Captures World's Rarest Leopard – Its Pattern is a Moonlight Mystery!\n4.  This Black Leopard Hides an Incredible Secret... Only Moonlight Shows It!\n5.  Melanistic Leopard's Hidden Beauty: Watch its Rosettes Appear Under Moonlight!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to be absolutely stunned! 🤩 A lucky photographer captured an incredibly rare melanistic leopard, but that's not even the wildest part. Its signature rosettes, usually hidden by its dark fur, are *only* visible under the ethereal glow of moonlight! 🌙 Witness this breathtaking natural phenomenon that few have ever seen. What other secrets does the wild hold?\n\nHit like if you're amazed by nature's mysteries! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#MelanisticLeopard #RareAnimals #WildlifePhotography #BigCats #NatureMystery #HiddenBeauty #MoonlightMagic #AnimalFacts #NocturnalAnimals #BlackLeopard #Wildlife #RareDiscovery #VaryRare #AnimalLover #Conservation #NatureIsAmazing #Leopard #WildAnimals #AmazingAnimals #WildlifeShorts #RareSight\n\n[YOUTUBE_KEYWORDS]\n\nMelanistic leopard, rare leopard, black leopard, hidden rosettes, moonlight leopard, wildlife photography, rare animals, nature mystery, big cats, animal facts, nocturnal animals, secret patterns, vary rare, wildlife shorts, amazing nature, animal discovery, leopard rosettes, camouflage, exotic animals, animal documentaries.\n\n[BONUS_CTA]\n\n1.  Did you know this was possible? Let me know in the comments! 👇\n2.  Share this incredible discovery with someone who loves wildlife! ➡️\n3.  Follow for more mind-blowing moments from the wild! 🔔",
+          "title": "You Won't BELIEVE What Appears on This Rare Leopard in Moonlight! 🤯",
+          "description": "Prepare to be absolutely stunned! 🤩 A lucky photographer captured an incredibly rare melanistic leopard, but that's not even the wildest part. Its signature rosettes, usually hidden by its dark fur, are *only* visible under the ethereal glow of moonlight! 🌙 Witness this breathtaking natural phenomenon that few have ever seen. What other secrets does the wild hold?\n\nHit like if you're amazed by nature's mysteries! 👇",
+          "hashtags": "#MelanisticLeopard #RareAnimals #WildlifePhotography #BigCats #NatureMystery #HiddenBeauty #MoonlightMagic #AnimalFacts #NocturnalAnimals #BlackLeopard #Wildlife #RareDiscovery #VaryRare #AnimalLover #Conservation #NatureIsAmazing #Leopard #WildAnimals #AmazingAnimals #WildlifeShorts #RareSight",
+          "keywords": "Melanistic leopard, rare leopard, black leopard, hidden rosettes, moonlight leopard, wildlife photography, rare animals, nature mystery, big cats, animal facts, nocturnal animals, secret patterns, vary rare, wildlife shorts, amazing nature, animal discovery, leopard rosettes, camouflage, exotic animals, animal documentaries."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -662,7 +668,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958469",
-      "updated_at": "2026-05-31T17:24:21.958472"
+      "updated_at": "2026-06-02T07:22:21.545169"
     }
   },
   {
