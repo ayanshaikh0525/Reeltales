@@ -512,20 +512,26 @@
       "drive_link": "https://drive.google.com/file/d/135GSDkBrXNciXHvTHZ5VzmK9cfBTTAPO/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Ever seen a V24 Engine? it's a V24, 63-iter diesel monster MST it' s a V24, 63-liter ~Zvezda it's a V24, 63-liter vezd it s a V24, 63-liter Zvezda MSQ 7ezda MSo da ^ Exhales smoke clouds Like a chimney",
+      "ocr_generated_at": "2026-06-02T02:52:55.142540"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "aeSAPKum_FE",
+        "uploaded_at": "2026-06-02T02:53:10.831932",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Zvezda V24, 63-liter Diesel Engine\nTarget Audience: Engine enthusiasts, mechanics, engineers, industrial technology fans, general audience curious about powerful machinery, automotive fanatics.\nEmotion: Surprise\nViral Angle: Rare footage of an incredibly powerful and unusual \"diesel monster,\" a mind-blowing reveal of its sheer scale.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  The V24 Diesel Monster You've NEVER Seen.\n2.  Zvezda V24: 63-Liter Diesel Engine REVEALED!\n3.  Is This The BIGGEST Diesel Engine? (V24, 63L)\n4.  V24, 63-Liter: A Diesel Engine That Breathes Smoke!\n5.  Mind BLOWN by this Zvezda V24 Diesel!\n\n[YOUTUBE_DESCRIPTION]\nPrepare to be amazed by the incredible Zvezda V24, a colossal 63-liter diesel engine that's truly a marvel of engineering! 🤯 Witness this V24 monster in action as it exhales smoke clouds like a chimney. Have you ever seen an engine this powerful or unique? This 63-liter diesel powerhouse is unlike anything you've encountered. Let us know what you think about this industrial marvel in the comments below! 👇 #V24Engine #DieselPower #EngineeringMarvel #Zvezda\n\n[YOUTUBE_HASHTAGS]\n#V24Engine\n#DieselEngine\n#Zvezda\n#Engineering\n#Technology\n#BigEngine\n#EnginePower\n#IndustrialEngine\n#HeavyMachinery\n#MechanicalEngineering\n#MechanicLife\n#EngineFacts\n#AmazingTech\n#Mindblown\n#RareEngines\n#Shorts\n#ViralVideo\n#DidYouKnow\n#Machine\n#Innovation\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: V24 engine\nSecondary keywords: Zvezda engine, 63-liter diesel, diesel monster, powerful engine, industrial engine\nLong-tail keywords: V24 63-liter diesel monster, Zvezda V24 engine explained, what is a V24 engine, biggest V engine, incredible diesel technology\n\n[BONUS_CTA]\n1.  Hit like if you're as amazed by this V24 monster as we are!\n2.  What's the most unique engine you've ever seen? Share in the comments!\n3.  Subscribe for more mind-blowing engineering and tech discoveries!",
+          "title": "The V24 Diesel Monster You've NEVER Seen",
+          "description": "Prepare to be amazed by the incredible Zvezda V24, a colossal 63-liter diesel engine that's truly a marvel of engineering! 🤯 Witness this V24 monster in action as it exhales smoke clouds like a chimney. Have you ever seen an engine this powerful or unique? This 63-liter diesel powerhouse is unlike anything you've encountered. Let us know what you think about this industrial marvel in the comments below! 👇 #V24Engine #DieselPower #EngineeringMarvel #Zvezda",
+          "hashtags": "#V24Engine\n#DieselEngine\n#Zvezda\n#Engineering\n#Technology\n#BigEngine\n#EnginePower\n#IndustrialEngine\n#HeavyMachinery\n#MechanicalEngineering\n#MechanicLife\n#EngineFacts\n#AmazingTech\n#Mindblown\n#RareEngines\n#Shorts\n#ViralVideo\n#DidYouKnow\n#Machine\n#Innovation",
+          "keywords": "Primary keyword: V24 engine\nSecondary keywords: Zvezda engine, 63-liter diesel, diesel monster, powerful engine, industrial engine\nLong-tail keywords: V24 63-liter diesel monster, Zvezda V24 engine explained, what is a V24 engine, biggest V engine, incredible diesel technology"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -578,7 +584,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958408",
-      "updated_at": "2026-05-31T17:24:21.958411"
+      "updated_at": "2026-06-02T02:53:10.831966"
     }
   },
   {
