@@ -1184,20 +1184,26 @@
       "drive_link": "https://drive.google.com/file/d/1TWnPEDe0wcTp66En9PmeDG5T9hIA1lMf/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Anormal drone footage Untilboo A normal drone footage Untiloo bear chasing a man chasing amam chasing auam chasinga mam A bear",
+      "ocr_generated_at": "2026-06-03T15:29:31.145280"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "zfW1_mhSQFs",
+        "uploaded_at": "2026-06-03T15:29:42.211209",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Bear chasing a man caught on drone footage\nTarget Audience: Nature enthusiasts, thrill-seekers, survivalists, drone enthusiasts, people interested in shocking real-life events.\nEmotion: Shock\nViral Angle: Rare/Shocking Footage & Unexpected Twist (a bear chasing a man from an aerial perspective)\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n1.  Drone Catches UNBELIEVABLE Bear Chase! 😱\n2.  Man Chased by Bear: What Happened Next? (Raw Drone Footage)\n3.  Wildest Bear Encounter Caught on Drone! Must See!\n4.  Heart-Stopping: Bear Hunts Man from Above! 🤯\n5.  Did He Escape? Intense Bear Chase Goes Viral!\n\n[YOUTUBE_DESCRIPTION]\nWatch this shocking drone footage that captures a heart-pounding moment: a bear relentlessly chasing a man through the wilderness! This isn't your average nature video; witness the raw, intense struggle for survival unfold from an aerial perspective.\n\nThis unbelievable wildlife encounter will leave you on the edge of your seat. What would *you* do if you were chased by a bear? See the sheer speed and power of nature's apex predator in action. Don't miss this viral footage that's sparking debate across the internet!\n\n#BearChase #DroneFootage #WildlifeEncounter #Survival\n\n[YOUTUBE_HASHTAGS]\n#Shorts\n#YouTubeShorts\n#ViralVideo\n#Trending\n#Wildlife\n#Bear\n#BearAttack\n#DroneFootage\n#Nature\n#Survival\n#WildAnimals\n#AnimalAttack\n#RealLifeDrama\n#OutdoorAdventure\n#Shocking\n#Unbelievable\n#MustWatch\n#CaughtOnCamera\n#WildEncounters\n#Adrenaline\n\n[YOUTUBE_KEYWORDS]\nbear chase drone footage, man chased by bear, wildlife encounter, bear attack, survival, drone captures bear chasing man, unbelievable bear chase video, what to do if a bear chases you, intense animal chase, raw drone footage bear, wild animal attack\n\n[BONUS_CTA]\n1.  What would YOU do in this situation? Tell us in the comments! 👇\n2.  Tap 'Like' if this made your heart race, then share with a friend!\n3.  Subscribe for more shocking real-life footage and wild animal encounters!",
+          "title": "Drone Catches UNBELIEVABLE Bear Chase! 😱",
+          "description": "Watch this shocking drone footage that captures a heart-pounding moment: a bear relentlessly chasing a man through the wilderness! This isn't your average nature video; witness the raw, intense struggle for survival unfold from an aerial perspective.\n\nThis unbelievable wildlife encounter will leave you on the edge of your seat. What would *you* do if you were chased by a bear? See the sheer speed and power of nature's apex predator in action. Don't miss this viral footage that's sparking debate across the internet!\n\n#BearChase #DroneFootage #WildlifeEncounter #Survival",
+          "hashtags": "#Shorts\n#YouTubeShorts\n#ViralVideo\n#Trending\n#Wildlife\n#Bear\n#BearAttack\n#DroneFootage\n#Nature\n#Survival\n#WildAnimals\n#AnimalAttack\n#RealLifeDrama\n#OutdoorAdventure\n#Shocking\n#Unbelievable\n#MustWatch\n#CaughtOnCamera\n#WildEncounters\n#Adrenaline",
+          "keywords": "bear chase drone footage, man chased by bear, wildlife encounter, bear attack, survival, drone captures bear chasing man, unbelievable bear chase video, what to do if a bear chases you, intense animal chase, raw drone footage bear, wild animal attack"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1250,7 +1256,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958868",
-      "updated_at": "2026-05-31T17:24:21.958871"
+      "updated_at": "2026-06-03T15:29:42.211245"
     }
   },
   {
