@@ -932,20 +932,26 @@
       "drive_link": "https://drive.google.com/file/d/1INarkipE_5mvDAvyJP7rF51hU84P57tg/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "just w8 and Watched This is an Infinity Candle This isan Infinity Candle This is an",
+      "ocr_generated_at": "2026-06-03T00:26:23.851171"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "wDqjf6dVGSg",
+        "uploaded_at": "2026-06-03T00:26:35.639974",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The captivating and seemingly endless visual effect of an \"Infinity Candle.\"\nTarget Audience: Individuals interested in unique gadgets, home decor, optical illusions, satisfying visuals, innovative products, and gifting ideas.\nEmotion: Curiosity (Dominant: How does it work? What makes it infinite?) and Surprise (at the unexpected visual effect).\nViral Angle: Mind-blowing reveal / Hidden mechanism / Unexpected visual effect. The concept of \"infinity\" applied to a candle is inherently intriguing and visually captivating.\nContent Category: Mystery (how it works), Facts (about a unique object), Educational (explaining the concept). I'll choose **Mystery**.\n\n[YOUTUBE_TITLES]\n\n1.  You Won't BELIEVE How This \"Infinity Candle\" Works!\n2.  🤯 Watch This Candle Burn FOREVER?! (Infinity Candle Revealed)\n3.  Is This The World's Most Mesmerizing Candle? #InfinityCandle\n4.  The SECRET Behind The INFINITY CANDLE (Mind Blown!)\n5.  What Happens When You Light an \"Infinity Candle\"? Wait For It!\n\n[YOUTUBE_DESCRIPTION]\n\nEver seen a candle that never seems to end? 🤔 Prepare to have your mind blown by the Infinity Candle! This viral sensation isn't just a decoration; it's a clever optical illusion that creates a mesmerizing, endless flame effect. Watch till the end to see the magic unfold and discover why everyone is talking about this unique piece of home decor. Perfect for sparking conversation or adding a touch of wonder to any room!\n\n#InfinityCandle #MindBlown #ViralShorts #CoolGadgets #OpticalIllusion #WaitForIt\n\n[YOUTUBE_HASHTAGS]\n\nLayer 1:\n#viralshorts\n#satisfying\n#mindblown\n#trending\n#waitforit\n\nLayer 2:\n#infinitycandle\n#uniquecandle\n#homedecor\n#candlemagic\n#opticalillusion\n#coolgadgets\n#productreveal\n#endlessflame\n#mysterysolved\n#howitworks\n\nLayer 3:\n#shortsvideo\n#whatisthis\n#unbelievable\n#mesmerizing\n#musthave\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: Infinity Candle\nSecondary keywords: Endless flame, unique candle, optical illusion, cool gadgets\nLong-tail keywords: How infinity candle works, what is an infinity candle, infinity candle explained, best unique home decor, viral candle trend, perpetual candle.\n\n[BONUS_CTA]\n\n1.  What do YOU think makes it infinite? Share your theories in the comments! 👇\n2.  Tap the like button if you're mesmerized by this \"Infinity Candle\"! ✨\n3.  Follow for more mind-blowing discoveries and viral innovations! 🚀",
+          "title": "You Won't BELIEVE How This \"Infinity Candle\" Works!",
+          "description": "Ever seen a candle that never seems to end? 🤔 Prepare to have your mind blown by the Infinity Candle! This viral sensation isn't just a decoration; it's a clever optical illusion that creates a mesmerizing, endless flame effect. Watch till the end to see the magic unfold and discover why everyone is talking about this unique piece of home decor. Perfect for sparking conversation or adding a touch of wonder to any room!\n\n#InfinityCandle #MindBlown #ViralShorts #CoolGadgets #OpticalIllusion #WaitForIt",
+          "hashtags": "Layer 1:\n#viralshorts\n#satisfying\n#mindblown\n#trending\n#waitforit\n\nLayer 2:\n#infinitycandle\n#uniquecandle\n#homedecor\n#candlemagic\n#opticalillusion\n#coolgadgets\n#productreveal\n#endlessflame\n#mysterysolved\n#howitworks\n\nLayer 3:\n#shortsvideo\n#whatisthis\n#unbelievable\n#mesmerizing\n#musthave",
+          "keywords": "Primary keyword: Infinity Candle\nSecondary keywords: Endless flame, unique candle, optical illusion, cool gadgets\nLong-tail keywords: How infinity candle works, what is an infinity candle, infinity candle explained, best unique home decor, viral candle trend, perpetual candle."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -998,7 +1004,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958721",
-      "updated_at": "2026-05-31T17:24:21.958725"
+      "updated_at": "2026-06-03T00:26:35.639998"
     }
   },
   {
