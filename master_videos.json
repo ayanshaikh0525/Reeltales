@@ -1016,20 +1016,26 @@
       "drive_link": "https://drive.google.com/file/d/1LqqCT97hDHzqwpZkHeZkxM-jJoCAioGS/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "at such speed in winter season Oh Osm:. Viral News Fog Fog at such speed Vral News Now | understand Now Iunderstand Now [ understand",
+      "ocr_generated_at": "2026-06-03T05:59:47.292550"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "pQhxRT2xkcA",
+        "uploaded_at": "2026-06-03T06:00:02.549552",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Unusually fast-moving winter fog / Bizarre weather phenomenon\nTarget Audience: People interested in natural mysteries, unique weather events, viral videos, and short, surprising content.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal about a seemingly ordinary natural event (fog) that behaves in an extraordinary way.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  This Winter Fog Will SHOCK You! 🤯\n2.  Fastest Fog Ever? Winter Mystery Finally Solved!\n3.  You Won't Believe How Fast This Fog Moves!\n4.  The Secret Behind Winter's Viral \"Speed Fog\" Revealed!\n5.  Why is This Winter Fog Going VIRAL? Now I Get It!\n\n[YOUTUBE_DESCRIPTION]\nThis incredible viral moment captures winter fog moving at an unbelievable speed! 🤯 Many are calling it 'viral news' because of how bizarre and captivating it is. Have you ever witnessed anything like this? The way it moves will leave you stunned. Stick around to finally understand what's happening. You won't look at winter fog the same way! #WinterFog #WeatherMystery\n\n[YOUTUBE_HASHTAGS]\n#Viral #Shorts #Trending #ForYou #Nature #Weather #Fog #Winter #Phenomenon #Mystery #ScienceFacts #Atmosphere #StrangeWeather #Mindblown #Unexpected #DidYouKnow #Explained #NaturalWonder #ShortsFeed #WatchTillTheEnd\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: fast winter fog\nSecondary keywords: viral fog, speed fog, fog mystery, winter weather phenomenon, natural surprise\nLong-tail keywords: why does fog move so fast, winter fog explanation, bizarre weather events, viral weather videos, what causes fast moving fog in winter, how fog moves quickly\n\n[BONUS_CTA]\n1.  What's the strangest weather you've ever seen? Share your story in the comments! 👇\n2.  Hit 'Save' if this blew your mind! Send it to a friend who loves mysteries! ↗️\n3.  Subscribe for more mind-blowing natural phenomena and viral explanations! ✨",
+          "title": "This Winter Fog Will SHOCK You! 🤯",
+          "description": "This incredible viral moment captures winter fog moving at an unbelievable speed! 🤯 Many are calling it 'viral news' because of how bizarre and captivating it is. Have you ever witnessed anything like this? The way it moves will leave you stunned. Stick around to finally understand what's happening. You won't look at winter fog the same way! #WinterFog #WeatherMystery",
+          "hashtags": "#Viral #Shorts #Trending #ForYou #Nature #Weather #Fog #Winter #Phenomenon #Mystery #ScienceFacts #Atmosphere #StrangeWeather #Mindblown #Unexpected #DidYouKnow #Explained #NaturalWonder #ShortsFeed #WatchTillTheEnd",
+          "keywords": "Primary keyword: fast winter fog\nSecondary keywords: viral fog, speed fog, fog mystery, winter weather phenomenon, natural surprise\nLong-tail keywords: why does fog move so fast, winter fog explanation, bizarre weather events, viral weather videos, what causes fast moving fog in winter, how fog moves quickly"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1082,7 +1088,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958771",
-      "updated_at": "2026-05-31T17:24:21.958773"
+      "updated_at": "2026-06-03T06:00:02.549573"
     }
   },
   {
