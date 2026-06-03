@@ -1268,20 +1268,26 @@
       "drive_link": "https://drive.google.com/file/d/1fIbdGs63ybHvQwBls1s-dEBv6n6d_uyI/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "perfect Paper Plane A marvel @f Aerodynamics and Gyroscopic Stability supplies: paper (x1) Here's how to Make one at home tuck in fold it yourself, It also requires a Special throwing Technique top Try fold again it yourselfg smooth out surface et voila",
+      "ocr_generated_at": "2026-06-03T19:45:45.272910"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "S0hcrb8mi_c",
+        "uploaded_at": "2026-06-03T19:46:33.720829",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: How to make a perfect, stable paper airplane with aerodynamic principles.\nTarget Audience: DIY enthusiasts, children/parents looking for fun projects, science/hobby enthusiasts, anyone curious about simple aerodynamics.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (of its stability and flight) + Hidden technique (special throwing)\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n1.  🤯 The SECRET to a Paper Plane That Flies FOREVER!\n2.  Build the ULTIMATE Aerodynamic Paper Plane! (Easy Guide)\n3.  THIS Paper Plane Has Gyroscopic Stability?! (Must See!)\n4.  Stop Scrolling: Learn the PERFECT Paper Plane Fold! ✈️\n5.  Mind-Blown! How to Make a Paper Plane Marvel\n\n[YOUTUBE_DESCRIPTION]\nEver wondered how to make a paper plane that doesn't just fly, but soars with incredible stability and precision? This isn't just any paper airplane tutorial! We're diving into the secrets of aerodynamics and gyroscopic stability to craft a true marvel.\n\nFollow these simple steps to fold your own perfect paper plane, then discover the special throwing technique that makes all the difference. Get ready to impress your friends and rediscover the joy of flight!\n\nWhat's the furthest your paper plane has ever flown? Let us know in the comments! 👇\n\n[YOUTUBE_HASHTAGS]\n#PaperPlane #DIY #Aerodynamics #PaperCrafts #STEM #ScienceFacts #Origami #HowTo #Educational #LearnOnShorts #Shorts #ViralDIY #Crafting #Hobbies #MindBlown #PhysicsFun #EasyCrafts #FoldItYourself #PaperAirplane #AmazingFacts\n\n[YOUTUBE_KEYWORDS]\nprimary keyword: perfect paper plane\nsecondary keywords: how to make a paper plane, aerodynamic paper plane, gyroscopic stability, paper airplane tutorial, paper plane design\nlong-tail keywords: make a paper plane that flies far, easy paper airplane tutorial for kids, best paper plane folding steps, special throwing technique paper plane, how to fold a stable paper plane\n\n[BONUS_CTA]\n1.  Challenge: Make one and show us your flight! #PerfectPlaneChallenge\n2.  Did yours fly perfectly? Double tap if it did! ❤️\n3.  Hit SUBSCRIBE for more mind-blowing DIY secrets!",
+          "title": "🤯 The SECRET to a Paper Plane That Flies FOREVER!",
+          "description": "Ever wondered how to make a paper plane that doesn't just fly, but soars with incredible stability and precision? This isn't just any paper airplane tutorial! We're diving into the secrets of aerodynamics and gyroscopic stability to craft a true marvel.\n\nFollow these simple steps to fold your own perfect paper plane, then discover the special throwing technique that makes all the difference. Get ready to impress your friends and rediscover the joy of flight!\n\nWhat's the furthest your paper plane has ever flown? Let us know in the comments! 👇",
+          "hashtags": "#PaperPlane #DIY #Aerodynamics #PaperCrafts #STEM #ScienceFacts #Origami #HowTo #Educational #LearnOnShorts #Shorts #ViralDIY #Crafting #Hobbies #MindBlown #PhysicsFun #EasyCrafts #FoldItYourself #PaperAirplane #AmazingFacts",
+          "keywords": "primary keyword: perfect paper plane\nsecondary keywords: how to make a paper plane, aerodynamic paper plane, gyroscopic stability, paper airplane tutorial, paper plane design\nlong-tail keywords: make a paper plane that flies far, easy paper airplane tutorial for kids, best paper plane folding steps, special throwing technique paper plane, how to fold a stable paper plane"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1334,7 +1340,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958920",
-      "updated_at": "2026-05-31T17:24:21.958923"
+      "updated_at": "2026-06-03T19:46:33.720855"
     }
   },
   {
