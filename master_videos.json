@@ -1352,20 +1352,26 @@
       "drive_link": "https://drive.google.com/file/d/1uwFVcOEtzKPPrSuzNJiu4v7Vb8WjM6vU/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "A raw look inside Your Transmission raw look inside Each gear ratio determines torque and speed and watching them work together gives a true appreciation for automotive engineerimg: torque and speed} and automotive engineering: torque and speedh and Each gear ratio deteruines torque and speedh an",
+      "ocr_generated_at": "2026-06-03T22:27:14.534746"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "mKBTdAC39lo",
+        "uploaded_at": "2026-06-03T22:27:31.195254",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The internal mechanics of a car transmission, specifically focusing on gear ratios, torque, speed, and automotive engineering.\nTarget Audience: Automotive enthusiasts, mechanics, engineering students, people curious about how machines work, car owners, DIYers.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (showing the complex internal workings of a familiar object, generating a sense of wonder and appreciation).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  🤯 See Inside Your Car's Transmission!\n2.  How Car Transmissions *Really* Work! (Mind Blown)\n3.  The Genius of Gear Ratios: Torque & Speed Revealed\n4.  Automotive Engineering Explained: Transmission Guts\n5.  Raw Look: What Happens Inside Your Car's Gearbox?\n\n*Suggested Thumbnail Text:* GEARS UNLOCKED\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered what's truly happening inside your car's transmission? 🤯 Get a raw, satisfying look at the complex gears and mechanisms that control torque and speed with every shift! This short reveals the incredible precision and genius of automotive engineering. From understanding how each gear ratio works to appreciating the intricate dance of components, this video will give you a new appreciation for your vehicle. Prepare to be amazed by the hidden world that powers your ride!\n\n[YOUTUBE_HASHTAGS]\n\n#Cars\n#Automotive\n#Engineering\n#Mechanics\n#Tech\n#CarTransmission\n#Gearbox\n#Torque\n#Speed\n#HowItWorks\n#AutoRepair\n#MechanicalEngineering\n#GearRatios\n#CarMaintenance\n#MindBlown\n#Satisfying\n#LearnOnYouTube\n#ScienceFacts\n#MotorVehicle\n#InsideLook\n\n[YOUTUBE_KEYWORDS]\n\ncar transmission, gear ratio, automotive engineering, torque, speed, how it works, mechanics, gearbox, transmission explanation, car repair, vehicle mechanics, engineering principles, internal combustion engine, auto parts, car maintenance, machine internals\n\n[BONUS_CTA]\n\n1.  Mind blown? Drop a 🤯 in the comments!\n2.  Follow for more incredible engineering secrets!\n3.  Tag a car enthusiast who needs to see this!",
+          "title": "🤯 See Inside Your Car's Transmission!",
+          "description": "Ever wondered what's truly happening inside your car's transmission? 🤯 Get a raw, satisfying look at the complex gears and mechanisms that control torque and speed with every shift! This short reveals the incredible precision and genius of automotive engineering. From understanding how each gear ratio works to appreciating the intricate dance of components, this video will give you a new appreciation for your vehicle. Prepare to be amazed by the hidden world that powers your ride!",
+          "hashtags": "#Cars\n#Automotive\n#Engineering\n#Mechanics\n#Tech\n#CarTransmission\n#Gearbox\n#Torque\n#Speed\n#HowItWorks\n#AutoRepair\n#MechanicalEngineering\n#GearRatios\n#CarMaintenance\n#MindBlown\n#Satisfying\n#LearnOnYouTube\n#ScienceFacts\n#MotorVehicle\n#InsideLook",
+          "keywords": "car transmission, gear ratio, automotive engineering, torque, speed, how it works, mechanics, gearbox, transmission explanation, car repair, vehicle mechanics, engineering principles, internal combustion engine, auto parts, car maintenance, machine internals"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1418,7 +1424,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.958975",
-      "updated_at": "2026-05-31T17:24:21.958978"
+      "updated_at": "2026-06-03T22:27:31.195283"
     }
   },
   {
