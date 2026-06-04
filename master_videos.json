@@ -1520,20 +1520,26 @@
       "drive_link": "https://drive.google.com/file/d/17upCydOUb9zLzI-ipKv5coLtj0ZnS9cl/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "amera An Al Robot in China suddenly started acting crazy during a demo: dmera Camera nera Cam ra During testing of a new Al Robot in China; the Robot Suddenly started acting Like crazy, getting @ut of Control During testing of a new AI Robot in Chinas the Robot Robot in Chinaz the Robot Like crazy, getting @ut @f mera crd Robot in Chinay the Robot",
+      "ocr_generated_at": "2026-06-04T05:54:53.138481"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "y6OJ1jMfNdY",
+        "uploaded_at": "2026-06-04T05:55:07.203136",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: An AI Robot in China suddenly malfunctioned and went out of control during a demonstration.\nTarget Audience: Tech enthusiasts, AI skeptics, people interested in viral technology fails, those curious about the future of AI.\nEmotion: Surprise\nViral Angle: Unexpected twist (AI going rogue during a demo) & Rare footage (seeing advanced tech malfunction).\nContent Category: AI Content\n\n[YOUTUBE_TITLES]\n1.  🤯 China's AI Robot Went CRAZY During Demo! (Thumbnail Text: AI BROKE)\n2.  AI Robot Malfunction: China's Tech Test Goes Wild! (Thumbnail Text: ROBOT FAILS)\n3.  You Won't Believe What This AI Robot Did! (Thumbnail Text: AI GONE ROGUE)\n4.  The Moment China's AI Robot Lost Control! (Thumbnail Text: OUT OF CONTROL)\n5.  What Happens When an AI Robot Goes Rogue?! (Thumbnail Text: CHINA AI)\n\n[YOUTUBE_DESCRIPTION]\n🤯 You won't believe what happened during this AI robot demo in China! What started as a routine test quickly turned into chaos when a new artificial intelligence robot suddenly went completely out of control.\n\nThis rare footage shows the exact moment the AI robot started acting crazy, leaving onlookers stunned. Was this a simple glitch, a warning sign for the future of AI, or just a hilarious tech fail? Watch until the end to see the unexpected twist unfold! 👇 Let us know what YOU think caused this bizarre robot malfunction in the comments below!\n\n[YOUTUBE_HASHTAGS]\n#AI #Robot #Technology #Shorts #ViralVideo #Trending #AIRobot #TechFail #ArtificialIntelligence #FutureTech #ChinaTech #RobotMalfunction #AIgoneRogue #RobotGoneWild #Robotics #ShockingMoment #MustWatch #UnexpectedTwist #CrazyTech #SciFiIsReal\n\n[YOUTUBE_KEYWORDS]\nAI Robot, Robot malfunction, AI China, out of control robot, crazy robot, Chinese AI robot acting crazy, what happened when AI robot went rogue, unexpected AI robot behavior, AI demonstration fail, future of AI unpredictability, robot gone wild, tech fail, artificial intelligence, robotics news, China tech.\n\n[BONUS_CTA]\n1.  👇 What do YOU think caused this AI meltdown? Tell us in the comments!\n2.  Hit like if you think AI is getting too unpredictable!\n3.  Follow for more shocking tech moments and AI insights!",
+          "title": "🤯 China's AI Robot Went CRAZY During Demo! (Thumbnail Text: AI BROKE)",
+          "description": "🤯 You won't believe what happened during this AI robot demo in China! What started as a routine test quickly turned into chaos when a new artificial intelligence robot suddenly went completely out of control.\n\nThis rare footage shows the exact moment the AI robot started acting crazy, leaving onlookers stunned. Was this a simple glitch, a warning sign for the future of AI, or just a hilarious tech fail? Watch until the end to see the unexpected twist unfold! 👇 Let us know what YOU think caused this bizarre robot malfunction in the comments below!",
+          "hashtags": "#AI #Robot #Technology #Shorts #ViralVideo #Trending #AIRobot #TechFail #ArtificialIntelligence #FutureTech #ChinaTech #RobotMalfunction #AIgoneRogue #RobotGoneWild #Robotics #ShockingMoment #MustWatch #UnexpectedTwist #CrazyTech #SciFiIsReal",
+          "keywords": "AI Robot, Robot malfunction, AI China, out of control robot, crazy robot, Chinese AI robot acting crazy, what happened when AI robot went rogue, unexpected AI robot behavior, AI demonstration fail, future of AI unpredictability, robot gone wild, tech fail, artificial intelligence, robotics news, China tech."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1586,7 +1592,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959075",
-      "updated_at": "2026-05-31T17:24:21.959078"
+      "updated_at": "2026-06-04T05:55:07.203164"
     }
   },
   {
