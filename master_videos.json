@@ -1688,20 +1688,26 @@
       "drive_link": "https://drive.google.com/file/d/1wQ8bNXfsExt5IGMzZ03r-4i5lj3Oez0C/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Wow Beautiful Pelican !! Really",
+      "ocr_generated_at": "2026-06-04T12:42:32.737420"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "jnH2g1tP1tE",
+        "uploaded_at": "2026-06-04T12:42:47.703396",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The striking beauty and wonder of an encountered pelican.\nTarget Audience: Nature enthusiasts, animal lovers, casual scrollers looking for uplifting or awe-inspiring content, people who appreciate natural beauty.\nEmotion: **Surprise** (at the pelican's unexpected beauty/presence) and **Awe** (from witnessing its majesty).\nViral Angle: Unexpected encounter with an unusually beautiful or majestic pelican, triggering a moment of pure wonder and appreciation for nature's marvels.\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n\n1.  Wait till you see THIS pelican! 🤯\n2.  Is this the most beautiful pelican ever? ✨\n3.  My jaw dropped at this stunning pelican!\n4.  You won't believe this majestic pelican encounter!\n5.  Pelican perfection: A truly unforgettable sight!\n\n[YOUTUBE_DESCRIPTION]\n\nJust had the most incredible encounter with a truly beautiful pelican! Its majesty and grace were absolutely breathtaking, I couldn't help but say \"Wow!\" This bird's beauty truly stopped me in my tracks. Have you ever seen a pelican this stunning? Let me know in the comments!\n#Pelican #Wildlife #Nature #Shorts\n\n[YOUTUBE_HASHTAGS]\n\n*Layer 1: Large audience hashtags*\n#Animals #Nature #Wildlife #Birds #AnimalLover #BeautifulAnimals #Discovery #ShortsFeed\n\n*Layer 2: Niche-specific hashtags*\n#Pelican #BirdWatching #Seabirds #CoastalLife #MajesticBirds #Ornithology\n\n*Layer 3: Trend/viral hashtags*\n#ViralAnimals #AmazingNature #WowMoment #NatureIsBeautiful #UnexpectedEncounter #MustSee\n\n[YOUTUBE_KEYWORDS]\n\n*   **Primary keyword:** Pelican\n*   **Secondary keywords:** Beautiful pelican, wildlife, bird, majestic bird, nature\n*   **Long-tail keywords:** Stunning pelican encounter, amazing pelican video, wild pelican footage, beautiful seabird, pelican watching, best pelican moments, real pelican beauty\n\n[BONUS_CTA]\n\n1.  What's the most breathtaking animal you've ever seen? Share below! 👇\n2.  Tap 'Subscribe' for more stunning wildlife moments!\n3.  Double tap if this pelican left you speechless! ❤️",
+          "title": "Wait till you see THIS pelican! 🤯",
+          "description": "Just had the most incredible encounter with a truly beautiful pelican! Its majesty and grace were absolutely breathtaking, I couldn't help but say \"Wow!\" This bird's beauty truly stopped me in my tracks. Have you ever seen a pelican this stunning? Let me know in the comments!\n#Pelican #Wildlife #Nature #Shorts",
+          "hashtags": "*Layer 1: Large audience hashtags*\n#Animals #Nature #Wildlife #Birds #AnimalLover #BeautifulAnimals #Discovery #ShortsFeed\n\n*Layer 2: Niche-specific hashtags*\n#Pelican #BirdWatching #Seabirds #CoastalLife #MajesticBirds #Ornithology\n\n*Layer 3: Trend/viral hashtags*\n#ViralAnimals #AmazingNature #WowMoment #NatureIsBeautiful #UnexpectedEncounter #MustSee",
+          "keywords": "*   **Primary keyword:** Pelican\n*   **Secondary keywords:** Beautiful pelican, wildlife, bird, majestic bird, nature\n*   **Long-tail keywords:** Stunning pelican encounter, amazing pelican video, wild pelican footage, beautiful seabird, pelican watching, best pelican moments, real pelican beauty"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1754,7 +1760,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959175",
-      "updated_at": "2026-05-31T17:24:21.959178"
+      "updated_at": "2026-06-04T12:42:47.703422"
     }
   },
   {
