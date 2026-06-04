@@ -2024,20 +2024,26 @@
       "drive_link": "https://drive.google.com/file/d/1mpJltTwQJgaVO9FYwa8veIBozwMNXTk3/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "No air, no punctures just pure innovation- Airless Tire Evolution Nolair, no punctures pure innovatione No air, no punctures ppure innovation_ A flexible wheel built forl smooth rides and strong grip. A flexible wheel built for smooth rides and strong grip flexible wheel built SmUI Um smooth rides and strong grip: A flexible wheel built aMe ferd Another transforms into track for any terrain Another transforms into a track for any terrain: The future of tires is airless and unstoppable. ind unstoppable: nd unstoppable:",
+      "ocr_generated_at": "2026-06-04T23:05:55.650213"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Ti6-D5J0JYE",
+        "uploaded_at": "2026-06-04T23:06:09.802705",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Airless tire technology and its evolutionary features (flexibility, terrain transformation).\nTarget Audience: Tech enthusiasts, automotive innovators, drivers seeking future solutions, early adopters, science & engineering curious individuals.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of a technology solving common problems (punctures) and adding incredible versatility (terrain transformation).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n1.  NO AIR, NO PUNCTURES: See Future Tires TRANSFORM! 🤯\n2.  Mind-Blown! This Airless Tire Adapts to ANY Terrain 🚀\n3.  Goodbye Flats: The Unstoppable Airless Tire Evolution\n4.  Future of Driving? These Tires Have NO Air!\n5.  Watch: The Tire That Transforms into a Track! (No Air!)\n\n[YOUTUBE_DESCRIPTION]\nGet ready for a glimpse into the future of automotive technology! 🚀 Discover the incredible innovation of airless tires – flexible wheels built for smooth rides, strong grip, and zero punctures. But the biggest reveal? Some models can transform into tracks for any terrain! This isn't just a tire; it's an engineering marvel designed to be unstoppable.\n\nNo more flat tires, just pure innovation. See how these next-gen wheels are set to revolutionize how we travel. What do you think of this game-changing tech? Let us know in the comments! 👇\n\n#AirlessTires #FutureTech #Innovation #Automotive #Engineering\n\n[YOUTUBE_HASHTAGS]\n#AirlessTires\n#FutureTech\n#Innovation\n#Automotive\n#Engineering\n#NoPunctures\n#TireTechnology\n#NextGenTech\n#FutureOfDriving\n#TechTok\n#Mindblown\n#GameChanger\n#Shorts\n#YouTubeShorts\n#ScienceFacts\n#Discovery\n#Gadgets\n#SmartWheels\n#Transportation\n#Unstoppable\n\n[YOUTUBE_KEYWORDS]\nairless tires, future tires, tire technology, no punctures, transforming tires, airless wheel, future mobility, automotive innovation, smart tires, flexible wheels, terrain adaptive tires, future of transport, innovation in engineering, next gen tires, science and technology, how do airless tires work\n\n[BONUS_CTA]\n1.  Would YOU drive on these airless tires? Tell us in the comments! 👇\n2.  Hit that LIKE button if you're ready for the future of driving!\n3.  Subscribe for more mind-blowing tech and innovations!",
+          "title": "NO AIR, NO PUNCTURES: See Future Tires TRANSFORM! 🤯",
+          "description": "Get ready for a glimpse into the future of automotive technology! 🚀 Discover the incredible innovation of airless tires – flexible wheels built for smooth rides, strong grip, and zero punctures. But the biggest reveal? Some models can transform into tracks for any terrain! This isn't just a tire; it's an engineering marvel designed to be unstoppable.\n\nNo more flat tires, just pure innovation. See how these next-gen wheels are set to revolutionize how we travel. What do you think of this game-changing tech? Let us know in the comments! 👇\n\n#AirlessTires #FutureTech #Innovation #Automotive #Engineering",
+          "hashtags": "#AirlessTires\n#FutureTech\n#Innovation\n#Automotive\n#Engineering\n#NoPunctures\n#TireTechnology\n#NextGenTech\n#FutureOfDriving\n#TechTok\n#Mindblown\n#GameChanger\n#Shorts\n#YouTubeShorts\n#ScienceFacts\n#Discovery\n#Gadgets\n#SmartWheels\n#Transportation\n#Unstoppable",
+          "keywords": "airless tires, future tires, tire technology, no punctures, transforming tires, airless wheel, future mobility, automotive innovation, smart tires, flexible wheels, terrain adaptive tires, future of transport, innovation in engineering, next gen tires, science and technology, how do airless tires work"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2090,7 +2096,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960262",
-      "updated_at": "2026-05-31T17:24:21.960266"
+      "updated_at": "2026-06-04T23:06:09.802728"
     }
   },
   {
