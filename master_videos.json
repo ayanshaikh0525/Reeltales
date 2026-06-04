@@ -1436,20 +1436,26 @@
       "drive_link": "https://drive.google.com/file/d/1UfHF20oyMRhro1zgEwLi_dH3IWLCGhq7/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "This Is Just Normal Small Pond The Deadly Lake Beneath The Ocean",
+      "ocr_generated_at": "2026-06-04T00:29:03.515012"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "e2b9HSdLTtM",
+        "uploaded_at": "2026-06-04T00:29:19.584036",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Hypersaline brine pools, also known as \"deadly lakes\" or \"underwater lakes,\" found beneath the ocean's surface.\nTarget Audience: Science enthusiasts, curious minds, marine biology fans, educational content consumers, individuals seeking shocking natural facts.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Unexpected twist (The very concept of a \"lake beneath the ocean\" is counter-intuitive and fascinating, compounded by its deadly nature).\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  The Deadly Lake HIDING Beneath The Ocean Floor?!\n2.  You Won't Believe What's Under The Ocean... (It's a LAKE!)\n3.  Forget Ponds: Meet the Ocean's DEADLIEST Secret!\n4.  What is The 'Lake' at The Bottom of The Ocean? (Mind-Blowing!)\n5.  Deep Sea Mystery: The Lethal Underwater Lake Explained\n\n[YOUTUBE_DESCRIPTION]\n\nDive into the incredible truth behind the 'deadly lake beneath the ocean'! What are these mysterious underwater brine pools, and why are they so lethal to marine life? Prepare to have your mind blown by one of the ocean's most shocking secrets. This isn't just a normal pond; it's a hidden world of danger and wonder. Discover one of Earth's most unusual natural phenomena.\n\n[YOUTUBE_HASHTAGS]\n\n#ocean #mystery #science #facts #discovery #nature #viral #learn #explore #deepsea #marinebiology #underwater #brinepool #oceanography #naturalphenomena #mindblown #didyouknow #unbelievable #shockingfacts #weirdfacts\n\n[YOUTUBE_KEYWORDS]\n\ndeadly lake beneath ocean, underwater lake, ocean mystery, deep sea discovery, brine pool, marine life danger, hypersaline pools, natural phenomena, ocean secrets, weird science, deep sea facts, what is a brine pool, how deadly are underwater lakes\n\n[BONUS_CTA]\n\n1.  🤯 Hit like if this blew your mind!\n2.  What other ocean mysteries amaze you? Comment below!\n3.  Save this video to show your friends later!",
+          "title": "The Deadly Lake HIDING Beneath The Ocean Floor?!",
+          "description": "Dive into the incredible truth behind the 'deadly lake beneath the ocean'! What are these mysterious underwater brine pools, and why are they so lethal to marine life? Prepare to have your mind blown by one of the ocean's most shocking secrets. This isn't just a normal pond; it's a hidden world of danger and wonder. Discover one of Earth's most unusual natural phenomena.",
+          "hashtags": "#ocean #mystery #science #facts #discovery #nature #viral #learn #explore #deepsea #marinebiology #underwater #brinepool #oceanography #naturalphenomena #mindblown #didyouknow #unbelievable #shockingfacts #weirdfacts",
+          "keywords": "deadly lake beneath ocean, underwater lake, ocean mystery, deep sea discovery, brine pool, marine life danger, hypersaline pools, natural phenomena, ocean secrets, weird science, deep sea facts, what is a brine pool, how deadly are underwater lakes"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1502,7 +1508,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959025",
-      "updated_at": "2026-05-31T17:24:21.959028"
+      "updated_at": "2026-06-04T00:29:19.584058"
     }
   },
   {
