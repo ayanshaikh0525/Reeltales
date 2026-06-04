@@ -1604,20 +1604,26 @@
       "drive_link": "https://drive.google.com/file/d/1-Yt7AG2n_DvgDdGQzRA7j_CBBNQiPqeH/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Courtesy of Andy Ruina Just w8 and Watched Courtesy ol Why Does That Happen? Courtes Andy Auina Courtesy 0f Does That Happen? Why Courtesy 0l",
+      "ocr_generated_at": "2026-06-04T09:48:43.743400"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "ayHdkVglLSM",
+        "uploaded_at": "2026-06-04T09:49:01.865476",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Explaining common, perplexing visual or perceptual phenomena.\nTarget Audience: Curious individuals, science enthusiasts, people interested in psychology and how the brain works, general audience seeking quick facts.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal about everyday perception\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  🤯 Why Your Eyes Play Tricks: Science Behind Visual Quirks!\n2.  Ever Wonder WHY This Happens? 👁️ The Perception Secret Revealed!\n3.  You Won't Believe What Your Brain Does! 🤔 See It To Understand.\n4.  The REAL Reason You See THAT! 😱 Quick Science Fact.\n5.  Optical Illusions: Why Your Eyes Lie (The \"Wait & Watch\" Truth)\n\n[YOUTUBE_DESCRIPTION]\n\nHave you ever stopped and thought, \"Why does that happen?!\" especially when looking at everyday objects, patterns, or even other videos? This Short reveals the fascinating science behind common visual phenomena and perception tricks that make your eyes and brain play games! From optical illusions to mind-bending quirks, get ready for a quick, mind-blowing explanation. Don't just watch, understand the \"why\"!\n\nHit LIKE if you learned something new and SHARE with a friend who loves baffling facts!\nWhat other \"why does that happen\" questions do you have? Let us know in the comments! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#ScienceFacts #OpticalIllusion #MindBlown #DidYouKnow #Curiosity #BrainGames #Perception #VisualTricks #EverydayScience #QuickFacts #PsychologyFacts #LearnOnShorts #ScienceExplained #HumanBody #MysterySolved #AmazingFacts #ShortsFeed #EducationShorts #ViralVideo #STEM\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: optical illusions\nSecondary keywords: perception tricks, brain science, visual phenomena, science facts, human vision\nLong-tail keywords: why do my eyes play tricks on me, everyday science explained, mind-blowing visual facts, understanding perception, common optical illusions, what makes things look weird\n\n[BONUS_CTA]\n\n1.  What's the WEIRDEST thing your eyes have ever seen? Tell us below! 👇\n2.  SMASH the Like button if your mind is officially blown! 🤯\n3.  Hit SUBSCRIBE for more quick facts that will make you say \"WOW!\"",
+          "title": "🤯 Why Your Eyes Play Tricks: Science Behind Visual Quirks!",
+          "description": "Have you ever stopped and thought, \"Why does that happen?!\" especially when looking at everyday objects, patterns, or even other videos? This Short reveals the fascinating science behind common visual phenomena and perception tricks that make your eyes and brain play games! From optical illusions to mind-bending quirks, get ready for a quick, mind-blowing explanation. Don't just watch, understand the \"why\"!\n\nHit LIKE if you learned something new and SHARE with a friend who loves baffling facts!\nWhat other \"why does that happen\" questions do you have? Let us know in the comments! 👇",
+          "hashtags": "#ScienceFacts #OpticalIllusion #MindBlown #DidYouKnow #Curiosity #BrainGames #Perception #VisualTricks #EverydayScience #QuickFacts #PsychologyFacts #LearnOnShorts #ScienceExplained #HumanBody #MysterySolved #AmazingFacts #ShortsFeed #EducationShorts #ViralVideo #STEM",
+          "keywords": "Primary keyword: optical illusions\nSecondary keywords: perception tricks, brain science, visual phenomena, science facts, human vision\nLong-tail keywords: why do my eyes play tricks on me, everyday science explained, mind-blowing visual facts, understanding perception, common optical illusions, what makes things look weird"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1670,7 +1676,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959127",
-      "updated_at": "2026-05-31T17:24:21.959130"
+      "updated_at": "2026-06-04T09:49:01.865498"
     }
   },
   {
