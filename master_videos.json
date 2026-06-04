@@ -1772,20 +1772,26 @@
       "drive_link": "https://drive.google.com/file/d/1-Rv2Lkgsj7zp8Z9idF4OVpvLMfC6legE/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Actualepeedo: MotoGPBikes bwin Actualepeedof MtoGPBikes bwi bwit These machines can hit speedsover 360 kmlh (223 mph) can hit speeds@ver",
+      "ocr_generated_at": "2026-06-04T16:20:12.790255"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "ticpxIKgpLM",
+        "uploaded_at": "2026-06-04T16:20:25.719188",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The extreme, mind-blowing top speed of MotoGP bikes.\nTarget Audience: Motorsport enthusiasts, speed junkies, adrenaline seekers, general audience interested in engineering feats and extreme facts.\nEmotion: Shock\nViral Angle: Mind-blowing reveal (of the unbelievable speed these machines can achieve)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  MOTO GP BIKES: Their INSANE Top Speed! 🤯\n2.  You Won't BELIEVE How Fast MotoGP Bikes REALLY Go!\n3.  360 KM/H?! The TRUE Speed of MotoGP!\n4.  World's FASTEST Bikes? MotoGP Uncovered!\n5.  MotoGP Top Speed EXPOSED: 223 MPH!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to have your mind blown! 🤯 Ever wondered how fast MotoGP bikes *really* go? These incredible machines push the limits of engineering and human skill, hitting speeds over 360 km/h (that's an astonishing 223 mph!). It's not just speed; it's a testament to raw power, precision, and the sheer thrill of racing. Discover the shocking facts behind the fastest motorcycles on the planet.\n\n#MotoGP #Motorcycle #Speed #FastestBikes #Racing #Motorsports\n\n[YOUTUBE_HASHTAGS]\n\nLayer 1: Large audience hashtags\n#MotoGP\n#Motorcycle\n#Speed\n\nLayer 2: Niche-specific hashtags\n#MotoGPBikes\n#BikeLife\n#FastBikes\n#Racing\n#Motorsports\n#TrackDay\n#Adrenaline\n#EnginePower\n#BikeFacts\n#MotorcycleRacing\n#Superbikes\n\nLayer 3: Trend/viral hashtags\n#Mindblown\n#Fastest\n#ExtremeSpeed\n#WowFact\n#DidYouKnow\n#Unbelievable\n#ViralShorts\n#ShortsFeed\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: MotoGP speed\nSecondary keywords: fastest motorcycles, bike speed, 360 km/h, 223 mph, MotoGP top speed, motorcycle racing, extreme speed, fastest bikes\nLong-tail keywords: how fast do MotoGP bikes go, MotoGP top speed record, incredible motorcycle speed facts, what is the top speed of a MotoGP bike, fastest motorcycles in the world\n\n[BONUS_CTA]\n1.  Drop a comment! What's the fastest you've ever gone? 👇\n2.  Hit that like button if you were shocked by these speeds! Share with a friend who loves bikes! 🚀\n3.  Subscribe for more mind-blowing facts about speed and engineering! 🏍️",
+          "title": "MOTO GP BIKES: Their INSANE Top Speed! 🤯",
+          "description": "Prepare to have your mind blown! 🤯 Ever wondered how fast MotoGP bikes *really* go? These incredible machines push the limits of engineering and human skill, hitting speeds over 360 km/h (that's an astonishing 223 mph!). It's not just speed; it's a testament to raw power, precision, and the sheer thrill of racing. Discover the shocking facts behind the fastest motorcycles on the planet.\n\n#MotoGP #Motorcycle #Speed #FastestBikes #Racing #Motorsports",
+          "hashtags": "Layer 1: Large audience hashtags\n#MotoGP\n#Motorcycle\n#Speed\n\nLayer 2: Niche-specific hashtags\n#MotoGPBikes\n#BikeLife\n#FastBikes\n#Racing\n#Motorsports\n#TrackDay\n#Adrenaline\n#EnginePower\n#BikeFacts\n#MotorcycleRacing\n#Superbikes\n\nLayer 3: Trend/viral hashtags\n#Mindblown\n#Fastest\n#ExtremeSpeed\n#WowFact\n#DidYouKnow\n#Unbelievable\n#ViralShorts\n#ShortsFeed",
+          "keywords": "Primary keyword: MotoGP speed\nSecondary keywords: fastest motorcycles, bike speed, 360 km/h, 223 mph, MotoGP top speed, motorcycle racing, extreme speed, fastest bikes\nLong-tail keywords: how fast do MotoGP bikes go, MotoGP top speed record, incredible motorcycle speed facts, what is the top speed of a MotoGP bike, fastest motorcycles in the world"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1838,7 +1844,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959228",
-      "updated_at": "2026-05-31T17:24:21.959231"
+      "updated_at": "2026-06-04T16:20:25.719218"
     }
   },
   {
