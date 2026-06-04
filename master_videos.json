@@ -1940,20 +1940,26 @@
       "drive_link": "https://drive.google.com/file/d/1saLW-MmphuKv-qlU8xVxn4YvvvZr7q5w/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "PT-VCA Where is this pilot going to travel? PT-Vca PTEVcA \"First Ever Aerial Footage Captures the Hidden Life of an Amazon Tribe Watch till the endl",
+      "ocr_generated_at": "2026-06-04T21:28:51.076628"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "utk11OckIzk",
+        "uploaded_at": "2026-06-04T21:29:05.190135",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: First ever aerial footage capturing a previously hidden Amazon tribe.\nTarget Audience: Individuals interested in discovery, anthropology, nature, remote cultures, adventure, surprising facts, and global mysteries.\nEmotion: Curiosity\nViral Angle: Rare footage / Mind-blowing reveal of a previously unseen and untouched society.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  First Ever Look: Hidden Amazon Tribe Unveiled! 🤯\n2.  Pilot Discovers Untouched Amazon Tribe From Above!\n3.  The Amazon Tribe You Won't Believe Exists! (Watch Till End)\n4.  Rare Aerial Footage: Amazon's Secret Tribe Discovered!\n5.  What Did This Pilot Find in the Deep Amazon?\n\n[YOUTUBE_DESCRIPTION]\n\nGet ready for an unprecedented journey! This shocking aerial footage captures the FIRST EVER glimpse of a hidden Amazon tribe, living completely untouched by the modern world. See their remote existence from a pilot's incredible perspective. What secrets does the Amazon still hold? Watch till the end for a mind-blowing reveal that will leave you speechless! This is more than just footage; it's a window into an undiscovered civilization. Don't miss this rare opportunity to witness history in the making.\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts\n#AmazonTribe\n#Discovery\n#HiddenWorld\n#Exploration\n#Untouched\n#Rainforest\n#AerialFootage\n#Indigenous\n#LostTribe\n#Mindblown\n#Unbelievable\n#WatchTillTheEnd\n#SecretsOfTheWorld\n#PilotLife\n#Geography\n#Anthropology\n#ViralDiscovery\n#EarthFacts\n#AncientCultures\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: Amazon tribe\nSecondary keywords: hidden life, aerial footage, indigenous people, rainforest, untouched civilization, remote tribe, pilot discovery, undiscovered world, secret Amazonian\nLong-tail keywords: first ever aerial footage Amazon tribe, discovering untouched Amazon tribe, pilot finds hidden tribe from above, rare footage indigenous people Amazon, what did the pilot see Amazon\n\n[BONUS_CTA]\n\n1.  What did YOU think of this incredible discovery? Share your thoughts below!\n2.  Hit LIKE if you're amazed by our planet's hidden secrets!\n3.  SUBSCRIBE for more astonishing discoveries and untold stories!",
+          "title": "First Ever Look: Hidden Amazon Tribe Unveiled! 🤯",
+          "description": "Get ready for an unprecedented journey! This shocking aerial footage captures the FIRST EVER glimpse of a hidden Amazon tribe, living completely untouched by the modern world. See their remote existence from a pilot's incredible perspective. What secrets does the Amazon still hold? Watch till the end for a mind-blowing reveal that will leave you speechless! This is more than just footage; it's a window into an undiscovered civilization. Don't miss this rare opportunity to witness history in the making.",
+          "hashtags": "#Shorts\n#AmazonTribe\n#Discovery\n#HiddenWorld\n#Exploration\n#Untouched\n#Rainforest\n#AerialFootage\n#Indigenous\n#LostTribe\n#Mindblown\n#Unbelievable\n#WatchTillTheEnd\n#SecretsOfTheWorld\n#PilotLife\n#Geography\n#Anthropology\n#ViralDiscovery\n#EarthFacts\n#AncientCultures",
+          "keywords": "Primary keyword: Amazon tribe\nSecondary keywords: hidden life, aerial footage, indigenous people, rainforest, untouched civilization, remote tribe, pilot discovery, undiscovered world, secret Amazonian\nLong-tail keywords: first ever aerial footage Amazon tribe, discovering untouched Amazon tribe, pilot finds hidden tribe from above, rare footage indigenous people Amazon, what did the pilot see Amazon"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2006,7 +2012,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960178",
-      "updated_at": "2026-05-31T17:24:21.960187"
+      "updated_at": "2026-06-04T21:29:05.190161"
     }
   },
   {
