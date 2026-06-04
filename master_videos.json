@@ -1856,20 +1856,26 @@
       "drive_link": "https://drive.google.com/file/d/1wve-C3VjsZrRVkadZfrqxUyqeiR2I4kT/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "N03si7 This)is how Ads are attachedtoPlanes This is howAdsare attached toPlanes ThisishowAdsere This ishowAdsare attachedto Planes This ishow Adsare pilot expertly deploysahook from a dodo plane) catching pre-laid cable attached to the banner on the ground: plane} catching a pre-laid cable attachedtothe pre-laid cable attachedto the banner on the ground N0jsI7 a pilot expertly deploysahook plane; catching a Ni3sit from a dodo planes catching catching a",
+      "ocr_generated_at": "2026-06-04T19:17:38.249763"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "GTxsKYFD_GA",
+        "uploaded_at": "2026-06-04T19:17:53.590813",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: How planes attach advertising banners using a hook.\nTarget Audience: Curious individuals, aviation enthusiasts, general audience interested in \"how it works\" content.\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal of a precise and skilled maneuver.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  🤯 Mind Blown: THIS is How Planes Pick Up Banners!\n2.  Ever Wondered? Watch a Plane Hook GRAB an Ad!\n3.  Aviation Secret: The EXACT Way Pilots Attach Plane Ads!\n4.  This Pilot's Precision Grab Will Shock You! ✈️\n5.  The CRAZY Hook Maneuver That Attaches Plane Ads!\n\n[YOUTUBE_DESCRIPTION]\nEver seen those giant banners flying behind planes and wondered... HOW do they get attached mid-air? 🤔 Prepare to have your mind blown!\n\nWatch as an expert pilot skillfully deploys a hook from their aircraft, catching a pre-laid cable right off the ground, attaching it to the advertising banner. It's precision flying at its absolute finest and a fascinating aviation secret! This incredible process of banner towing is more complex than you think.\n\n#howitworks #aviationfacts #pilotlife #mindblown #didyouknow\n\n[YOUTUBE_HASHTAGS]\n#viralvideo\n#shorts\n#trending\n#howitworks\n#amazing\n#didyouknow\n#aviation\n#plane\n#bannerplane\n#pilotlife\n#aircraft\n#airplanes\n#aviationlovers\n#aeroplane\n#mindblown\n#satisfaction\n#oddlysatisfying\n#coolfacts\n#precisionflying\n#aviationsecrets\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: plane ads, banner towing\nSecondary keywords: how planes pick up ads, pilot hook, airplane advertising, banner plane, aviation skills\nLong-tail keywords: how do planes attach banners, expert pilot banner grab, behind the scenes plane ads, plane banner attachment explained\n\n[BONUS_CTA]\n1.  What other aviation secrets amaze you? Let me know in the comments! 👇\n2.  🤯 Hit like if you had NO IDEA this is how they do it!\n3.  Share this with someone who needs their mind blown!",
+          "title": "🤯 Mind Blown: THIS is How Planes Pick Up Banners!",
+          "description": "Ever seen those giant banners flying behind planes and wondered... HOW do they get attached mid-air? 🤔 Prepare to have your mind blown!\n\nWatch as an expert pilot skillfully deploys a hook from their aircraft, catching a pre-laid cable right off the ground, attaching it to the advertising banner. It's precision flying at its absolute finest and a fascinating aviation secret! This incredible process of banner towing is more complex than you think.\n\n#howitworks #aviationfacts #pilotlife #mindblown #didyouknow",
+          "hashtags": "#viralvideo\n#shorts\n#trending\n#howitworks\n#amazing\n#didyouknow\n#aviation\n#plane\n#bannerplane\n#pilotlife\n#aircraft\n#airplanes\n#aviationlovers\n#aeroplane\n#mindblown\n#satisfaction\n#oddlysatisfying\n#coolfacts\n#precisionflying\n#aviationsecrets",
+          "keywords": "Primary keyword: plane ads, banner towing\nSecondary keywords: how planes pick up ads, pilot hook, airplane advertising, banner plane, aviation skills\nLong-tail keywords: how do planes attach banners, expert pilot banner grab, behind the scenes plane ads, plane banner attachment explained"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -1922,7 +1928,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.959275",
-      "updated_at": "2026-05-31T17:24:21.959278"
+      "updated_at": "2026-06-04T19:17:53.590838"
     }
   },
   {
