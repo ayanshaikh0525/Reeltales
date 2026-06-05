@@ -2444,20 +2444,26 @@
       "drive_link": "https://drive.google.com/file/d/1SvMlmvjafvAV-yI0XifsSpPTGt_fJyGk/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "This is how the Egyptian moved massive stone blocks to build the pyramids massive stone blocks to build the pyramids",
+      "ocr_generated_at": "2026-06-05T19:46:07.848106"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "QW41X6XX1zo",
+        "uploaded_at": "2026-06-05T19:46:19.110212",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The ingenious methods ancient Egyptians used to move massive stone blocks for pyramid construction.\nTarget Audience: History enthusiasts, curious minds, students, those interested in ancient civilizations, engineering, and historical mysteries.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of ancient engineering ingenuity / Uncovering a long-held historical secret.\nContent Category: History\n\n[YOUTUBE_TITLES]\n1.  How Egyptians REALLY Moved Massive Pyramid Stones!\n2.  The Ancient Secret to Moving Pyramid Blocks Revealed 🤯\n3.  Unbelievable! Pyramid Stone Moving Technique Explained\n4.  Ancient Egypt's Hidden Genius: Moving Pyramid Stones\n5.  Did You Know? This Is How They Built The Pyramids!\n\n[YOUTUBE_DESCRIPTION]\nEver wondered how ancient Egyptians managed to move those colossal stone blocks to build the pyramids? 🤔 Prepare to be amazed! This short video uncovers the ingenious techniques and ancient engineering marvels they employed. You won't believe how they built the pyramids with such precision and scale. Discover the hidden facts behind one of history's greatest construction feats! What's your favorite ancient invention? Share below!\n\n[YOUTUBE_HASHTAGS]\n#History #AncientEgypt #Pyramids #AncientEngineering #EgyptianSecrets #HistoricalFacts #Egyptology #Archaeology #AncientTechnology #PyramidConstruction #Mindblown #HowTheyDidIt #UnbelievableFacts #MysterySolved #AncientCivilizations #DidYouKnow #YouTubeShorts #EducationalShorts #HistoryFacts #EngineeringMarvel\n\n[YOUTUBE_KEYWORDS]\nEgyptian pyramids stone moving, ancient Egypt construction, pyramid building techniques, how Egyptians built pyramids, ancient engineering, how ancient Egyptians moved massive stone blocks, secret to pyramid construction ancient Egypt, Egyptian engineering marvels, building the pyramids explained, ancient history facts\n\n[BONUS_CTA]\n1.  🤯 What's YOUR theory on ancient tech? Comment below!\n2.  Hit subscribe for more mind-blowing history secrets!\n3.  Like this video if you're amazed by ancient ingenuity!",
+          "title": "How Egyptians REALLY Moved Massive Pyramid Stones!",
+          "description": "Ever wondered how ancient Egyptians managed to move those colossal stone blocks to build the pyramids? 🤔 Prepare to be amazed! This short video uncovers the ingenious techniques and ancient engineering marvels they employed. You won't believe how they built the pyramids with such precision and scale. Discover the hidden facts behind one of history's greatest construction feats! What's your favorite ancient invention? Share below!",
+          "hashtags": "#History #AncientEgypt #Pyramids #AncientEngineering #EgyptianSecrets #HistoricalFacts #Egyptology #Archaeology #AncientTechnology #PyramidConstruction #Mindblown #HowTheyDidIt #UnbelievableFacts #MysterySolved #AncientCivilizations #DidYouKnow #YouTubeShorts #EducationalShorts #HistoryFacts #EngineeringMarvel",
+          "keywords": "Egyptian pyramids stone moving, ancient Egypt construction, pyramid building techniques, how Egyptians built pyramids, ancient engineering, how ancient Egyptians moved massive stone blocks, secret to pyramid construction ancient Egypt, Egyptian engineering marvels, building the pyramids explained, ancient history facts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2510,7 +2516,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960540",
-      "updated_at": "2026-05-31T17:24:21.960542"
+      "updated_at": "2026-06-05T19:46:19.110235"
     }
   },
   {
