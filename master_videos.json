@@ -2192,20 +2192,26 @@
       "drive_link": "https://drive.google.com/file/d/11G_NWbo-m_IoimoTb8k0H3jXqhPpBNSI/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "is this the best Truck? Toy Even has a gas pedal And gear shifter too And gear shifter to@",
+      "ocr_generated_at": "2026-06-05T11:22:01.194195"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "qTyB5VpwK88",
+        "uploaded_at": "2026-06-05T11:22:16.974108",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A highly realistic toy truck featuring functional gas pedal and gear shifter.\nTarget Audience: Parents, toy collectors, gift-givers, children's content viewers, truck enthusiasts.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal of a toy's unexpected, realistic features.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Is THIS the BEST Toy Truck EVER?! 🤯\n2.  Wait, this TOY Truck Has a REAL Gas Pedal?!\n3.  Kids' Dream Truck: Gear Shifter & Gas Pedal!\n4.  Unbelievable Toy Truck Realism! You Won't Believe This!\n5.  Most Realistic Toy Truck You'll Ever See!\n\n[YOUTUBE_DESCRIPTION]\nPrepare to be amazed by this incredible toy truck! 🤩 It's not just any toy – it features a fully functional gas pedal AND a realistic gear shifter. Is this the ultimate gift for any truck-loving kid? You won't believe the detail and interactive fun! Watch till the end to see why everyone's calling it the best.\n\n#ToyTruck #KidsToys #RealisticToys #GiftIdeas\n\n[YOUTUBE_HASHTAGS]\n#ToyTruck\n#KidsToys\n#RealisticToys\n#GasPedal\n#GearShifter\n#KidsTruck\n#BestToyEver\n#ToyReview\n#MustHave\n#MindBlown\n#Playtime\n#GiftIdeasForKids\n#ParentingHacks\n#CoolToys\n#AmazingToys\n#ViralToys\n#Shorts\n#YouTubeShorts\n#ForYou\n#Unbelievable\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: toy truck\nSecondary keywords: realistic toy, kids truck, gas pedal, gear shifter, best toy\nLong-tail keywords: most realistic toy truck, toy truck with gas pedal, toy truck with gear shifter, amazing kids toy, best gift for kids, interactive toy for kids\n\n[BONUS_CTA]\n1.  What's your favorite feature? Tell us below! 👇\n2.  Tag a parent who needs to see this!\n3.  Hit LIKE if you think this is the coolest toy truck!",
+          "title": "Is THIS the BEST Toy Truck EVER?! 🤯",
+          "description": "Prepare to be amazed by this incredible toy truck! 🤩 It's not just any toy – it features a fully functional gas pedal AND a realistic gear shifter. Is this the ultimate gift for any truck-loving kid? You won't believe the detail and interactive fun! Watch till the end to see why everyone's calling it the best.\n\n#ToyTruck #KidsToys #RealisticToys #GiftIdeas",
+          "hashtags": "#ToyTruck\n#KidsToys\n#RealisticToys\n#GasPedal\n#GearShifter\n#KidsTruck\n#BestToyEver\n#ToyReview\n#MustHave\n#MindBlown\n#Playtime\n#GiftIdeasForKids\n#ParentingHacks\n#CoolToys\n#AmazingToys\n#ViralToys\n#Shorts\n#YouTubeShorts\n#ForYou\n#Unbelievable",
+          "keywords": "Primary keyword: toy truck\nSecondary keywords: realistic toy, kids truck, gas pedal, gear shifter, best toy\nLong-tail keywords: most realistic toy truck, toy truck with gas pedal, toy truck with gear shifter, amazing kids toy, best gift for kids, interactive toy for kids"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2258,7 +2264,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960371",
-      "updated_at": "2026-05-31T17:24:21.960374"
+      "updated_at": "2026-06-05T11:22:16.974136"
     }
   },
   {
