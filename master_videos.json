@@ -2276,20 +2276,26 @@
       "drive_link": "https://drive.google.com/file/d/1NrAhYxagpBni5iB14ZCF8phCpMeIokHU/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Watch strap comes off like this",
+      "ocr_generated_at": "2026-06-05T14:32:20.195958"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Gt85OZKHnG0",
+        "uploaded_at": "2026-06-05T14:32:34.660624",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The surprisingly easy and innovative method of removing a watch strap.\nTarget Audience: Watch owners, gadget enthusiasts, people interested in DIY hacks, anyone looking for convenience in accessories.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (showing an unexpected or extremely simple mechanism).\nContent Category: Educational / Facts\n\n[YOUTUBE_TITLES]\n\n1.  🤯 Watch Strap Hack: So Easy!\n2.  Your Watch Strap Comes Off LIKE THIS?!\n3.  🤯 Quick Release Watch Strap Secret!\n4.  Watch Strap Removal Made EASY! (No Tools!)\n5.  Mind Blown: How To Change Watch Straps!\n\n[YOUTUBE_DESCRIPTION]\n\nEver struggled to change your watch strap? 🤔 You won't believe how easy it can be! This quick short reveals a genius design secret that lets your watch strap come off in seconds, no tools required. Watch till the end for a satisfyingly simple watch hack that'll make you rethink your accessories!\n\nDid your watch surprise you too? Share this mind-blowing trick with a friend and let us know in the comments if your watch has this quick release feature! 👇 #WatchHacks #LifeMadeEasy\n\n[YOUTUBE_HASHTAGS]\n\n#Watch\n#Watches\n#Gadgets\n#LifeHack\n#DIY\n#Shorts\n#WatchStrap\n#QuickRelease\n#WatchAccessories\n#WatchCollector\n#SmartWatch\n#Timepiece\n#EasyHack\n#MindBlown\n#Satisfying\n#DidYouKnow\n#WatchTok\n#ViralShorts\n#TechTips\n#WatchDesign\n\n[YOUTUBE_KEYWORDS]\n\nwatch strap removal, quick release watch strap, watch strap hack, changing watch strap, watch accessories, how to remove watch strap easily, watch strap quick change mechanism, watch strap no tools, satisfying watch strap change, watch tips, watch maintenance, easy watch strap, smartwatch band\n\n[BONUS_CTA]\n\n1.  🤯 Mind blown? Hit LIKE & SHARE this watch secret with a friend!\n2.  Does YOUR watch have this feature? Tell us below! 👇\n3.  Follow for more satisfying tech hacks you won't believe!",
+          "title": "🤯 Watch Strap Hack: So Easy!",
+          "description": "Ever struggled to change your watch strap? 🤔 You won't believe how easy it can be! This quick short reveals a genius design secret that lets your watch strap come off in seconds, no tools required. Watch till the end for a satisfyingly simple watch hack that'll make you rethink your accessories!\n\nDid your watch surprise you too? Share this mind-blowing trick with a friend and let us know in the comments if your watch has this quick release feature! 👇 #WatchHacks #LifeMadeEasy",
+          "hashtags": "#Watch\n#Watches\n#Gadgets\n#LifeHack\n#DIY\n#Shorts\n#WatchStrap\n#QuickRelease\n#WatchAccessories\n#WatchCollector\n#SmartWatch\n#Timepiece\n#EasyHack\n#MindBlown\n#Satisfying\n#DidYouKnow\n#WatchTok\n#ViralShorts\n#TechTips\n#WatchDesign",
+          "keywords": "watch strap removal, quick release watch strap, watch strap hack, changing watch strap, watch accessories, how to remove watch strap easily, watch strap quick change mechanism, watch strap no tools, satisfying watch strap change, watch tips, watch maintenance, easy watch strap, smartwatch band"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2342,7 +2348,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960420",
-      "updated_at": "2026-05-31T17:24:21.960423"
+      "updated_at": "2026-06-05T14:32:34.660655"
     }
   },
   {
