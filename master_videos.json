@@ -2612,20 +2612,26 @@
       "drive_link": "https://drive.google.com/file/d/1dkOMnKe_NYvwjtb9aHVTEFvk2zJzRs94/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Rock Fomation in Kazakhstan That looks like Ancient Gateway Rock Formation in Kazakhstan Rock Formation im Kazakhstan Over thousands @f yearss wind erosion; temperature changes, and rock weathering sculpted this massive arch-Iike hollow into the cliffs wind erosion; temperatue sculpted this massive arch-like hollow into the cliffo Over thousands @f years; sculpted this massive arch-ike But what if it is an ancient portal?",
+      "ocr_generated_at": "2026-06-05T23:02:57.426922"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "9DNz3-RqpYE",
+        "uploaded_at": "2026-06-05T23:03:18.791958",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A unique rock formation in Kazakhstan that strikingly resembles an ancient gateway or portal, prompting speculation about its true nature.\nTarget Audience: Travelers, geology enthusiasts, mystery lovers, people interested in ancient history, unexplained phenomena, \"what if\" scenarios, and stunning natural landscapes.\nEmotion: Curiosity\nViral Angle: Unexpected twist (the \"ancient portal\" theory after natural formation explanation) / Mind-blowing reveal (challenging perceptions of a natural wonder).\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  Kazakhstan's Ancient GATEWAY Rock?! 🤯\n2.  Is THIS an Ancient Portal in Kazakhstan?\n3.  Nature's Secret: Kazakhstan's Mysterious Rock Arch\n4.  Wind Sculpted... or Something MORE? Kazakhstan's Enigma\n5.  This Kazakhstan Rock Looks Like a Portal! What Do You Think?\n\n[YOUTUBE_DESCRIPTION]\nDiscover the mind-blowing rock formation in Kazakhstan that looks exactly like an ancient gateway! 🤯 For thousands of years, wind erosion, temperature changes, and natural weathering have sculpted this massive arch-like hollow into the cliffs. It's a true geological wonder!\n\nBut what if it's more than just nature's artistry? 🤔 Could this be an ancient portal to another time or place? Or is it simply a stunning example of Earth's incredible power to shape landscapes?\n\nDive into the mystery of Kazakhstan's hidden wonders and decide for yourself! What do YOU think this incredible rock formation truly is? Share your theories in the comments! 👇\n\n#Kazakhstan #AncientGateway #RockFormation #Mystery #Unexplained\n\n[YOUTUBE_HASHTAGS]\n#Travel #Nature #Mystery #Unexplained #WondersOfTheWorld #Geology #Shorts #ViralVideo #KazakhstanTravel #AncientPortal #NaturalArch #HiddenGems #CentralAsia #GeologyFacts #AdventureTravel #WhatIf #MindBlown #Portal #AncientSecrets #EarthWonders\n\n[YOUTUBE_KEYWORDS]\nKazakhstan rock formation, ancient gateway, mysterious portal, wind erosion, natural arch, geological wonder, Kazakhstan travel, unexplained phenomena, ancient secrets, natural formations, Central Asia travel, unique landscapes, Earth mysteries, travel Kazakhstan, natural wonders, hidden gems, portal theory, rock weathering, incredible nature\n\n[BONUS_CTA]\n1.  What's your theory? Drop a comment below! 👇\n2.  Hit subscribe for more incredible natural mysteries!\n3.  Share this jaw-dropping view with a friend who loves adventure!",
+          "title": "Kazakhstan's Ancient GATEWAY Rock?! 🤯",
+          "description": "Discover the mind-blowing rock formation in Kazakhstan that looks exactly like an ancient gateway! 🤯 For thousands of years, wind erosion, temperature changes, and natural weathering have sculpted this massive arch-like hollow into the cliffs. It's a true geological wonder!\n\nBut what if it's more than just nature's artistry? 🤔 Could this be an ancient portal to another time or place? Or is it simply a stunning example of Earth's incredible power to shape landscapes?\n\nDive into the mystery of Kazakhstan's hidden wonders and decide for yourself! What do YOU think this incredible rock formation truly is? Share your theories in the comments! 👇\n\n#Kazakhstan #AncientGateway #RockFormation #Mystery #Unexplained",
+          "hashtags": "#Travel #Nature #Mystery #Unexplained #WondersOfTheWorld #Geology #Shorts #ViralVideo #KazakhstanTravel #AncientPortal #NaturalArch #HiddenGems #CentralAsia #GeologyFacts #AdventureTravel #WhatIf #MindBlown #Portal #AncientSecrets #EarthWonders",
+          "keywords": "Kazakhstan rock formation, ancient gateway, mysterious portal, wind erosion, natural arch, geological wonder, Kazakhstan travel, unexplained phenomena, ancient secrets, natural formations, Central Asia travel, unique landscapes, Earth mysteries, travel Kazakhstan, natural wonders, hidden gems, portal theory, rock weathering, incredible nature"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2678,7 +2684,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960691",
-      "updated_at": "2026-05-31T17:24:21.960694"
+      "updated_at": "2026-06-05T23:03:18.792002"
     }
   },
   {
