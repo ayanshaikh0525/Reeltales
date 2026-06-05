@@ -2108,20 +2108,26 @@
       "drive_link": "https://drive.google.com/file/d/1-gUq85gvPSriPe63b6dQA9YB_baPUHzS/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "All these balls are Moving in Straight Lines @ly Moving in straight Lines only It's an illusion That tricks the Brain into thinking That the balls are Moving in a circlle the balls are Moving in & circle the balls are Moving in & circll",
+      "ocr_generated_at": "2026-06-05T02:43:31.814512"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "9-zDWVXMFLo",
+        "uploaded_at": "2026-06-05T02:43:43.631518",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Optical Illusion of Balls Moving in Straight Lines\nTarget Audience: Science enthusiasts, curious minds, general social media users, students, educators.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Unexpected twist (challenging visual perception)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  🤯 Your Brain Is Lying! These Are STRAIGHT Lines!\n2.  Can You Believe These Balls Aren't Moving In A Circle?\n3.  Mind-Bending Illusion: Straight Lines That Look Curved!\n4.  This Optical Illusion Will BREAK Your Brain! (Watch This!)\n5.  Physics Trick: See Balls Move In Circles When They're Straight!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to have your mind blown! 🤯 What you're seeing isn't what's actually happening. This incredible **optical illusion** shows balls moving in what appears to be a perfect circle, but they are actually following **straight lines**! Your brain is playing tricks on you.\n\nDiscover the fascinating science behind how our perception can be fooled by simple visual cues. It's a true **brain teaser** and a testament to the power of visual illusions.\n\nCan you trick your friends? Share this short and see their reaction! 👇\n\n#OpticalIllusion #BrainTeaser #MindBlown #PhysicsFun #ScienceFacts\n\n[YOUTUBE_HASHTAGS]\n\n#OpticalIllusion\n#ScienceFacts\n#MindBlown\n#BrainTeaser\n#PhysicsFun\n#VisualIllusions\n#DidYouKnow\n#AmazingFacts\n#HowItWorks\n#Perception\n#BrainGames\n#Curiosity\n#ShortsFeed\n#ViralShorts\n#MindBending\n#StraightLines\n#CircleIllusion\n#ScienceExperiments\n#WatchThis\n#Impossible\n\n[YOUTUBE_KEYWORDS]\n\noptical illusion, straight lines illusion, balls moving in straight lines, brain trick, visual illusion, physics illusion, mind bending, perception, science facts, brain teaser, how optical illusions work, movement illusion, curved lines illusion, amazing science, did you know, viral illusion, shorts\n\n[BONUS_CTA]\n\n1.  What did YOU see first: straight lines or a circle? Tell us in the comments! 👇\n2.  🤯 Mind blown? Hit the like button and share this with someone who needs to see it!\n3.  Don't let your brain trick you again! Subscribe for more amazing illusions & facts!",
+          "title": "🤯 Your Brain Is Lying! These Are STRAIGHT Lines!",
+          "description": "Prepare to have your mind blown! 🤯 What you're seeing isn't what's actually happening. This incredible **optical illusion** shows balls moving in what appears to be a perfect circle, but they are actually following **straight lines**! Your brain is playing tricks on you.\n\nDiscover the fascinating science behind how our perception can be fooled by simple visual cues. It's a true **brain teaser** and a testament to the power of visual illusions.\n\nCan you trick your friends? Share this short and see their reaction! 👇\n\n#OpticalIllusion #BrainTeaser #MindBlown #PhysicsFun #ScienceFacts",
+          "hashtags": "#OpticalIllusion\n#ScienceFacts\n#MindBlown\n#BrainTeaser\n#PhysicsFun\n#VisualIllusions\n#DidYouKnow\n#AmazingFacts\n#HowItWorks\n#Perception\n#BrainGames\n#Curiosity\n#ShortsFeed\n#ViralShorts\n#MindBending\n#StraightLines\n#CircleIllusion\n#ScienceExperiments\n#WatchThis\n#Impossible",
+          "keywords": "optical illusion, straight lines illusion, balls moving in straight lines, brain trick, visual illusion, physics illusion, mind bending, perception, science facts, brain teaser, how optical illusions work, movement illusion, curved lines illusion, amazing science, did you know, viral illusion, shorts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2174,7 +2180,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960314",
-      "updated_at": "2026-05-31T17:24:21.960317"
+      "updated_at": "2026-06-05T02:43:43.631546"
     }
   },
   {
