@@ -2528,20 +2528,26 @@
       "drive_link": "https://drive.google.com/file/d/1zNSnzHZEAnc0n61LvhSveMgBdys4w_v9/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "He wants to the Ancient Fire technique.\" try He wants to try the Ancient Fire technique\" Fiction Converts Kinetic Energy Into Heat: Friction Converts Kinetic Energy Into Heat.",
+      "ocr_generated_at": "2026-06-05T21:21:37.390180"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "hbWwHS-nH3A",
+        "uploaded_at": "2026-06-05T21:21:57.877821",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Demonstrating and explaining the science behind an ancient fire-starting technique using friction.\nTarget Audience: Individuals interested in survival skills, science experiments, ancient technology, DIY, educational content, outdoor enthusiasts, and curious learners.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Hidden fact (The surprising simplicity or effectiveness of the ancient fire technique, explained by scientific principles).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n1.  🤯 Ancient Fire Trick You WON'T Believe is THIS Simple!\n2.  How to Start Fire with Friction: The LOST Technique!\n3.  Kinetic Energy to Fire: The Secret Ancient Method!\n4.  He Tried the Ancient Fire Technique... And it WORKED! 🔥\n5.  Unlock Fire: Science Behind Primitive Survival Skills\n\n[YOUTUBE_DESCRIPTION]\nEver wonder how ancient civilizations started fires without matches or lighters? 🤔 This Short reveals the incredible \"Ancient Fire Technique\" that converts kinetic energy directly into heat through friction! Watch as we demonstrate this powerful survival skill and break down the science behind it.\n\nLearn the secrets of primitive fire starting and understand how simple physics allowed our ancestors to create warmth and light. You might be surprised at how accessible this knowledge is!\n\nWhat's your favorite survival hack? Let us know in the comments! 👇\n#AncientFire #SurvivalSkills #FrictionFire #ScienceExplained #PrimitiveTechnology\n\n[YOUTUBE_HASHTAGS]\n#FireStarting #SurvivalHacks #Bushcraft #OutdoorSkills #PrimitiveSkills #KineticEnergy #HeatTransfer #ScienceFacts #EducationalShorts #LearnOnYouTube #DIYSurvival #AncientTech #MindBlown #HowToMakeFire #WildernessSkills #CampingHacks #Experiment #LifeHacks #Unexpected #ViralSkills\n\n[YOUTUBE_KEYWORDS]\nancient fire technique, friction fire, kinetic energy, heat generation, primitive fire starting, how to make fire, survival skills, bushcraft, science of fire, primitive technology, outdoor skills, fire without matches, survival hacks, educational short, friction converts kinetic energy, fire starter, survival tips\n\n[BONUS_CTA]\n1.  Could YOU start a fire this way? Tell us your thoughts below! 👇\n2.  SMASH that like button if you learned something new about fire! 🔥\n3.  SAVE this Short so you never forget this crucial survival skill!",
+          "title": "🤯 Ancient Fire Trick You WON'T Believe is THIS Simple!",
+          "description": "Ever wonder how ancient civilizations started fires without matches or lighters? 🤔 This Short reveals the incredible \"Ancient Fire Technique\" that converts kinetic energy directly into heat through friction! Watch as we demonstrate this powerful survival skill and break down the science behind it.\n\nLearn the secrets of primitive fire starting and understand how simple physics allowed our ancestors to create warmth and light. You might be surprised at how accessible this knowledge is!\n\nWhat's your favorite survival hack? Let us know in the comments! 👇\n#AncientFire #SurvivalSkills #FrictionFire #ScienceExplained #PrimitiveTechnology",
+          "hashtags": "#FireStarting #SurvivalHacks #Bushcraft #OutdoorSkills #PrimitiveSkills #KineticEnergy #HeatTransfer #ScienceFacts #EducationalShorts #LearnOnYouTube #DIYSurvival #AncientTech #MindBlown #HowToMakeFire #WildernessSkills #CampingHacks #Experiment #LifeHacks #Unexpected #ViralSkills",
+          "keywords": "ancient fire technique, friction fire, kinetic energy, heat generation, primitive fire starting, how to make fire, survival skills, bushcraft, science of fire, primitive technology, outdoor skills, fire without matches, survival hacks, educational short, friction converts kinetic energy, fire starter, survival tips"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2594,7 +2600,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960640",
-      "updated_at": "2026-05-31T17:24:21.960644"
+      "updated_at": "2026-06-05T21:21:57.877849"
     }
   },
   {
