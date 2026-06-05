@@ -2360,20 +2360,26 @@
       "drive_link": "https://drive.google.com/file/d/1oeZe0b2MJBKUSOP9P5tFvOWIX165aad9/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Watch Till The End, How Does It Work? Introducing the Third Thumb: The Extra Thumb You Didn't Know You Neededl Watch Till The End) Watch Till The End; You Didn't Know You Needed! PROSECCO'",
+      "ocr_generated_at": "2026-06-05T17:11:55.437124"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "g741K3Yf8YU",
+        "uploaded_at": "2026-06-05T17:12:09.712473",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The \"Third Thumb\" - a groundbreaking extra prosthetic thumb designed to enhance human capabilities.\nTarget Audience: Tech enthusiasts, innovators, people interested in future technology, prosthetics, human augmentation, curious minds seeking scientific advancements.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of an unexpected human augmentation technology coupled with the intriguing question \"How Does It Work?\", promising a future where we gain new abilities.\nContent Category: Educational / Facts / AI Content\n\n[YOUTUBE_TITLES]\n1.  This Third Thumb Changes EVERYTHING! (You Won't Believe It)\n2.  The EXTRA Thumb You Didn't Know You Needed! (Mind Blown!)\n3.  Future Is HERE: Meet The Third Thumb (How Does It Work?!)\n4.  Is THIS The Next Step? (The Third Thumb Explained)\n5.  Watch Till The End: The Third Thumb's Secret!\n\n[YOUTUBE_DESCRIPTION]\nPrepare to be amazed! 🤯 Discover the revolutionary \"Third Thumb\" – an incredible extra functional thumb designed to push the boundaries of human capability. You truly didn't know you needed this cutting-edge technology until now!\n\nWatch this Short till the very end to understand exactly how this mind-blowing piece of future tech works, what problems it solves, and why it's set to redefine how we interact with the world. Is this the dawn of human augmentation? Dive into the future with us!\n\n#ThirdThumb #FutureTech #Innovation #Prosthetics #WearableTech #HumanAugmentation #MindBlown #ScienceFacts #TechTrends #NewInvention #Robotics #Bionics #HowDoesItWork #CuttingEdge #Discovery #WatchThis #TechGadgets #ViralTech #FutureIsNow #Innovation2024\n\n[YOUTUBE_HASHTAGS]\n#ThirdThumb #FutureTech #Innovation #Prosthetics #WearableTech #HumanAugmentation #MindBlown #ScienceFacts #TechTrends #NewInvention #Robotics #Bionics #HowDoesItWork #CuttingEdge #Discovery #WatchThis #TechGadgets #ViralTech #FutureIsNow #Innovation2024\n\n[YOUTUBE_KEYWORDS]\nThird Thumb, extra thumb, prosthetic, human augmentation, future technology, how it works, innovation, robotics, bionics, wearable tech, tech trends, new invention, cutting edge, science facts, future prosthetics, human capabilities, tech gadget, viral tech, future is now, human evolution, science explained\n\n[BONUS_CTA]\n1.  What do YOU think of the Third Thumb? Share your thoughts in the comments! 👇\n2.  Double tap if this blew your mind! Share this with someone who needs an extra thumb!\n3.  Subscribe for more incredible future tech discoveries and innovations!",
+          "title": "This Third Thumb Changes EVERYTHING! (You Won't Believe It)",
+          "description": "Prepare to be amazed! 🤯 Discover the revolutionary \"Third Thumb\" – an incredible extra functional thumb designed to push the boundaries of human capability. You truly didn't know you needed this cutting-edge technology until now!\n\nWatch this Short till the very end to understand exactly how this mind-blowing piece of future tech works, what problems it solves, and why it's set to redefine how we interact with the world. Is this the dawn of human augmentation? Dive into the future with us!\n\n#ThirdThumb #FutureTech #Innovation #Prosthetics #WearableTech #HumanAugmentation #MindBlown #ScienceFacts #TechTrends #NewInvention #Robotics #Bionics #HowDoesItWork #CuttingEdge #Discovery #WatchThis #TechGadgets #ViralTech #FutureIsNow #Innovation2024",
+          "hashtags": "#ThirdThumb #FutureTech #Innovation #Prosthetics #WearableTech #HumanAugmentation #MindBlown #ScienceFacts #TechTrends #NewInvention #Robotics #Bionics #HowDoesItWork #CuttingEdge #Discovery #WatchThis #TechGadgets #ViralTech #FutureIsNow #Innovation2024",
+          "keywords": "Third Thumb, extra thumb, prosthetic, human augmentation, future technology, how it works, innovation, robotics, bionics, wearable tech, tech trends, new invention, cutting edge, science facts, future prosthetics, human capabilities, tech gadget, viral tech, future is now, human evolution, science explained"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2426,7 +2432,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960490",
-      "updated_at": "2026-05-31T17:24:21.960494"
+      "updated_at": "2026-06-05T17:12:09.712507"
     }
   },
   {
