@@ -3452,20 +3452,26 @@
       "drive_link": "https://drive.google.com/file/d/1hz63z9pUn-_zDLBzg9etbLUTin7IUQNU/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Beauty of vibrations Beauty @f vibrations @CB Beauty of wibrations Particles rearrange into stunning geometric shapes when the plate is vibrated using violi bow violin bow a violin bow a violin Dow",
+      "ocr_generated_at": "2026-06-06T20:59:24.419744"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "0vdbOLWqCwc",
+        "uploaded_at": "2026-06-06T20:59:45.198646",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The creation of intricate geometric patterns by sound vibrations on a plate (Cymatics/Chladni figures).\nTarget Audience: Science enthusiasts, curious individuals, students, artists, those interested in satisfying visuals, physics, geometry, and the hidden order of the universe.\nEmotion: Satisfaction\nViral Angle: Mind-blowing reveal (of hidden patterns) & Transformation (from chaos to order).\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  🤯 Watch: Sound Vibrations Create Perfect Geometric Art!\n2.  How a Violin Bow Unlocks Hidden Particle Patterns!\n3.  Physics Magic? See Particles Dance into Stunning Shapes!\n4.  The Secret Beauty of Vibrations Revealed! (Mind-Blown)\n5.  This Is What Happens When Sound Meets Science!\n\n[YOUTUBE_DESCRIPTION]\nEver seen sound become visible? 🤯 Watch in awe as simple vibrations from a violin bow transform loose particles into intricate, mesmerizing geometric patterns! This isn't magic, it's the incredible science of cymatics (Chladni figures) at play, revealing the hidden beauty of physics. Prepare to be satisfied by this stunning display of order emerging from chaos. What's your favorite shape created by these vibrations? Let us know in the comments! 👇\n\n[YOUTUBE_HASHTAGS]\n#Science #Physics #Satisfying #Art #Amazing #Cymatics #ChladniFigures #Vibrations #SoundWaves #GeometricPatterns #ScienceExperiment #Educational #PhysicsFacts #VisualScience #OrderFromChaos #Shorts #YouTubeShorts #MindBlown #ViralShorts #ScienceIsCool\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: vibrations\nSecondary keywords: geometric shapes, violin bow, particles, sound patterns, physics experiment, cymatics\nLong-tail keywords: what happens when you vibrate a plate, cymatics explained, chladni figures science, beauty of sound vibrations, how sound creates patterns, science of vibration\n\n[BONUS_CTA]\n1.  What's the coolest pattern you've ever seen? Tell us below! 👇\n2.  🤯 Share this with a friend who loves mind-blowing science!\n3.  Tap the like button if you were mesmerized by this physics phenomenon! ✨",
+          "title": "🤯 Watch: Sound Vibrations Create Perfect Geometric Art!",
+          "description": "Ever seen sound become visible? 🤯 Watch in awe as simple vibrations from a violin bow transform loose particles into intricate, mesmerizing geometric patterns! This isn't magic, it's the incredible science of cymatics (Chladni figures) at play, revealing the hidden beauty of physics. Prepare to be satisfied by this stunning display of order emerging from chaos. What's your favorite shape created by these vibrations? Let us know in the comments! 👇",
+          "hashtags": "#Science #Physics #Satisfying #Art #Amazing #Cymatics #ChladniFigures #Vibrations #SoundWaves #GeometricPatterns #ScienceExperiment #Educational #PhysicsFacts #VisualScience #OrderFromChaos #Shorts #YouTubeShorts #MindBlown #ViralShorts #ScienceIsCool",
+          "keywords": "Primary keyword: vibrations\nSecondary keywords: geometric shapes, violin bow, particles, sound patterns, physics experiment, cymatics\nLong-tail keywords: what happens when you vibrate a plate, cymatics explained, chladni figures science, beauty of sound vibrations, how sound creates patterns, science of vibration"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3518,7 +3524,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961198",
-      "updated_at": "2026-05-31T17:24:21.961201"
+      "updated_at": "2026-06-06T20:59:45.198673"
     }
   },
   {
