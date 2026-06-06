@@ -3536,20 +3536,26 @@
       "drive_link": "https://drive.google.com/file/d/1KIb-ALuVpDauveZ75gsv_-NtpvKpHobo/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "HEIS PLAYING WITH HE IS PLAYNG WTH ;?? HEIS PLAYNG WITH HEIS PLAYNG WITHH HE IS PLAYNG WTH ,?? HE IS PLAYING WITH WTF ; !I WTF",
+      "ocr_generated_at": "2026-06-06T22:02:51.139758"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Ctuv3VdOZSU",
+        "uploaded_at": "2026-06-06T22:03:05.723543",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The confusion and surprise surrounding an unknown object someone is playing with, generating a \"WTF\" reaction. The core is the mystery and the viewer's attempt to identify the object.\nTarget Audience: Gen Z, internet culture enthusiasts, people who enjoy short-form content, mystery challenges, and \"mind-blowing\" or surprising moments.\nEmotion: Surprise (due to the explicit \"WTF\")\nViral Angle: Mind-blowing reveal / Unexpected twist (even if the reveal isn't in the transcript, the *anticipation* and mystery of it is the hook). The central question \"What is he playing with?\" drives engagement.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  He's playing with WHAT?! My jaw DROPPED 🤯\n2.  Seriously, what IS he doing?! You won't guess this.\n3.  WTF is he playing with?! This stumped everyone.\n4.  Can YOU guess what he's playing with? 👇 Challenge!\n5.  This mystery object has me SCREAMING. What is it?!\n\n[YOUTUBE_DESCRIPTION]\n\nGet ready for a mind-bending YouTube Short! We captured a moment that left us all utterly confused and saying \"WTF!\" This person is playing with something so bizarre, we still can't figure it out. Is it an unknown gadget, a strange toy, or just pure madness? Watch and try to identify this mystery object. It's a \"what is he playing with\" challenge that will leave you scratching your head! Let us know your best guess in the comments below. Don't forget to like, share, and subscribe for more viral mysteries and hilarious reactions!\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts #Viral #Trending #Mystery #WTF #WhatIsIt #GuessTheObject #MindBlown #Bizarre #WeirdStuff #FunnyReactions #Challenge #Unbelievable #Unexpected #Confused #YouWontBelieveThis #CaughtOnCamera #InternetMystery #ShortVideo #MysteryObject\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: what is he playing with\nSecondary keywords: mystery object, WTF moment, bizarre, weird, unexpected, shorts viral, confusing video\nLong-tail keywords: what is he playing with challenge, trying to guess what he's playing with, mind blown mystery object short, funny reaction to unknown object, internet mystery solved\n\n[BONUS_CTA]\n\n1.  \"What do YOU think he's playing with? Drop your wildest guess in the comments! 👇\"\n2.  \"Can you solve this mind-boggling mystery? Like if you're completely stumped!\"\n3.  \"Share this with a friend who loves a good puzzle! Let's see if they can figure it out! 🧠\"",
+          "title": "He's playing with WHAT?! My jaw DROPPED 🤯",
+          "description": "Get ready for a mind-bending YouTube Short! We captured a moment that left us all utterly confused and saying \"WTF!\" This person is playing with something so bizarre, we still can't figure it out. Is it an unknown gadget, a strange toy, or just pure madness? Watch and try to identify this mystery object. It's a \"what is he playing with\" challenge that will leave you scratching your head! Let us know your best guess in the comments below. Don't forget to like, share, and subscribe for more viral mysteries and hilarious reactions!",
+          "hashtags": "#Shorts #Viral #Trending #Mystery #WTF #WhatIsIt #GuessTheObject #MindBlown #Bizarre #WeirdStuff #FunnyReactions #Challenge #Unbelievable #Unexpected #Confused #YouWontBelieveThis #CaughtOnCamera #InternetMystery #ShortVideo #MysteryObject",
+          "keywords": "Primary keyword: what is he playing with\nSecondary keywords: mystery object, WTF moment, bizarre, weird, unexpected, shorts viral, confusing video\nLong-tail keywords: what is he playing with challenge, trying to guess what he's playing with, mind blown mystery object short, funny reaction to unknown object, internet mystery solved"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3602,7 +3608,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961244",
-      "updated_at": "2026-05-31T17:24:21.961247"
+      "updated_at": "2026-06-06T22:03:05.723571"
     }
   },
   {
