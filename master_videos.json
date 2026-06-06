@@ -3620,20 +3620,26 @@
       "drive_link": "https://drive.google.com/file/d/1ZspXTZC3nLgp8UVpHxqoln34Gz00VNdo/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "BRO KNOWS THE PHYSICSI Bernoulli's Principle",
+      "ocr_generated_at": "2026-06-06T23:11:03.005742"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "5lLF8XphRqU",
+        "uploaded_at": "2026-06-06T23:11:19.992000",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Bernoulli's Principle (Physics demonstration/explanation)\nTarget Audience: Science enthusiasts, students struggling with physics, curious minds, people who enjoy unexpected displays of intelligence, general audience looking for quick educational content.\nEmotion: Surprise\nViral Angle: Unexpected twist (a 'bro' demonstrating deep physics knowledge) combined with a mind-blowing reveal (the principle in action, making a complex concept simple).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  🤯 BRO Explains Bernoulli's Principle Like a Genius!\n2.  Wait, THIS Bro Knows Physics?! Bernoulli's Principle DEMO!\n3.  Mind Blown! Easy Explanation of Bernoulli's Principle by a Bro.\n4.  You Won't Believe How He Shows Bernoulli's Principle! #Physics\n5.  Bro's Secret: Unlocking Bernoulli's Principle in Seconds!\n\n[YOUTUBE_DESCRIPTION]\n\nGet ready to have your mind blown! 🤯 Watch as this 'bro' effortlessly explains and demonstrates the amazing Bernoulli's Principle. You'll be surprised by his grasp of fluid dynamics and how easy he makes complex physics seem. This isn't your average science lesson!\n\nDiscover the hidden magic behind everyday phenomena and see why understanding Bernoulli's Principle is so cool. Prepare for an unexpected twist and a genuinely mind-blowing reveal that will make you rethink what you know about physics. Don't miss this incredible demonstration!\n\n#BernoullisPrinciple #PhysicsExplained #ScienceFacts\n\n[YOUTUBE_HASHTAGS]\n\n#Physics #Science #Experiments #LearnOnYouTube #AmazingFacts #BernoullisPrinciple #FluidDynamics #STEM #ScienceExplainer #PhysicsExperiments #MindBlown #Unexpected #Genius #CoolScience #DidYouKnow #BroKnows #ScienceIsFun #EduTok #HowItWorks #ScienceShorts\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keyword: Bernoulli's Principle\nSecondary Keywords: Physics experiment, fluid dynamics, science explained, how it works, science demonstration, easy physics, physics concepts, amazing science\nLong-tail Keywords: How to understand Bernoulli's Principle, easy physics explanation, Bernoulli's Principle demonstration, bro explains physics, unexpected physics lesson, what is Bernoulli's Principle explained, science made simple\n\n[BONUS_CTA]\n\n1.  Was your mind blown too?! Let us know in the comments what other physics concepts we should cover! 👇\n2.  Share this with a friend who thinks physics is boring – they won't believe how cool this is!\n3.  Hit the like button if you learned something new! What's the craziest science fact you know?",
+          "title": "🤯 BRO Explains Bernoulli's Principle Like a Genius!",
+          "description": "Get ready to have your mind blown! 🤯 Watch as this 'bro' effortlessly explains and demonstrates the amazing Bernoulli's Principle. You'll be surprised by his grasp of fluid dynamics and how easy he makes complex physics seem. This isn't your average science lesson!\n\nDiscover the hidden magic behind everyday phenomena and see why understanding Bernoulli's Principle is so cool. Prepare for an unexpected twist and a genuinely mind-blowing reveal that will make you rethink what you know about physics. Don't miss this incredible demonstration!\n\n#BernoullisPrinciple #PhysicsExplained #ScienceFacts",
+          "hashtags": "#Physics #Science #Experiments #LearnOnYouTube #AmazingFacts #BernoullisPrinciple #FluidDynamics #STEM #ScienceExplainer #PhysicsExperiments #MindBlown #Unexpected #Genius #CoolScience #DidYouKnow #BroKnows #ScienceIsFun #EduTok #HowItWorks #ScienceShorts",
+          "keywords": "Primary Keyword: Bernoulli's Principle\nSecondary Keywords: Physics experiment, fluid dynamics, science explained, how it works, science demonstration, easy physics, physics concepts, amazing science\nLong-tail Keywords: How to understand Bernoulli's Principle, easy physics explanation, Bernoulli's Principle demonstration, bro explains physics, unexpected physics lesson, what is Bernoulli's Principle explained, science made simple"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3686,7 +3692,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961292",
-      "updated_at": "2026-05-31T17:24:21.961295"
+      "updated_at": "2026-06-06T23:11:19.992027"
     }
   },
   {
