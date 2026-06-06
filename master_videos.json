@@ -3116,20 +3116,26 @@
       "drive_link": "https://drive.google.com/file/d/1ZmxtgH-Zfuk-pK-n7elmh-hU09J57xFR/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "BABIES WILL NEVER TOUCH GRASS CAUSE THEY EXPERIENCE SENSORY OVERLOAD",
+      "ocr_generated_at": "2026-06-06T13:16:00.141915"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "gYrSVgnsA4w",
+        "uploaded_at": "2026-06-06T13:16:11.977254",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Sensory overload in babies preventing them from touching grass.\nTarget Audience: Parents, expectant parents, caregivers, anyone interested in child development or surprising facts about babies.\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal about a common observation.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Why Babies WILL NEVER Touch Grass! 🤯\n2.  The SHOCKING Reason Babies Avoid Grass\n3.  Sensory Overload: Why Babies Can't Stand Grass\n4.  Did You Know Babies Experience Sensory Overload on Grass?\n5.  Mind-Blown: Babies & The Grass Mystery\n\n[YOUTUBE_DESCRIPTION]\nEver wonder why babies freak out when you try to put them on grass? It's not just a dislike, it's sensory overload! 🤯 Their developing nervous systems can find the texture, temperature, and movement overwhelming. Learn why this fascinating aspect of baby development means they might never truly \"touch grass\" in the way we imagine. Share this surprising fact with other parents!\n\n#BabySensory #ChildDevelopment #ParentingFacts\n\n[YOUTUBE_HASHTAGS]\n#Babies\n#Parenting\n#SensoryOverload\n#BabyFacts\n#DidYouKnow\n#ChildDevelopment\n#NewParents\n#ParentingTips\n#ToddlerLife\n#MomLife\n#DadLife\n#MindBlown\n#Shorts\n#ViralFacts\n#ShockingFacts\n#LearnOnYouTube\n#BabyScience\n#ParentingHacks\n#FirstTimeMom\n#BabyCare\n\n[YOUTUBE_KEYWORDS]\nbaby sensory overload, babies grass, why babies avoid grass, child development facts, baby sensory issues, touching grass babies, surprising baby facts, new parent tips, baby behavior explained, sensory integration babies, infant development, baby milestones, facts about babies, what is sensory overload\n\n[BONUS_CTA]\n1.  What's the funniest thing your baby has refused to touch? Tell us below! 👇\n2.  Hit LIKE if this fact blew your mind, and SHARE with a parent who needs to see this!\n3.  Subscribe for more mind-blowing baby facts!",
+          "title": "Why Babies WILL NEVER Touch Grass! 🤯",
+          "description": "Ever wonder why babies freak out when you try to put them on grass? It's not just a dislike, it's sensory overload! 🤯 Their developing nervous systems can find the texture, temperature, and movement overwhelming. Learn why this fascinating aspect of baby development means they might never truly \"touch grass\" in the way we imagine. Share this surprising fact with other parents!\n\n#BabySensory #ChildDevelopment #ParentingFacts",
+          "hashtags": "#Babies\n#Parenting\n#SensoryOverload\n#BabyFacts\n#DidYouKnow\n#ChildDevelopment\n#NewParents\n#ParentingTips\n#ToddlerLife\n#MomLife\n#DadLife\n#MindBlown\n#Shorts\n#ViralFacts\n#ShockingFacts\n#LearnOnYouTube\n#BabyScience\n#ParentingHacks\n#FirstTimeMom\n#BabyCare",
+          "keywords": "baby sensory overload, babies grass, why babies avoid grass, child development facts, baby sensory issues, touching grass babies, surprising baby facts, new parent tips, baby behavior explained, sensory integration babies, infant development, baby milestones, facts about babies, what is sensory overload"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3182,7 +3188,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960998",
-      "updated_at": "2026-05-31T17:24:21.961001"
+      "updated_at": "2026-06-06T13:16:11.977280"
     }
   },
   {
