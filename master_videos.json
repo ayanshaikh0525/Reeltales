@@ -2948,20 +2948,26 @@
       "drive_link": "https://drive.google.com/file/d/1PLYn7l2WnOo168XeQveVE41NF4DTaO5l/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Dance On The Moon Surface Jumped Trom the spacee Jumped from the space Jumped from the spacel Driving A Car On The Surface Of The Moon Meanwhile Hanging In Spacell",
+      "ocr_generated_at": "2026-06-06T09:58:30.061454"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "GZKwoZGOS7A",
+        "uploaded_at": "2026-06-06T09:58:49.972553",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "## [VIRAL_ANALYSIS]\n\nPrimary Topic: Surreal and impossible actions in space and on the moon.\nTarget Audience: Sci-fi enthusiasts, dreamers, curious minds, AI art/visual effects fans, anyone intrigued by mind-bending content.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (of unimaginable, impossible feats and scenarios)\nContent Category: Mystery\n\n## [YOUTUBE_TITLES]\n\n1.  Dancing on the Moon: IMPOSSIBLE?! 🤯 #Shorts\n2.  Driving a Car on the Moon... While Hanging in Space?!\n3.  This Moon Video Will Make You Question Everything.\n4.  They Jumped From Space & Danced on the Moon! (How?!)\n5.  Mind-Bending Space Scenarios: What's REAL?\n\n## [YOUTUBE_DESCRIPTION]\n\nEver imagined dancing on the moon? Or maybe driving a car on its surface, all while casually floating in space?! 🤯 This #Shorts video takes you on a wild, mind-bending journey through impossible space scenarios. From epic jumps from orbit to surreal moon dances, prepare to question everything you thought you knew about gravity and reality. Is this AI, a dream, or just pure imagination? You HAVE to see this to believe it. What's your favorite impossible feat from this clip? 👇\n\n## [YOUTUBE_HASHTAGS]\n\n1.  #Space\n2.  #Moon\n3.  #Impossible\n4.  #Viral\n5.  #Trending\n6.  #Mystery\n7.  #SciFi\n8.  #MindBlown\n9.  #Shorts\n10. #MoonWalk\n11. #SpaceAdventures\n12. #Cosmos\n13. #Surreal\n14. #Imagination\n15. #GravityDefying\n16. #DeepSpace\n17. #Unbelievable\n18. #RealityCheck\n19. #WhatIf\n20. #AIContent\n\n## [YOUTUBE_KEYWORDS]\n\nPrimary: impossible space, moon dance, driving on moon\nSecondary: space jump, lunar surface, gravity defying, surreal space, AI generated space, mind bending\nLong-tail: what if you could dance on the moon, driving a car on the moon while hanging in space, mind-blowing space scenarios, impossible feats in space, real or fake space video, wildest space dreams\n\n## [BONUS_CTA]\n\n1.  What's the craziest thing *you'd* do on the moon? Tell us in the comments! 👇\n2.  Hit that like button if this video blew your mind! Share it with a friend!\n3.  Subscribe for more mind-bending space content that challenges reality!",
+          "title": "Dancing on the Moon: IMPOSSIBLE?! 🤯 #Shorts",
+          "description": "Ever imagined dancing on the moon? Or maybe driving a car on its surface, all while casually floating in space?! 🤯 This #Shorts video takes you on a wild, mind-bending journey through impossible space scenarios. From epic jumps from orbit to surreal moon dances, prepare to question everything you thought you knew about gravity and reality. Is this AI, a dream, or just pure imagination? You HAVE to see this to believe it. What's your favorite impossible feat from this clip? 👇\n\n##",
+          "hashtags": "1.  #Space\n2.  #Moon\n3.  #Impossible\n4.  #Viral\n5.  #Trending\n6.  #Mystery\n7.  #SciFi\n8.  #MindBlown\n9.  #Shorts\n10. #MoonWalk\n11. #SpaceAdventures\n12. #Cosmos\n13. #Surreal\n14. #Imagination\n15. #GravityDefying\n16. #DeepSpace\n17. #Unbelievable\n18. #RealityCheck\n19. #WhatIf\n20. #AIContent\n\n##",
+          "keywords": "Primary: impossible space, moon dance, driving on moon\nSecondary: space jump, lunar surface, gravity defying, surreal space, AI generated space, mind bending\nLong-tail: what if you could dance on the moon, driving a car on the moon while hanging in space, mind-blowing space scenarios, impossible feats in space, real or fake space video, wildest space dreams\n\n##"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3014,7 +3020,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960889",
-      "updated_at": "2026-05-31T17:24:21.960892"
+      "updated_at": "2026-06-06T09:58:49.972579"
     }
   },
   {
