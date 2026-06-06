@@ -3032,20 +3032,26 @@
       "drive_link": "https://drive.google.com/file/d/12jN8QfjtysXZAxqhwnhm1ofg5GmK3SDa/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Chinese Guy Built an Auto Aiming Ttash Cam Auto Alming Tbash Can Chinese Built an Auto Aiming Tash Cam Guy Auto Aiming Ttash Can does something cooler too Just throw the trash at it and it will catch Wait for it It even plays rock paper scissors",
+      "ocr_generated_at": "2026-06-06T11:24:10.977462"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "0Br3IhjJSdk",
+        "uploaded_at": "2026-06-06T11:24:24.060326",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Auto-aiming trash can with advanced features (including playing Rock Paper Scissors).\nTarget Audience: Tech enthusiasts, gadget lovers, innovation seekers, humor fans, general audience looking for surprising and entertaining content.\nEmotion: Surprise\nViral Angle: Unexpected twist (plays Rock Paper Scissors), Mind-blowing reveal, Funny situation\nContent Category: AI Content\n\n[YOUTUBE_TITLES]\n1.  🤯 He Built an Auto-Aiming Trash Can... But WAIT!\n2.  THIS Smart Trash Can Plays Rock Paper Scissors?!\n3.  Chinese Inventor's Auto-Aim Trash Can Has A CRAZY Secret\n4.  Throw Trash, It Catches. Then It Does THIS! #Robotics\n5.  Mind-Blown! 🤯 This AI Trash Can Is Too Smart\n\n[YOUTUBE_DESCRIPTION]\nYou won't believe what this Chinese inventor created! It's not just an auto-aiming trash can that catches anything you throw... there's an incredible twist that will blow your mind. Watch till the end to see this smart gadget's ultimate secret feature! This isn't your average bin; it's the future of trash disposal and a whole lot of fun.\n\n[YOUTUBE_HASHTAGS]\n#AutoAimTrashCan\n#SmartGadget\n#Innovation\n#TechTok\n#FutureTech\n#Robotics\n#ChineseInvention\n#MindBlown\n#WaitForIt\n#Surprise\n#CrazyTech\n#AIContent\n#CoolGadget\n#DIYTech\n#RockPaperScissors\n#ViralShorts\n#MustWatch\n#Engineering\n#Automation\n#FunnyTech\n\n[YOUTUBE_KEYWORDS]\nauto aiming trash can, smart trash can, robotic trash can, trash can rock paper scissors, Chinese invention, future tech, AI gadget, intelligent trash bin, cool innovation, mind blowing tech, tech shorts, viral gadget, unexpected feature, smart home tech, AI robotics, DIY smart projects\n\n[BONUS_CTA]\n1.  🤯 Drop a comment: What other crazy features should this trash can have?\n2.  Like and Share if this trash can blew your mind! Can you beat it at Rock Paper Scissors?\n3.  Save this video and show your friends the future of trash! What's the wildest invention you've seen?",
+          "title": "🤯 He Built an Auto-Aiming Trash Can... But WAIT!",
+          "description": "You won't believe what this Chinese inventor created! It's not just an auto-aiming trash can that catches anything you throw... there's an incredible twist that will blow your mind. Watch till the end to see this smart gadget's ultimate secret feature! This isn't your average bin; it's the future of trash disposal and a whole lot of fun.",
+          "hashtags": "#AutoAimTrashCan\n#SmartGadget\n#Innovation\n#TechTok\n#FutureTech\n#Robotics\n#ChineseInvention\n#MindBlown\n#WaitForIt\n#Surprise\n#CrazyTech\n#AIContent\n#CoolGadget\n#DIYTech\n#RockPaperScissors\n#ViralShorts\n#MustWatch\n#Engineering\n#Automation\n#FunnyTech",
+          "keywords": "auto aiming trash can, smart trash can, robotic trash can, trash can rock paper scissors, Chinese invention, future tech, AI gadget, intelligent trash bin, cool innovation, mind blowing tech, tech shorts, viral gadget, unexpected feature, smart home tech, AI robotics, DIY smart projects"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3098,7 +3104,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960947",
-      "updated_at": "2026-05-31T17:24:21.960950"
+      "updated_at": "2026-06-06T11:24:24.060351"
     }
   },
   {
