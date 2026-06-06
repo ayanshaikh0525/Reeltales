@@ -2864,20 +2864,26 @@
       "drive_link": "https://drive.google.com/file/d/1fgeQjpqXJI14f4_T6cOb024kVJd2yAQ1/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "There is no wind but the stands still Apollo 11 Mission flag Really *? PART-1",
+      "ocr_generated_at": "2026-06-06T07:44:31.249014"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "7NXd0FmFuZI",
+        "uploaded_at": "2026-06-06T07:44:47.155451",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The apparent \"waving\" of the American flag on the moon during the Apollo 11 mission despite the absence of wind.\nTarget Audience: Space enthusiasts, history buffs, science-curious individuals, conspiracy theory debunkers, general audience interested in mysteries.\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal (debunking a common misconception about a historical event).\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  Moon Flag Waving: The Untold Truth of Apollo 11 🤯\n2.  NO WIND on the Moon, so Why Did the Flag Wave? (Part 1)\n3.  Apollo 11 Flag Mystery: Is it Waving or NOT?\n4.  Debunking the Moon Landing Flag Myth (Shocking Reason!)\n5.  The Secret Behind the Apollo 11 Flag's \"Wave\"\n\n[YOUTUBE_DESCRIPTION]\n\nThe Apollo 11 moon flag looks like it's waving... but there's NO WIND in space?! 🤯 This viral mystery has confused millions. In PART 1, we break down the iconic image and reveal the hidden scientific truth behind the moon landing flag's unique appearance. You won't believe the simple explanation! 👇 Watch till the end to understand the *real* story. #MoonFlag #Apollo11Facts\n\n[YOUTUBE_HASHTAGS]\n\n1.  #Shorts\n2.  #Space\n3.  #Mystery\n4.  #Facts\n5.  #Science\n6.  #Apollo11\n7.  #MoonLanding\n8.  #NASA\n9.  #SpaceExploration\n10. #ScienceFacts\n11. #ConspiracyTheory\n12. #Debunked\n13. #Astronomy\n14. #HistoryFacts\n15. #ViralShorts\n16. #MindBlown\n17. #DidYouKnow\n18. #TruthRevealed\n19. #EducationalShorts\n20. #QuickFacts\n\n[YOUTUBE_KEYWORDS]\n\nApollo 11 flag, moon flag, moon landing, NASA, space facts, conspiracy theory, waving flag on moon, why does the moon flag wave, Apollo 11 flag mystery explained, no wind on moon flag, moon landing flag debunked, space flag facts, Neil Armstrong flag, American flag moon, lunar flag, space history, science explained.\n\n[BONUS_CTA]\n\n1.  What's YOUR theory on the flag? Let us know in the comments! 👇\n2.  Like this if you learned something new! Share with a friend who loves space mysteries!\n3.  Hit follow for Part 2 and more mind-blowing space facts!",
+          "title": "Moon Flag Waving: The Untold Truth of Apollo 11 🤯",
+          "description": "The Apollo 11 moon flag looks like it's waving... but there's NO WIND in space?! 🤯 This viral mystery has confused millions. In PART 1, we break down the iconic image and reveal the hidden scientific truth behind the moon landing flag's unique appearance. You won't believe the simple explanation! 👇 Watch till the end to understand the *real* story. #MoonFlag #Apollo11Facts",
+          "hashtags": "1.  #Shorts\n2.  #Space\n3.  #Mystery\n4.  #Facts\n5.  #Science\n6.  #Apollo11\n7.  #MoonLanding\n8.  #NASA\n9.  #SpaceExploration\n10. #ScienceFacts\n11. #ConspiracyTheory\n12. #Debunked\n13. #Astronomy\n14. #HistoryFacts\n15. #ViralShorts\n16. #MindBlown\n17. #DidYouKnow\n18. #TruthRevealed\n19. #EducationalShorts\n20. #QuickFacts",
+          "keywords": "Apollo 11 flag, moon flag, moon landing, NASA, space facts, conspiracy theory, waving flag on moon, why does the moon flag wave, Apollo 11 flag mystery explained, no wind on moon flag, moon landing flag debunked, space flag facts, Neil Armstrong flag, American flag moon, lunar flag, space history, science explained."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2930,7 +2936,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960840",
-      "updated_at": "2026-05-31T17:24:21.960843"
+      "updated_at": "2026-06-06T07:44:47.155478"
     }
   },
   {
