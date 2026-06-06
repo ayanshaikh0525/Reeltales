@@ -3284,20 +3284,26 @@
       "drive_link": "https://drive.google.com/file/d/1ey4qTYBjpQRnp7SWBhFRaOQWecmXCL3O/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Will the fly survive? mantis grabbed the fly by the neck and made it game over: The The mantis grabbed the fly",
+      "ocr_generated_at": "2026-06-06T17:05:36.416805"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "g99JTfIf18E",
+        "uploaded_at": "2026-06-06T17:05:49.900426",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Praying mantis hunting and capturing a fly.\nTarget Audience: Nature enthusiasts, wildlife lovers, individuals curious about insects, viewers who enjoy dramatic animal encounters, and those seeking quick, intense natural history moments.\nEmotion: Curiosity\nViral Angle: Dramatic encounter / Mind-blowing reveal (of the mantis's speed and efficiency)\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n1.  Will The Fly Survive? 😱 Mantis Attack!\n2.  Praying Mantis vs Fly: Game Over in Seconds!\n3.  Nature's Assassin: Mantis GRABS Fly Mid-Air!\n4.  You Won't Believe How Fast This Mantis Hunts!\n5.  Fly's Last Flight: Mantis Says \"Game Over!\"\n\n[YOUTUBE_DESCRIPTION]\nWatch this incredible, lightning-fast moment as a praying mantis executes the perfect hunt! The fly never stood a chance. Witness nature's efficiency in action as this apex predator seals its fate in an instant. Prepare for a shocking, blink-and-you'll-miss-it reveal of the mantis's predatory power.\n\n[YOUTUBE_HASHTAGS]\n#PrayingMantis\n#Mantis\n#Insect\n#Wildlife\n#Nature\n#AnimalAttack\n#Predator\n#Prey\n#Bugs\n#Shorts\n#ViralShorts\n#NatureIsBrutal\n#InsectWorld\n#Entomology\n#FastHunter\n#GameOver\n#AnimalMoments\n#WildAnimals\n#AmazingNature\n#Shocking\n\n[YOUTUBE_KEYWORDS]\npraying mantis, mantis, fly, insect hunt, predator prey, nature attack, wildlife, mantis catches fly, insect hunting tactics, fast hunter, game over, animal fight, insect facts, wildlife shorts, praying mantis vs fly, mantis predation, bug attack\n\n[BONUS_CTA]\n1.  What's the fastest animal you've ever seen? Tell us in the comments! 👇\n2.  Hit that like button if you were shocked by the mantis's speed! 🤯\n3.  Subscribe for more incredible wildlife moments like this! 🔔",
+          "title": "Will The Fly Survive? 😱 Mantis Attack!",
+          "description": "Watch this incredible, lightning-fast moment as a praying mantis executes the perfect hunt! The fly never stood a chance. Witness nature's efficiency in action as this apex predator seals its fate in an instant. Prepare for a shocking, blink-and-you'll-miss-it reveal of the mantis's predatory power.",
+          "hashtags": "#PrayingMantis\n#Mantis\n#Insect\n#Wildlife\n#Nature\n#AnimalAttack\n#Predator\n#Prey\n#Bugs\n#Shorts\n#ViralShorts\n#NatureIsBrutal\n#InsectWorld\n#Entomology\n#FastHunter\n#GameOver\n#AnimalMoments\n#WildAnimals\n#AmazingNature\n#Shocking",
+          "keywords": "praying mantis, mantis, fly, insect hunt, predator prey, nature attack, wildlife, mantis catches fly, insect hunting tactics, fast hunter, game over, animal fight, insect facts, wildlife shorts, praying mantis vs fly, mantis predation, bug attack"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3350,7 +3356,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961097",
-      "updated_at": "2026-05-31T17:24:21.961100"
+      "updated_at": "2026-06-06T17:05:49.900452"
     }
   },
   {
