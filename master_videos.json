@@ -3368,20 +3368,26 @@
       "drive_link": "https://drive.google.com/file/d/1Cu4jz2w1L0z24DXnnnE9PTsvCayrCN9X/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "What happens when a Battle Tank goes over a car at full speed The car is reduced t@ dust",
+      "ocr_generated_at": "2026-06-06T19:10:57.677922"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "3Akws1kof-U",
+        "uploaded_at": "2026-06-06T19:11:10.875539",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The extreme destructive outcome of a battle tank running over a car at full speed.\nTarget Audience: Viewers interested in destructive tests, military vehicles, car crashes, \"what if\" scenarios, visual spectacles, and surprising reveals.\nEmotion: Shock\nViral Angle: Mind-blowing reveal of extreme destruction / Rare footage of a powerful military tank pulverizing a car.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Tank vs Car: FULL SPEED Destruction! 🤯\n2.  What Happens When a Battle Tank Crushes a Car?\n3.  Car Reduced to DUST by Tank (You Won't Believe It!)\n4.  Military Tank vs. Civilian Car: The Shocking Result\n5.  Watch a Tank Obliterate a Car at Top Speed!\n\n[YOUTUBE_DESCRIPTION]\nEver wondered what happens when an unstoppable force meets a... well, a very stoppable object? Prepare for the ultimate destruction! This isn't just a car crash, it's a complete pulverization. 💥 See firsthand as a powerful battle tank turns a vehicle into mere dust right before your eyes. The sheer force and incredible visual are truly shocking to witness. Don't blink!\n#TankVsCar #Destruction #BattleTank #FullSpeed #CarCrush #Mindblown #MilitaryPower #Shocking #Experiment\n\n[YOUTUBE_HASHTAGS]\nLayer 1 (Large Audience):\n#Shorts #Viral #Trending #Experiment #WhatIf #Insane #MustWatch #Action\n\nLayer 2 (Niche-Specific):\n#TankVsCar #BattleTank #Military #CarCrush #Destruction #VehicleDestruction\n\nLayer 3 (Trend/Viral):\n#Mindblown #Shocking #ExtremeFootage #FullSpeed #Unbelievable #Power\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: Tank vs car\nSecondary keywords: Battle tank, car crushed, full speed, tank destruction, military vehicle, car obliteration, extreme destruction\nLong-tail keywords: What happens when a tank runs over a car, military tank destroys car, car turned to dust by tank, tank vs sedan experiment, incredible destruction footage, tank crushing test\n\n[BONUS_CTA]\n1.  Did you expect *that* outcome? Tell us in the comments! 👇\n2.  🤯 Share this mind-blowing destruction with a friend!\n3.  Rewatch to catch every jaw-dropping detail!",
+          "title": "Tank vs Car: FULL SPEED Destruction! 🤯",
+          "description": "Ever wondered what happens when an unstoppable force meets a... well, a very stoppable object? Prepare for the ultimate destruction! This isn't just a car crash, it's a complete pulverization. 💥 See firsthand as a powerful battle tank turns a vehicle into mere dust right before your eyes. The sheer force and incredible visual are truly shocking to witness. Don't blink!\n#TankVsCar #Destruction #BattleTank #FullSpeed #CarCrush #Mindblown #MilitaryPower #Shocking #Experiment",
+          "hashtags": "Layer 1 (Large Audience):\n#Shorts #Viral #Trending #Experiment #WhatIf #Insane #MustWatch #Action\n\nLayer 2 (Niche-Specific):\n#TankVsCar #BattleTank #Military #CarCrush #Destruction #VehicleDestruction\n\nLayer 3 (Trend/Viral):\n#Mindblown #Shocking #ExtremeFootage #FullSpeed #Unbelievable #Power",
+          "keywords": "Primary keyword: Tank vs car\nSecondary keywords: Battle tank, car crushed, full speed, tank destruction, military vehicle, car obliteration, extreme destruction\nLong-tail keywords: What happens when a tank runs over a car, military tank destroys car, car turned to dust by tank, tank vs sedan experiment, incredible destruction footage, tank crushing test"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3434,7 +3440,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961144",
-      "updated_at": "2026-05-31T17:24:21.961147"
+      "updated_at": "2026-06-06T19:11:10.875566"
     }
   },
   {
