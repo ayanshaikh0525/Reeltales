@@ -3200,20 +3200,26 @@
       "drive_link": "https://drive.google.com/file/d/1eBGRnkQBKTQ-7r-YK5NYigQVbbkhJIPh/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "BMW's self-cleaning feature washes both the front and rear cameras Morinm BLU ~olortamt BL 77",
+      "ocr_generated_at": "2026-06-06T15:09:53.781667"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "T9TW3XXZTE0",
+        "uploaded_at": "2026-06-06T15:10:08.459440",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: BMW's self-cleaning front and rear cameras\nTarget Audience: Car enthusiasts, BMW owners/aspirants, luxury tech enthusiasts, anyone interested in automotive innovation and cutting-edge features.\nEmotion: Surprise\nViral Angle: Hidden fact / Mind-blowing reveal (many won't know this feature exists)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  BMW's Secret Camera Cleaner Will SHOCK You! 🤯\n2.  Did You Know BMW Cameras Do THIS?! (Mind Blown)\n3.  Luxury Car Tech: BMW Washes Its OWN Cameras!\n4.  Unbelievable BMW Feature: Self-Cleaning Cameras!\n5.  BMW's Genius Hidden Detail: Pristine Camera Views!\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered how luxury car cameras stay so clear, even in bad weather? 🤔 BMW has a jaw-dropping solution! This incredible self-cleaning feature automatically washes BOTH the front and rear cameras, ensuring perfect visibility every single time. 🚿🏎️\n\nNo more blurry reversing or front camera views! This is next-level automotive innovation you probably never knew existed. ✨\n\nWhat's the coolest hidden feature you've seen in a car? Let us know! 👇\n\n#BMWSelfCleaning #CarTech #LuxuryCars #BMWInnovation #AutomotiveFacts #MindBlown\n\n[YOUTUBE_HASHTAGS]\n\n#BMW\n#Cars\n#Automotive\n#LuxuryCars\n#CarFeatures\n#Tech\n#BMWSelfCleaning\n#BMWInnovation\n#CarGadgets\n#DrivingTech\n#AutomotiveTech\n#FutureCars\n#HiddenFeatures\n#MindBlown\n#DidYouKnow\n#CarTok\n#TechTok\n#Satisfying\n#Unexpected\n#LuxuryLife\n\n[YOUTUBE_KEYWORDS]\n\nBMW self-cleaning camera, BMW camera washer, luxury car tech, automotive innovation, BMW features, car cameras, hidden BMW features, how BMW cameras stay clean, coolest BMW features, BMW front and rear camera washing system, high-tech cars, luxury auto tech.\n\n[BONUS_CTA]\n\n1.  Drop a comment if your car needs this feature! 👇\n2.  Hit SAVE to show your friends this mind-blowing tech!\n3.  FOLLOW for more unexpected luxury car secrets!",
+          "title": "BMW's Secret Camera Cleaner Will SHOCK You! 🤯",
+          "description": "Ever wondered how luxury car cameras stay so clear, even in bad weather? 🤔 BMW has a jaw-dropping solution! This incredible self-cleaning feature automatically washes BOTH the front and rear cameras, ensuring perfect visibility every single time. 🚿🏎️\n\nNo more blurry reversing or front camera views! This is next-level automotive innovation you probably never knew existed. ✨\n\nWhat's the coolest hidden feature you've seen in a car? Let us know! 👇\n\n#BMWSelfCleaning #CarTech #LuxuryCars #BMWInnovation #AutomotiveFacts #MindBlown",
+          "hashtags": "#BMW\n#Cars\n#Automotive\n#LuxuryCars\n#CarFeatures\n#Tech\n#BMWSelfCleaning\n#BMWInnovation\n#CarGadgets\n#DrivingTech\n#AutomotiveTech\n#FutureCars\n#HiddenFeatures\n#MindBlown\n#DidYouKnow\n#CarTok\n#TechTok\n#Satisfying\n#Unexpected\n#LuxuryLife",
+          "keywords": "BMW self-cleaning camera, BMW camera washer, luxury car tech, automotive innovation, BMW features, car cameras, hidden BMW features, how BMW cameras stay clean, coolest BMW features, BMW front and rear camera washing system, high-tech cars, luxury auto tech."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3266,7 +3272,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961047",
-      "updated_at": "2026-05-31T17:24:21.961050"
+      "updated_at": "2026-06-06T15:10:08.459465"
     }
   },
   {
