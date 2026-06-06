@@ -2780,20 +2780,26 @@
       "drive_link": "https://drive.google.com/file/d/1nGoO9O3deYG0hphwULqDgqRNUCcUX3uB/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "January Nihilist Penguin Moral of the Story? February PUNCH March? April? And So Ooo On ?33",
+      "ocr_generated_at": "2026-06-06T04:51:08.097617"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "4qO-XKTh904",
+        "uploaded_at": "2026-06-06T04:51:22.321782",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: An absurd, dark humor narrative involving a nihilist penguin, a monthly sequence, and an unexpected violent action. It challenges viewer expectations with a sudden twist.\nTarget Audience: Viewers who enjoy short-form, meme-like content, dark humor, philosophical jokes, unexpected twists, and animal-related comedy.\nEmotion: Humor (with strong elements of Curiosity and Surprise)\nViral Angle: Funny situation / Unexpected twist. The sudden, absurd turn of events after a philosophical setup is highly shareable and creates a strong \"wait for it\" moment.\nContent Category: Humor\n\n[YOUTUBE_TITLES]\n\n1.  Nihilist Penguin's January... then February PUNCH! 🤯\n2.  The REAL Moral of the Story? This Penguin will shock you!\n3.  January: Deep Thoughts. February: *Surprise!* 🐧😂\n4.  You Won't BELIEVE what this Nihilist Penguin did next!\n5.  Absurd Penguin Short: From Philosophy to PUNCH!\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered what a nihilist penguin truly gets up to? This short takes a hilariously dark turn, starting with deep January thoughts and escalating to February's completely unexpected action. What's the moral of *this* story? Prepare for a laugh, a surprise, and definitely a rewatch! This absurd, funny short is guaranteed to grab your attention. Don't miss the ultimate nihilist penguin plot twist! Let us know what you think happened next!\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts #Funny #Comedy #Viral #Trending #Meme #Explore #NihilistPenguin #AbsurdHumor #DarkHumor #Unexpected #StoryTime #PenguinLife #ShortStory #PhilosophicalComedy #WTFShorts #MindBlown #FunnyAnimals #WaitForIt #DailyDoseOfLaughs\n\n[YOUTUBE_KEYWORDS]\n\nnihilist penguin, funny shorts, absurd humor, dark comedy, unexpected twist, penguin meme, moral of the story, monthly challenges, short story, viral short, philosophical comedy, animal humor, funny animals, january february punch\n\n[BONUS_CTA]\n\n1.  What's YOUR take on the Moral of the Story? Comment below! 👇\n2.  Hit like if you didn't see that coming! 🤣\n3.  Subscribe for more absurd shorts that make you think (and laugh)!",
+          "title": "Nihilist Penguin's January... then February PUNCH! 🤯",
+          "description": "Ever wondered what a nihilist penguin truly gets up to? This short takes a hilariously dark turn, starting with deep January thoughts and escalating to February's completely unexpected action. What's the moral of *this* story? Prepare for a laugh, a surprise, and definitely a rewatch! This absurd, funny short is guaranteed to grab your attention. Don't miss the ultimate nihilist penguin plot twist! Let us know what you think happened next!",
+          "hashtags": "#Shorts #Funny #Comedy #Viral #Trending #Meme #Explore #NihilistPenguin #AbsurdHumor #DarkHumor #Unexpected #StoryTime #PenguinLife #ShortStory #PhilosophicalComedy #WTFShorts #MindBlown #FunnyAnimals #WaitForIt #DailyDoseOfLaughs",
+          "keywords": "nihilist penguin, funny shorts, absurd humor, dark comedy, unexpected twist, penguin meme, moral of the story, monthly challenges, short story, viral short, philosophical comedy, animal humor, funny animals, january february punch"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2846,7 +2852,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960790",
-      "updated_at": "2026-05-31T17:24:21.960793"
+      "updated_at": "2026-06-06T04:51:22.321808"
     }
   },
   {
