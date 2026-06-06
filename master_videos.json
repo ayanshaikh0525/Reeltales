@@ -2696,20 +2696,26 @@
       "drive_link": "https://drive.google.com/file/d/18h5Ih1KbmoSduTSpBj4nXb083R5dDPBm/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Sharpest ever view of Andromeda Galaxy showing more than 100 million stars People Who Don't Know People Who Dontt Know Those Who Know",
+      "ocr_generated_at": "2026-06-06T00:15:03.097580"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "NWP8nypeP4Q",
+        "uploaded_at": "2026-06-06T00:15:20.257893",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The unprecedented, highly detailed view of the Andromeda Galaxy revealing over 100 million stars, presented within the context of the \"People Who Don't Know\" viral meme format.\nTarget Audience: Space enthusiasts, meme lovers, individuals curious about the universe, and general short-form video consumers looking for visually stunning or mind-blowing content.\nEmotion: Surprise (from the sheer scale and clarity of the view), Curiosity (to see what is being revealed), and a touch of Satisfaction/Humor (for those who get the meme format). Dominant: **Surprise**.\nViral Angle: Mind-blowing reveal (the never-before-seen detail of Andromeda) framed by a highly popular, relatable meme structure (\"People Who Don't Know\").\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  People Who Don't Know THIS Andromeda View 🤯\n2.  The Andromeda Galaxy Secret (100 Million Stars Revealed!)\n3.  You've NEVER Seen Andromeda Like This Before!\n4.  Mind Blown: Andromeda's INSANE 100 Million Star Detail!\n5.  What People Don't Know About Andromeda's Sharpest View...\n\n[YOUTUBE_DESCRIPTION]\nEver seen Andromeda THIS clearly? 🤯 Prepare to have your mind blown as we reveal the sharpest view ever captured of our closest galactic neighbor, the Andromeda Galaxy! This incredible footage shows over 100 million individual stars in stunning detail. If you're one of the 'People Who Don't Know' what secrets Andromeda holds, you're about to find out! What a universe we live in. Don't miss this astronomical marvel!\n\n[YOUTUBE_HASHTAGS]\n#Space #Universe #Astronomy #Galaxy #Science #Andromeda #AndromedaGalaxy #Stars #Cosmos #DeepSpace #MindBlown #ViralShorts #SpaceFacts #🤯 #Shorts #Facts #DidYouKnow #ExploreSpace #Astrophotography #Unbelievable #PeopleWhoDontKnow\n\n[YOUTUBE_KEYWORDS]\nPrimary Keyword: Andromeda Galaxy\nSecondary Keywords: Andromeda, galaxy, stars, space, astronomy, universe, sharpest view, deep space\nLong-tail Keywords: sharpest view of andromeda galaxy, 100 million stars andromeda, mind blown space facts, people who don't know andromeda, closest galaxy to milky way, andromeda galaxy revealed, cosmic wonders, astronomical facts\n\n[BONUS_CTA]\n1.  Hit subscribe to explore more cosmic wonders!\n2.  What's the most mind-blowing space fact YOU know? Share in the comments!\n3.  Tag a friend who needs to see this insane galaxy view! 👇",
+          "title": "People Who Don't Know THIS Andromeda View 🤯",
+          "description": "Ever seen Andromeda THIS clearly? 🤯 Prepare to have your mind blown as we reveal the sharpest view ever captured of our closest galactic neighbor, the Andromeda Galaxy! This incredible footage shows over 100 million individual stars in stunning detail. If you're one of the 'People Who Don't Know' what secrets Andromeda holds, you're about to find out! What a universe we live in. Don't miss this astronomical marvel!",
+          "hashtags": "#Space #Universe #Astronomy #Galaxy #Science #Andromeda #AndromedaGalaxy #Stars #Cosmos #DeepSpace #MindBlown #ViralShorts #SpaceFacts #🤯 #Shorts #Facts #DidYouKnow #ExploreSpace #Astrophotography #Unbelievable #PeopleWhoDontKnow",
+          "keywords": "Primary Keyword: Andromeda Galaxy\nSecondary Keywords: Andromeda, galaxy, stars, space, astronomy, universe, sharpest view, deep space\nLong-tail Keywords: sharpest view of andromeda galaxy, 100 million stars andromeda, mind blown space facts, people who don't know andromeda, closest galaxy to milky way, andromeda galaxy revealed, cosmic wonders, astronomical facts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -2762,7 +2768,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.960741",
-      "updated_at": "2026-05-31T17:24:21.960744"
+      "updated_at": "2026-06-06T00:15:20.257931"
     }
   },
   {
