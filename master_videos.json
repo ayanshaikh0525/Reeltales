@@ -3872,20 +3872,26 @@
       "drive_link": "https://drive.google.com/file/d/10DuaTXuPOIk9YOgMJ0Ot7R2mmKOzxGCV/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Bicycle which you can ride by just walking cknu rde by just walking RED? (I AEUP Cak Bicycle which yoU can ride By just walking The walking motion drives the rear wheel through a mechanical linkage system; turning your natural stride into smooth forward motion: mechanical linkage system, Rosaria $ allaahse Issalon puaeP33ta",
+      "ocr_generated_at": "2026-06-07T10:25:46.944645"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "8ZZA8NDK8_E",
+        "uploaded_at": "2026-06-07T10:25:59.987669",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A bicycle that operates by a walking motion instead of pedals.\nTarget Audience: Innovation enthusiasts, tech curious individuals, cyclists, engineers, people interested in unique inventions and sustainable transport.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal / Unique invention\nContent Category: Innovation\n\n[YOUTUBE_TITLES]\n1.  🤯 Ride a Bike by WALKING?! (This will blow your mind!)\n2.  The \"Walking Bicycle\" EXPLAINED! (No Pedals?!)\n3.  Future Cycling: No Pedals, Just Your Stride!\n4.  Mind-Blown: This Bike MOVES With Your Natural Walk!\n5.  Is THIS the NEW Bicycle? (You won't believe how it works!)\n\n[YOUTUBE_DESCRIPTION]\nEver seen a bicycle you can ride just by *walking*? 🤔 Prepare to be surprised by this incredible invention! This revolutionary \"walking bicycle\" uses a clever mechanical linkage system to turn your natural stride into smooth forward motion. No pedals needed, just walk and go! Is this the future of personal transport and cycling innovation? Watch till the end to see how this walking bicycle works and let us know what you think! 👇\n\n[YOUTUBE_HASHTAGS]\n#Innovation #Technology #Invention #FutureTech #Engineering #WalkingBicycle #BikeLife #CyclingInnovation #UniqueInvention #MechanicalLinkage #NewGadget #FutureMobility #TechExplained #Mindblown #Unexpected #ViralTech #ShortsViral #CoolGadgets #FYP #MustWatch\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: walking bicycle\nSecondary keywords: mechanical linkage system, ride by walking, bicycle innovation, no pedals bike\nLong-tail keywords: how does a walking bicycle work, future of cycling no pedals, bicycle with walking motion explained, unique bicycle inventions, mechanical engineering bicycle\n\n[BONUS_CTA]\n1.  What do you think of this incredible invention? Share your thoughts in the comments!\n2.  Hit that like button if you'd love to try riding this walking bicycle!\n3.  Follow for more mind-blowing innovations and future tech reveals!",
+          "title": "🤯 Ride a Bike by WALKING?! (This will blow your mind!)",
+          "description": "Ever seen a bicycle you can ride just by *walking*? 🤔 Prepare to be surprised by this incredible invention! This revolutionary \"walking bicycle\" uses a clever mechanical linkage system to turn your natural stride into smooth forward motion. No pedals needed, just walk and go! Is this the future of personal transport and cycling innovation? Watch till the end to see how this walking bicycle works and let us know what you think! 👇",
+          "hashtags": "#Innovation #Technology #Invention #FutureTech #Engineering #WalkingBicycle #BikeLife #CyclingInnovation #UniqueInvention #MechanicalLinkage #NewGadget #FutureMobility #TechExplained #Mindblown #Unexpected #ViralTech #ShortsViral #CoolGadgets #FYP #MustWatch",
+          "keywords": "Primary keyword: walking bicycle\nSecondary keywords: mechanical linkage system, ride by walking, bicycle innovation, no pedals bike\nLong-tail keywords: how does a walking bicycle work, future of cycling no pedals, bicycle with walking motion explained, unique bicycle inventions, mechanical engineering bicycle"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3938,7 +3944,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961440",
-      "updated_at": "2026-05-31T17:24:21.961443"
+      "updated_at": "2026-06-07T10:25:59.987705"
     }
   },
   {
