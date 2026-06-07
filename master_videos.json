@@ -3788,20 +3788,26 @@
       "drive_link": "https://drive.google.com/file/d/1RA0ALuvizpzEbnki8MJugGt5q2wBnLpJ/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "J0O 420 3 | Jdo 7160 7180 Dan Its just 120 kiph speed; nonmal 10O 720 Iao 4160 D00 It's just 120 kmph speed5 mormal 400 4120 3 ,7, I4o 4180 200 Its just 120 kmph speedb mormal 3 ,1 / 160 I80 It' s just 120 kiph speed; nogmal J0o 3 ,1/ / Jao 180 710O 7120 3 |1 / Joq Hao 410O Beyond the speedometer linit HI0O Kao Joo H0o 120 760 710o 1120 1 1",
+      "ocr_generated_at": "2026-06-07T07:03:43.753292"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "ZlFNUvUUg_k",
+        "uploaded_at": "2026-06-07T07:04:00.988763",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The hidden realities, physics, and implications of exceeding perceived speed limits or going \"beyond the speedometer limit,\" potentially revealing unexpected vehicle capabilities or overlooked dangers.\nTarget Audience: Car enthusiasts, speed aficionados, drivers, automotive tech junkies, anyone curious about extreme vehicle performance and the science behind speed.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (The shocking truth of what lies \"beyond the limit\" or what your speedometer doesn't tell you)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  Beyond 120 KMPH: The TRUTH Your Speedometer HIDES! 🤯\n2.  What Happens When You Push Past the Speed Limit? WATCH!\n3.  Your Car Can Do THIS?! Shocking Speed Limit REVEAL!\n4.  120 KMPH is \"Normal\"? Prepare to Be SHOCKED!\n5.  Ever Wonder What's Beyond the Limit? Mind-Blowing Facts!\n\n[YOUTUBE_DESCRIPTION]\n\nThink you know speed? Most drivers stick to the limits, but what *really* happens when you push a vehicle past its perceived boundaries, beyond what your dashboard displays? This Short dives deep into the mind-blowing realities of extreme velocity, exploring the physics, the hidden capabilities, and the surprising truths that lie \"beyond the speedometer limit.\" Don't miss this reveal – your perception of speed will never be the same! #SpeedLimits #CarFacts #Automotive\n\n[YOUTUBE_HASHTAGS]\n\n#Speed\n#Cars\n#Driving\n#Automotive\n#Vehicles\n#CarFacts\n#SpeedLimit\n#CarPerformance\n#HighSpeed\n#BeyondTheLimit\n#MindBlown\n#DidYouKnow\n#PhysicsOfSpeed\n#ExtremeDriving\n#CarEnthusiast\n#HiddenTruth\n#Revealed\n#ViralShorts\n#CarTok\n#FastCars\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: beyond speedometer limit\nSecondary keywords: high speed driving, car performance, speed facts, vehicle limits, 120 kmph, automotive physics\nLong-tail keywords: what happens beyond 120 kmph, true car speed limits, understanding vehicle capabilities, extreme driving physics, hidden facts about speed, car speedometer accuracy\n\n[BONUS_CTA]\n\n1.  🤯 Was this what you expected? Tell us below!\n2.  Hit like if you've ever wondered about your car's true limit!\n3.  Subscribe for more mind-bending automotive secrets!",
+          "title": "Beyond 120 KMPH: The TRUTH Your Speedometer HIDES! 🤯",
+          "description": "Think you know speed? Most drivers stick to the limits, but what *really* happens when you push a vehicle past its perceived boundaries, beyond what your dashboard displays? This Short dives deep into the mind-blowing realities of extreme velocity, exploring the physics, the hidden capabilities, and the surprising truths that lie \"beyond the speedometer limit.\" Don't miss this reveal – your perception of speed will never be the same! #SpeedLimits #CarFacts #Automotive",
+          "hashtags": "#Speed\n#Cars\n#Driving\n#Automotive\n#Vehicles\n#CarFacts\n#SpeedLimit\n#CarPerformance\n#HighSpeed\n#BeyondTheLimit\n#MindBlown\n#DidYouKnow\n#PhysicsOfSpeed\n#ExtremeDriving\n#CarEnthusiast\n#HiddenTruth\n#Revealed\n#ViralShorts\n#CarTok\n#FastCars",
+          "keywords": "Primary keyword: beyond speedometer limit\nSecondary keywords: high speed driving, car performance, speed facts, vehicle limits, 120 kmph, automotive physics\nLong-tail keywords: what happens beyond 120 kmph, true car speed limits, understanding vehicle capabilities, extreme driving physics, hidden facts about speed, car speedometer accuracy"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3854,7 +3860,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961391",
-      "updated_at": "2026-05-31T17:24:21.961394"
+      "updated_at": "2026-06-07T07:04:00.988800"
     }
   },
   {
