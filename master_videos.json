@@ -3704,20 +3704,26 @@
       "drive_link": "https://drive.google.com/file/d/1bSSQjIiSDBXD8lrzBqu1QqGpx26m4Kv2/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Best use of 'optical illusion Bestuse of Bestuse of optical illusion Bestiuse of optical illusion Best use of optical illusion A 3D cube @n & wall Corner, looks cool A 3D cube on & wall Corner , looks cool",
+      "ocr_generated_at": "2026-06-07T02:49:15.492428"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "ul11-jfRxYk",
+        "uploaded_at": "2026-06-07T02:49:30.730295",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Optical illusion featuring a 3D cube on a wall corner.\nTarget Audience: Viewers interested in visual tricks, art, design, brain teasers, satisfying content, and surprising discoveries.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal (the object is not what it seems)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  🤯 Is This a REAL 3D Cube?! Optical Illusion Explainer!\n2.  Your Eyes Will NOT Believe This Wall Trick! #MindBlown\n3.  Best Optical Illusion: 3D Cube on a Flat Wall?!\n4.  Mind-Blowing 3D Cube Illusion on a Corner!\n5.  Watch How This WALL Plays Tricks On Your Brain!\n\n[YOUTUBE_DESCRIPTION]\nPrepare for a mind-bending experience! This incredible optical illusion makes a flat wall corner look like a perfectly rendered 3D cube. Can your brain handle the visual trickery? 🤯\n\nThis isn't just paint; it's a masterpiece of perception that will leave you questioning what's real. Watch till the end to fully appreciate the genius behind this visual phenomenon!\n\nWhat did you see first? Let us know in the comments below! 👇\n\n#OpticalIllusion #3DCube #MindBlown #VisualTrick #CoolStuff #BrainTeaser\n\n[YOUTUBE_HASHTAGS]\n#OpticalIllusion\n#MindBlown\n#VisualTrick\n#CoolStuff\n#AmazingVisuals\n#3DCube\n#WallArt\n#BrainTeaser\n#ArtIllusion\n#Perception\n#VisualArt\n#Satisfying\n#HowDidTheyDoThat\n#Shorts\n#YouTubeShorts\n#ViralShorts\n#Trending\n#Unbelievable\n#DailyDoseOfAwesome\n#EyeTricks\n\n[YOUTUBE_KEYWORDS]\noptical illusion, 3D cube, visual trick, wall art, perception, mind-blowing illusion, cool visuals, best optical illusion 3D cube, how optical illusions work, amazing wall corner illusion, brain tricking art, viral optical illusion shorts, cool optical illusions, 3D art illusion, satisfying visuals\n\n[BONUS_CTA]\n1.  Did this trick your eyes? Let me know in the comments! 👇\n2.  Like if you had to rewatch it to believe it! ✨\n3.  Share this with a friend to blow their mind! 🧠",
+          "title": "🤯 Is This a REAL 3D Cube?! Optical Illusion Explainer!",
+          "description": "Prepare for a mind-bending experience! This incredible optical illusion makes a flat wall corner look like a perfectly rendered 3D cube. Can your brain handle the visual trickery? 🤯\n\nThis isn't just paint; it's a masterpiece of perception that will leave you questioning what's real. Watch till the end to fully appreciate the genius behind this visual phenomenon!\n\nWhat did you see first? Let us know in the comments below! 👇\n\n#OpticalIllusion #3DCube #MindBlown #VisualTrick #CoolStuff #BrainTeaser",
+          "hashtags": "#OpticalIllusion\n#MindBlown\n#VisualTrick\n#CoolStuff\n#AmazingVisuals\n#3DCube\n#WallArt\n#BrainTeaser\n#ArtIllusion\n#Perception\n#VisualArt\n#Satisfying\n#HowDidTheyDoThat\n#Shorts\n#YouTubeShorts\n#ViralShorts\n#Trending\n#Unbelievable\n#DailyDoseOfAwesome\n#EyeTricks",
+          "keywords": "optical illusion, 3D cube, visual trick, wall art, perception, mind-blowing illusion, cool visuals, best optical illusion 3D cube, how optical illusions work, amazing wall corner illusion, brain tricking art, viral optical illusion shorts, cool optical illusions, 3D art illusion, satisfying visuals"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -3770,7 +3776,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961339",
-      "updated_at": "2026-05-31T17:24:21.961342"
+      "updated_at": "2026-06-07T02:49:30.730327"
     }
   },
   {
