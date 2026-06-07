@@ -4040,20 +4040,26 @@
       "drive_link": "https://drive.google.com/file/d/1-Trg9N0_XBcD-btqAgFPs1-mnZifNloy/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Rare Black Wolf Face To Face Encounter Video Black wolf is very rare Animal Rare Black Wolf % Face To Face Encounter Video",
+      "ocr_generated_at": "2026-06-07T14:50:23.110380"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "dUb49L1TolE",
+        "uploaded_at": "2026-06-07T14:50:44.301034",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A rare, face-to-face encounter with a black wolf in the wild.\nTarget Audience: Wildlife enthusiasts, nature lovers, animal documentary viewers, people curious about rare animals, adventure seekers, and those who enjoy thrilling 'caught on camera' content.\nEmotion: Curiosity\nViral Angle: Rare footage of an unexpected, close-up encounter with an extremely rare and elusive animal (black wolf). The \"face to face\" aspect immediately creates tension and intrigue.\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n1.  Face-to-Face with a RARE Black Wolf! You Won't Believe What Happened!\n2.  POV: Encountering the Most Elusive Black Wolf! #WildlifeShorts\n3.  This Wild Black Wolf Got SO Close! (Wait For It...)\n4.  NEVER Seen Before: Extreme Close-Up of a RARE Black Wolf!\n5.  What To Do When You See a Black Wolf? Watch This Incredible Moment!\n\n[YOUTUBE_DESCRIPTION]\nWitness an unbelievably rare moment! 🐺 This video captures a thrilling, face-to-face encounter with a majestic black wolf in its natural habitat. Black wolves are incredibly elusive, making this wild wolf encounter truly unforgettable. Get ready for an adrenaline rush as we come incredibly close to one of nature's most mysterious predators. What would YOU do in this situation? This rare black wolf sighting is a must-see! Don't miss this incredible wildlife encounter footage.\n\n[YOUTUBE_HASHTAGS]\n#blackwolf #rarewolf #wolfencounter #wildlife #animals #nature #wolf #wildanimals #predator #carnivore #animalfacts #shorts #viralshorts #unbelievable #caughtoncamera #waitforit #mustsee #rare #mystery #wildlifephotography\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: black wolf encounter\nSecondary keywords: rare black wolf, wolf video, wildlife encounter, wild wolf, black wolf sighting, close up wolf\nLong-tail keywords: face to face black wolf encounter, what happens when you see a black wolf, rare animal encounter, black wolf in the wild, incredible wolf footage, real wolf encounter\n\n[BONUS_CTA]\n1.  What would YOU do if you encountered a black wolf? Share your thoughts below!\n2.  Hit the like button if this rare black wolf amazed you!\n3.  Subscribe for more mind-blowing wildlife encounters!",
+          "title": "Face-to-Face with a RARE Black Wolf! You Won't Believe What Happened!",
+          "description": "Witness an unbelievably rare moment! 🐺 This video captures a thrilling, face-to-face encounter with a majestic black wolf in its natural habitat. Black wolves are incredibly elusive, making this wild wolf encounter truly unforgettable. Get ready for an adrenaline rush as we come incredibly close to one of nature's most mysterious predators. What would YOU do in this situation? This rare black wolf sighting is a must-see! Don't miss this incredible wildlife encounter footage.",
+          "hashtags": "#blackwolf #rarewolf #wolfencounter #wildlife #animals #nature #wolf #wildanimals #predator #carnivore #animalfacts #shorts #viralshorts #unbelievable #caughtoncamera #waitforit #mustsee #rare #mystery #wildlifephotography",
+          "keywords": "Primary keyword: black wolf encounter\nSecondary keywords: rare black wolf, wolf video, wildlife encounter, wild wolf, black wolf sighting, close up wolf\nLong-tail keywords: face to face black wolf encounter, what happens when you see a black wolf, rare animal encounter, black wolf in the wild, incredible wolf footage, real wolf encounter"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4106,7 +4112,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961541",
-      "updated_at": "2026-05-31T17:24:21.961544"
+      "updated_at": "2026-06-07T14:50:44.301059"
     }
   },
   {
