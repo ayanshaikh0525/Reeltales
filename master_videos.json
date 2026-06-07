@@ -4208,20 +4208,26 @@
       "drive_link": "https://drive.google.com/file/d/1-C3Tp2jJnyLwHq5SdMsv2B90t7u9bE89/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "DVa Just w8 and Watched uvaida Uvall] bon Jvaiaa Bone grinding can change whole face Bone grinding can change thole face",
+      "ocr_generated_at": "2026-06-07T18:02:22.081567"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Au_9U1GMv3A",
+        "uploaded_at": "2026-06-07T18:02:36.699640",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Facial transformation through bone grinding/reshaping procedures.\nTarget Audience: Individuals interested in cosmetic surgery, extreme makeovers, beauty trends, medical facts, and human anatomy.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (the extent of facial change), Hidden fact (how it's done), Transformation (dramatic before/after potential).\nContent Category: Educational, Facts, Transformation\n\n[YOUTUBE_TITLES]\n1.  Bone Grinding: The Secret to a Whole New Face?!\n2.  Your Face Can Be Completely Reshaped: How Bone Grinding Works\n3.  Mind-Blown! How They GRIND Bones to Change Faces\n4.  Extreme Facial Transformation: Is Bone Grinding the Key?\n5.  Did You Know? Bone Grinding Can Change Your Entire Face!\n\n[YOUTUBE_DESCRIPTION]\n🤯 Ever wondered how some people achieve such dramatic facial transformations? The secret might be more intense than you think! Learn about the jaw-dropping process of **bone grinding** and how surgeons can literally reshape your entire face. From subtle tweaks to incredible makeovers, discover the science behind this extreme procedure.\n\nIs it painful? What are the results? Watch this Short to uncover the shocking truth and see how **facial bone reshaping** is revolutionizing aesthetics. Don't scroll past this! Your face can change drastically!\n\n#FacialTransformation #BoneGrinding #CosmeticSurgery\n\n[YOUTUBE_HASHTAGS]\n#FacialTransformation #BeautySecrets #PlasticSurgery #BodyModification #ExtremeMakeover #JawlineContouring #FaceReshaping #BoneSurgery #CosmeticProcedure #DidYouKnow #MindBlown #ShockingFacts #MedicalFacts #BeforeAndAfter #ViralVideo #YouTubeShorts #AestheticSurgery #BeautyTrends #HealthFacts #SurgicalTransformation\n\n[YOUTUBE_KEYWORDS]\nfacial transformation, bone grinding, face reshaping, cosmetic surgery, jawline contouring, plastic surgery facts, extreme makeover, facial bone reshaping, how to change face shape, cosmetic procedure, bone structure alteration, facial reconstruction, aesthetic surgery, before and after surgery\n\n[BONUS_CTA]\n1.  What's your opinion on such extreme transformations? Let us know in the comments!\n2.  Tap 'Subscribe' to uncover more mind-blowing secrets and amazing facts!\n3.  Share this with someone who needs to see how much a face can change!",
+          "title": "Bone Grinding: The Secret to a Whole New Face?!",
+          "description": "🤯 Ever wondered how some people achieve such dramatic facial transformations? The secret might be more intense than you think! Learn about the jaw-dropping process of **bone grinding** and how surgeons can literally reshape your entire face. From subtle tweaks to incredible makeovers, discover the science behind this extreme procedure.\n\nIs it painful? What are the results? Watch this Short to uncover the shocking truth and see how **facial bone reshaping** is revolutionizing aesthetics. Don't scroll past this! Your face can change drastically!\n\n#FacialTransformation #BoneGrinding #CosmeticSurgery",
+          "hashtags": "#FacialTransformation #BeautySecrets #PlasticSurgery #BodyModification #ExtremeMakeover #JawlineContouring #FaceReshaping #BoneSurgery #CosmeticProcedure #DidYouKnow #MindBlown #ShockingFacts #MedicalFacts #BeforeAndAfter #ViralVideo #YouTubeShorts #AestheticSurgery #BeautyTrends #HealthFacts #SurgicalTransformation",
+          "keywords": "facial transformation, bone grinding, face reshaping, cosmetic surgery, jawline contouring, plastic surgery facts, extreme makeover, facial bone reshaping, how to change face shape, cosmetic procedure, bone structure alteration, facial reconstruction, aesthetic surgery, before and after surgery"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4274,7 +4280,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961652",
-      "updated_at": "2026-05-31T17:24:21.961654"
+      "updated_at": "2026-06-07T18:02:36.699674"
     }
   },
   {
