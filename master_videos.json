@@ -3956,20 +3956,26 @@
       "drive_link": "https://drive.google.com/file/d/1Spg2tUeIFx0DP6Qjy2By5KNMfUdMQ9fN/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Just W8 and Watched Birds With a Sense of Humor",
+      "ocr_generated_at": "2026-06-07T12:20:17.144920"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Y_SiaoX1FDw",
+        "uploaded_at": "2026-06-07T12:20:30.916880",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Humorous bird behavior and antics.\nTarget Audience: Animal lovers, nature enthusiasts, people looking for lighthearted content, those who enjoy funny animal videos.\nEmotion: Humor (dominant), Surprise, Happiness.\nViral Angle: Funny situation / Unexpected behavior from animals / Cute interaction.\nContent Category: Animals, Humor.\n\n[YOUTUBE_TITLES]\n\n1.  Wait for it... These Birds Have the BEST Sense of Humor! 😂\n2.  Ever Seen Birds This Funny? Prepare to Laugh Out Loud!\n3.  Hilarious Birds Caught On Camera: You Won't Believe Their Antics!\n4.  These Feathered Comedians Will Make Your Day! #BirdHumor\n5.  Just Watch: Birds With a WILD Sense of Humor! So Unexpected!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare for some serious laughs! 😂 You absolutely have to \"wait and watch\" these incredible birds with an undeniable sense of humor. From their mischievous expressions to their hilarious reactions, these feathered friends are pure comedy gold. If you love funny animals and unexpected moments, this Short is for you! Watch till the end to see their funniest antics. Perfect for a quick smile and a much-needed laugh!\n\n[YOUTUBE_HASHTAGS]\n\n#shorts #animals #funny #cuteanimals #viralvideo #comedy #nature #birds #birdwatching #wildlife #birdlovers #animalantics #avian #featheredfriends #waitforit #hilarious #unexpected #mustwatch #laughoutloud #funnymoments\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: Funny birds, Birds humor\nSecondary keywords: Hilarious birds, Bird comedy, Animal humor, Bird antics, Wild birds funny, Cute birds, Talking birds (if relevant to humor), Bird jokes\nLong-tail keywords: Birds with a sense of humor, Watch funny bird videos, Funniest bird moments, Birds acting like comedians, Unexpected bird humor, Wild bird funny moments, Birds that make you laugh\n\n[BONUS_CTA]\n\n1.  Which bird was your favorite comedian? Tell us in the comments below! 👇\n2.  Don't miss more hilarious animal moments – subscribe for your daily dose of smiles!\n3.  Share this with a friend who needs a good laugh today! 😂",
+          "title": "Wait for it... These Birds Have the BEST Sense of Humor! 😂",
+          "description": "Prepare for some serious laughs! 😂 You absolutely have to \"wait and watch\" these incredible birds with an undeniable sense of humor. From their mischievous expressions to their hilarious reactions, these feathered friends are pure comedy gold. If you love funny animals and unexpected moments, this Short is for you! Watch till the end to see their funniest antics. Perfect for a quick smile and a much-needed laugh!",
+          "hashtags": "#shorts #animals #funny #cuteanimals #viralvideo #comedy #nature #birds #birdwatching #wildlife #birdlovers #animalantics #avian #featheredfriends #waitforit #hilarious #unexpected #mustwatch #laughoutloud #funnymoments",
+          "keywords": "Primary keyword: Funny birds, Birds humor\nSecondary keywords: Hilarious birds, Bird comedy, Animal humor, Bird antics, Wild birds funny, Cute birds, Talking birds (if relevant to humor), Bird jokes\nLong-tail keywords: Birds with a sense of humor, Watch funny bird videos, Funniest bird moments, Birds acting like comedians, Unexpected bird humor, Wild bird funny moments, Birds that make you laugh"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4022,7 +4028,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961492",
-      "updated_at": "2026-05-31T17:24:21.961495"
+      "updated_at": "2026-06-07T12:20:30.916924"
     }
   },
   {
