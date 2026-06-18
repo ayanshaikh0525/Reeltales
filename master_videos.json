@@ -4376,20 +4376,26 @@
       "drive_link": "https://drive.google.com/file/d/1oPlal499yeGQx65fSR8HD9yUwkt9dd2f/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Your mind will be lost for a momentl Drawing? UiaW'rie? Spol thedEwg? Spobihediawiing? Spolthediawing? Spolfhedawing? Spobthediawng? Spolthedrawing? Spolthedrwing? Spot the drawing? Spalihe  wing?",
+      "ocr_generated_at": "2026-06-18T22:06:59.237058"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "TUTlzeKI9CU",
+        "uploaded_at": "2026-06-18T22:07:13.789160",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "## [VIRAL_ANALYSIS]\n\nPrimary Topic: Hidden Object Puzzle / Visual Challenge (\"Spot the Drawing\")\nTarget Audience: Puzzle enthusiasts, casual viewers seeking quick mental challenges, people who enjoy optical illusions or brain teasers.\nEmotion: Curiosity\nViral Angle: Mental Challenge / Mind-bending reveal (when the hidden drawing is found)\nContent Category: Mystery\n\n## [YOUTUBE_TITLES]\n\n1.  Your Mind Will Be Lost: Can YOU Spot The Hidden Drawing?\n2.  Only 1% Can See It: Spot The Drawing Challenge!\n3.  Viral Eye Test: Find The Hidden Drawing Before Time Runs Out!\n4.  Mind-Bending Puzzle: How Fast Can You Spot The Drawing?\n5.  Don't Blink! Spot The Secret Drawing In This Illusion.\n\n## [YOUTUBE_DESCRIPTION]\n\nGet ready for a mind-bending challenge that will test your eyes and focus! 🤯 Can you spot the hidden drawing in this viral visual puzzle? Most people get lost trying to find it quickly. This quick brain teaser is designed to make you pause, look closely, and engage your mind.\n\nWatch until the end for the reveal, and let us know in the comments how long it took you to find it! Share this challenge with your friends and family to see who has the sharpest eyes!\n\n#SpotTheDrawing #BrainTeaser #OpticalIllusion #MindChallenge #Shorts\n\n## [YOUTUBE_HASHTAGS]\n\n#Shorts\n#Challenge\n#Puzzle\n#BrainTeaser\n#Viral\n#Trending\n#SpotTheDrawing\n#HiddenDrawing\n#OpticalIllusion\n#EyeTest\n#FindIt\n#MindGames\n#VisualPuzzle\n#QuickChallenge\n#ForYou\n#FYP\n#MindBlown\n#DidYouSeeIt\n#CantUnseeIt\n#SatisfyingReveal\n\n## [YOUTUBE_KEYWORDS]\n\nspot the drawing, hidden drawing, optical illusion, brain teaser, eye test challenge, puzzle challenge, visual puzzle, mind bending, viral puzzle, find the drawing, quick challenge, mental exercise, visual test, shorts challenge, how to spot it\n\n## [BONUS_CTA]\n\n1.  Can YOU find it? Comment your answer and time below!\n2.  Share this with a friend and challenge them to beat your time!\n3.  Subscribe for more mind-bending puzzles and viral challenges!",
+          "title": "Your Mind Will Be Lost: Can YOU Spot The Hidden Drawing?",
+          "description": "Get ready for a mind-bending challenge that will test your eyes and focus! 🤯 Can you spot the hidden drawing in this viral visual puzzle? Most people get lost trying to find it quickly. This quick brain teaser is designed to make you pause, look closely, and engage your mind.\n\nWatch until the end for the reveal, and let us know in the comments how long it took you to find it! Share this challenge with your friends and family to see who has the sharpest eyes!\n\n#SpotTheDrawing #BrainTeaser #OpticalIllusion #MindChallenge #Shorts\n\n##",
+          "hashtags": "#Shorts\n#Challenge\n#Puzzle\n#BrainTeaser\n#Viral\n#Trending\n#SpotTheDrawing\n#HiddenDrawing\n#OpticalIllusion\n#EyeTest\n#FindIt\n#MindGames\n#VisualPuzzle\n#QuickChallenge\n#ForYou\n#FYP\n#MindBlown\n#DidYouSeeIt\n#CantUnseeIt\n#SatisfyingReveal\n\n##",
+          "keywords": "spot the drawing, hidden drawing, optical illusion, brain teaser, eye test challenge, puzzle challenge, visual puzzle, mind bending, viral puzzle, find the drawing, quick challenge, mental exercise, visual test, shorts challenge, how to spot it\n\n##"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4442,7 +4448,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961750",
-      "updated_at": "2026-05-31T17:24:21.961753"
+      "updated_at": "2026-06-18T22:07:13.789185"
     }
   },
   {
