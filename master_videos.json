@@ -4292,20 +4292,26 @@
       "drive_link": "https://drive.google.com/file/d/17gQ7QVtm5rAwrUwJrQtdaRRFMbQo8_fo/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "What experiment is this? Now U got it Now Ugot it Now U got",
+      "ocr_generated_at": "2026-06-18T14:01:05.799879"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "NqqtyD6Z_Z4",
+        "uploaded_at": "2026-06-18T14:01:23.936119",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Unveiling a puzzling experiment or scientific phenomenon, leading to a moment of understanding or revelation.\nTarget Audience: Curious individuals, science enthusiasts, puzzle solvers, anyone interested in surprising facts or mind-bending reveals.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Hidden scientific principle. The \"Now U got it\" implies a satisfying moment of clarity after initial confusion.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  WHAT Experiment IS THIS?! 🤯 You WON'T Believe The Reveal!\n2.  Can YOU Guess This MIND-BLOWING Science Experiment? 🤔\n3.  The Mystery Experiment: Watch 'til you \"GET IT\"!\n4.  Hidden Science Fact REVEALED: What Is This Experiment?\n5.  🤯 Guess The Experiment! Prepare to be Amazed.\n\n*(Suggested Thumbnail Text: \"What IS This?\", \"Mind Blown\", \"Got It?\")*\n\n[YOUTUBE_DESCRIPTION]\n\n\"What experiment is this?\" 🤔 Prepare to have your mind blown as we unveil the surprising truth behind this incredible setup! Many people miss the key detail at first, but once you \"get it,\" everything clicks. This isn't just a science experiment; it's a hidden scientific principle that will challenge what you thought you knew. Don't scroll past this jaw-dropping reveal! Watch closely and see if you can figure it out before the big explanation. Let us know if you \"got it\" in the comments! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#Science #Experiment #Mystery #Shorts #MindBlown #Physics #Chemistry #ScienceFacts #DidYouKnow #LearnOnTikTok #ViralScience #Puzzle #Reveal #HiddenFacts #Educational #Curiosity #AmazingScience #WTF #Challenge #BrainTeaser\n\n[YOUTUBE_KEYWORDS]\n\nexperiment, science experiment, what experiment is this, mind blowing experiment, science facts, mystery experiment, hidden science, physics experiment, chemistry experiment, learn science, viral science, educational shorts, science reveal\n\n[BONUS_CTA]\n\n1.  What's your guess BEFORE the reveal? Comment below! 👇\n2.  🤯 Share this with a friend who loves mind-bending science!\n3.  Save this if you \"got it\" and want to rewatch the moment of clarity!",
+          "title": "WHAT Experiment IS THIS?! 🤯 You WON'T Believe The Reveal!",
+          "description": "\"What experiment is this?\" 🤔 Prepare to have your mind blown as we unveil the surprising truth behind this incredible setup! Many people miss the key detail at first, but once you \"get it,\" everything clicks. This isn't just a science experiment; it's a hidden scientific principle that will challenge what you thought you knew. Don't scroll past this jaw-dropping reveal! Watch closely and see if you can figure it out before the big explanation. Let us know if you \"got it\" in the comments! 👇",
+          "hashtags": "#Science #Experiment #Mystery #Shorts #MindBlown #Physics #Chemistry #ScienceFacts #DidYouKnow #LearnOnTikTok #ViralScience #Puzzle #Reveal #HiddenFacts #Educational #Curiosity #AmazingScience #WTF #Challenge #BrainTeaser",
+          "keywords": "experiment, science experiment, what experiment is this, mind blowing experiment, science facts, mystery experiment, hidden science, physics experiment, chemistry experiment, learn science, viral science, educational shorts, science reveal"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4358,7 +4364,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961701",
-      "updated_at": "2026-05-31T17:24:21.961703"
+      "updated_at": "2026-06-18T14:01:23.936144"
     }
   },
   {
