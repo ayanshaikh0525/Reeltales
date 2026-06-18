@@ -4460,20 +4460,26 @@
       "drive_link": "https://drive.google.com/file/d/1ctWyT0s1HpPW_4VPNXKo4Nz_-kHN1YkT/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Bro has never seen the Sun",
+      "ocr_generated_at": "2026-06-18T23:50:52.081495"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "fTLzzA3r1BY",
+        "uploaded_at": "2026-06-18T23:51:05.647785",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A person who has never experienced direct sunlight.\nTarget Audience: Curious viewers, individuals interested in unique human experiences, extreme lifestyles, mysteries, and surprising facts.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Hidden fact / Unbelievable situation that prompts the question \"how?\" and \"why?\".\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  This Man Has NEVER Seen The Sun… Here's Why! 🤯\n2.  The CRAZY Truth: He's Lived His WHOLE Life Without Sunlight!\n3.  Living Without Sun: An Unbelievable True Story Revealed!\n4.  You Won't BELIEVE How He Avoids The Sun!\n5.  He Lives In Total Darkness: The Shocking Reason!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to have your mind blown! 🤯 This YouTube Short reveals the astonishing truth behind a man who has genuinely never seen the sun. How is this even possible in our world? Dive into this incredible mystery and discover the hidden facts about his unique life. You'll be left speechless by the reasons why he lives without sunlight.\n\nDon't miss the full story! What's the most unbelievable fact you've ever heard? Share it in the comments below! 👇\n\n#NeverSeenSun #UnbelievableStory #MysterySolved #HiddenTruth #MindBlownFacts\n\n[YOUTUBE_HASHTAGS]\n\n#Mystery #Facts #Story #MindBlown #Unbelievable\n#NoSunlight #UniqueLife #StrangeButTrue #HumanInterest #RealStory #LifeWithoutSun #HiddenFacts\n#Shorts #YouTubeShorts #ViralVideo #WTF #ShockingFacts #DidYouKnow #Explore #Trending\n\n[YOUTUBE_KEYWORDS]\n\nnever seen sun, no sunlight, man without sun, unbelievable story, unique life, hidden truth, living without sun, person who has never seen the sun, reasons for not seeing the sun, extreme living, mind blowing facts, human oddities, strange stories, true mystery, shocking reveal, short documentary\n\n[BONUS_CTA]\n\n1.  Mind blown? Hit LIKE & SHARE this unbelievable story!\n2.  Could YOU live without the sun? Tell us your thoughts in the comments! 👇\n3.  Save this video to rewatch the shocking truth later!",
+          "title": "This Man Has NEVER Seen The Sun… Here's Why! 🤯",
+          "description": "Prepare to have your mind blown! 🤯 This YouTube Short reveals the astonishing truth behind a man who has genuinely never seen the sun. How is this even possible in our world? Dive into this incredible mystery and discover the hidden facts about his unique life. You'll be left speechless by the reasons why he lives without sunlight.\n\nDon't miss the full story! What's the most unbelievable fact you've ever heard? Share it in the comments below! 👇\n\n#NeverSeenSun #UnbelievableStory #MysterySolved #HiddenTruth #MindBlownFacts",
+          "hashtags": "#Mystery #Facts #Story #MindBlown #Unbelievable\n#NoSunlight #UniqueLife #StrangeButTrue #HumanInterest #RealStory #LifeWithoutSun #HiddenFacts\n#Shorts #YouTubeShorts #ViralVideo #WTF #ShockingFacts #DidYouKnow #Explore #Trending",
+          "keywords": "never seen sun, no sunlight, man without sun, unbelievable story, unique life, hidden truth, living without sun, person who has never seen the sun, reasons for not seeing the sun, extreme living, mind blowing facts, human oddities, strange stories, true mystery, shocking reveal, short documentary"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4526,7 +4532,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961798",
-      "updated_at": "2026-05-31T17:24:21.961801"
+      "updated_at": "2026-06-18T23:51:05.647812"
     }
   },
   {
