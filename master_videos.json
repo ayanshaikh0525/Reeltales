@@ -5132,20 +5132,26 @@
       "drive_link": "https://drive.google.com/file/d/1go3miUOhCowv8YgQY422PWp45gcra5YX/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Sourcer 'WOn X@f WIONews Iwas saved by the grace 0f Godl Car owner : [ suffered losso Iwas saved by the grace of Godl Car ower : sufffereda loss: Sourcer X IWOn was saved by the grace of Godl suffereda loss: Source: was saved by the grace @0f Godl sufffeereda lss: 8 [ was saved by the grace @f Gbdl Car owner ? suffereda losso [as savved [by the grace @f Gbdl Car owner Technology watch till the last",
+      "ocr_generated_at": "2026-06-19T23:03:23.670542"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "K8nIgZA3C7c",
+        "uploaded_at": "2026-06-19T23:03:37.948181",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A car owner's miraculous survival from an accident, attributed to divine grace, with a significant technological revelation implied.\nTarget Audience: Individuals interested in real-life survival stories, faith, technology's impact on safety, inspiring narratives, and unexpected twists.\nEmotion: Inspiration\nViral Angle: Mind-blowing reveal (the technology behind the survival) combined with an Emotional moment (the personal story of survival and faith).\nContent Category: Story / Inspirational\n\n[YOUTUBE_TITLES]\n1.  Saved by Grace? The Tech That SHOCKED Everyone!\n2.  Car Crash Miracle: Was it God, or THIS Hidden Technology?\n3.  He Lost Everything... Until This Tech Blew His Mind.\n4.  Unbelievable Survival: You Won't BELIEVE How He Lived!\n5.  Divine Intervention & Cutting-Edge Tech: His Story Will Change You.\n\n[YOUTUBE_DESCRIPTION]\nThis car owner faced unimaginable loss, yet walked away alive, proclaiming he was \"saved by the grace of God.\" 🙏 But what if there's a powerful, hidden truth behind this incredible survival story? 🤔 Was it purely divine intervention, groundbreaking technology, or a profound combination of both? Watch his powerful testimony and stay until the very end for a mind-blowing revelation that might just explain everything. You won't believe how this man survived such a devastating car crash. This isn't just a story of faith; it's a testament to resilience, hope, and the unexpected role of innovation. Prepare to be inspired!\n\n[YOUTUBE_HASHTAGS]\n#shorts #viralstory #miraclesurvival #caraccident #faithstory #godsgrace #techsafety #unbelievable #watchtilltheend #inspiration #reallifestory #unexpected #mindblown #survivaltech #automotivesafety #whatif #trueevents #divineintervention #personalgrowth #hope\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: Car crash survival\nSecondary keywords: Divine intervention, automotive technology, real-life miracle, saved by grace, car accident story\nLong-tail keywords: How technology saved a life in a car crash, incredible survival story car wreck, faith and technology saving lives, car owner survived accident grace of God, watch till the end technology reveal\n\n[BONUS_CTA]\n1.  What do YOU think truly saved him? Share your thoughts in the comments! 👇\n2.  Hit that like button if you believe in miracles OR amazing tech! ✨\n3.  Subscribe for more incredible true stories and mind-blowing revelations!",
+          "title": "Saved by Grace? The Tech That SHOCKED Everyone!",
+          "description": "This car owner faced unimaginable loss, yet walked away alive, proclaiming he was \"saved by the grace of God.\" 🙏 But what if there's a powerful, hidden truth behind this incredible survival story? 🤔 Was it purely divine intervention, groundbreaking technology, or a profound combination of both? Watch his powerful testimony and stay until the very end for a mind-blowing revelation that might just explain everything. You won't believe how this man survived such a devastating car crash. This isn't just a story of faith; it's a testament to resilience, hope, and the unexpected role of innovation. Prepare to be inspired!",
+          "hashtags": "#shorts #viralstory #miraclesurvival #caraccident #faithstory #godsgrace #techsafety #unbelievable #watchtilltheend #inspiration #reallifestory #unexpected #mindblown #survivaltech #automotivesafety #whatif #trueevents #divineintervention #personalgrowth #hope",
+          "keywords": "Primary keyword: Car crash survival\nSecondary keywords: Divine intervention, automotive technology, real-life miracle, saved by grace, car accident story\nLong-tail keywords: How technology saved a life in a car crash, incredible survival story car wreck, faith and technology saving lives, car owner survived accident grace of God, watch till the end technology reveal"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5198,7 +5204,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962233",
-      "updated_at": "2026-05-31T17:24:21.962236"
+      "updated_at": "2026-06-19T23:03:37.948206"
     }
   },
   {
