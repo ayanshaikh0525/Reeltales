@@ -4628,20 +4628,26 @@
       "drive_link": "https://drive.google.com/file/d/1fU4omK8vZxoOzEAtJm5ETqvY8Lx0F1AN/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Bugatti' s Titanium Brake Calliper Test SHeA( ( Bugatti' $ Titanium SfpAf( Shf4f(L It's made using selective laser meltings taking 45 hours to print and withstands the intense heat and stress @f high-speed braking; It'$ made using selective laser meltings taking withstands the intemse wpe It' s made using selective high-speed brakings It's the largest functional titanium component ever 3D-printed for & Cara ever 3D-printed for @ cara",
+      "ocr_generated_at": "2026-06-19T09:02:50.076072"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Fmri8pgmmGo",
+        "uploaded_at": "2026-06-19T09:03:02.235135",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Bugatti's 3D-printed titanium brake caliper technology.\nTarget Audience: Car enthusiasts, luxury car aficionados, engineering and technology enthusiasts, automotive industry professionals, fans of advanced manufacturing.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal of extreme engineering and manufacturing capability for a single, critical car component.\nContent Category: Facts, Educational, Technology\n\n[YOUTUBE_TITLES]\n1.  Bugatti's SECRET Brake Tech?! 🤯 (Not what you think!)\n2.  THIS is how Bugatti stops! (It's 3D Printed!)\n3.  45 Hours to Print ONE Bugatti Brake?! 😲\n4.  World's LARGEST 3D-Printed Car Part... it's a Bugatti!\n5.  Unbelievable: Bugatti's Titanium Brake Mystery SOLVED!\n\n[YOUTUBE_DESCRIPTION]\nEver wondered how a Bugatti stops from insane speeds? It's not just powerful, it's mind-bending engineering! This short reveals the secret behind their titanium brake calipers, 3D-printed using selective laser melting. It takes 45 hours to create just one of these masterpieces, designed to withstand unimaginable heat and stress. You won't believe it's the largest functional titanium component ever 3D-printed for a car! Get ready for a deep dive into Bugatti's cutting-edge innovation.\n\n[YOUTUBE_HASHTAGS]\n#Bugatti #Supercar #3DPrinting #Titanium #CarTech #EngineeringMarvel #LuxuryCars #Innovation #Automotive #Hypercar #SelectiveLaserMelting #BrakingSystem #MindblowingTech #FutureOfCars #ViralTech #CarFacts #DidYouKnow #Shorts #TechTok #CarTok\n\n[YOUTUBE_KEYWORDS]\nBugatti titanium brake caliper, 3D printed car parts, Bugatti engineering, selective laser melting, high-speed braking, hypercar technology, luxury car innovation, largest 3D printed car component, Bugatti Chiron brakes, advanced manufacturing, automotive technology, how Bugatti stops, titanium automotive parts, car tech explained\n\n[BONUS_CTA]\n1.  Did you know this Bugatti secret? Drop a comment! 👇\n2.  Mind blown? Share this with a car friend!\n3.  Hit save to remember this insane Bugatti tech!",
+          "title": "Bugatti's SECRET Brake Tech?! 🤯 (Not what you think!)",
+          "description": "Ever wondered how a Bugatti stops from insane speeds? It's not just powerful, it's mind-bending engineering! This short reveals the secret behind their titanium brake calipers, 3D-printed using selective laser melting. It takes 45 hours to create just one of these masterpieces, designed to withstand unimaginable heat and stress. You won't believe it's the largest functional titanium component ever 3D-printed for a car! Get ready for a deep dive into Bugatti's cutting-edge innovation.",
+          "hashtags": "#Bugatti #Supercar #3DPrinting #Titanium #CarTech #EngineeringMarvel #LuxuryCars #Innovation #Automotive #Hypercar #SelectiveLaserMelting #BrakingSystem #MindblowingTech #FutureOfCars #ViralTech #CarFacts #DidYouKnow #Shorts #TechTok #CarTok",
+          "keywords": "Bugatti titanium brake caliper, 3D printed car parts, Bugatti engineering, selective laser melting, high-speed braking, hypercar technology, luxury car innovation, largest 3D printed car component, Bugatti Chiron brakes, advanced manufacturing, automotive technology, how Bugatti stops, titanium automotive parts, car tech explained"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4694,7 +4700,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961896",
-      "updated_at": "2026-05-31T17:24:21.961899"
+      "updated_at": "2026-06-19T09:03:02.235161"
     }
   },
   {
