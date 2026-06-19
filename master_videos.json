@@ -5048,20 +5048,26 @@
       "drive_link": "https://drive.google.com/file/d/1jUiXMmACwWsmN0OJ2A2U2chZ4mxT1it6/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Car Safety im 1950s Car safety in 19508 Car safety in 1950s A wheel mounted in the ftont to make it roll away ftom danger during a frontal collisiom T0jeiHinic A wheel mounted in the front during a frontal collision A wheel mounted im the front",
+      "ocr_generated_at": "2026-06-19T22:01:19.084454"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "5o6Qn4x4GNM",
+        "uploaded_at": "2026-06-19T22:01:34.484241",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: 1950s Car Safety Innovation (specifically, a unique frontal collision mitigation concept involving a front-mounted wheel)\nTarget Audience: History enthusiasts, car lovers, engineering buffs, people curious about vintage technology, those who enjoy quirky facts or 'how things used to be'.\nEmotion: Surprise\nViral Angle: Unexpected twist / Hidden fact (revealing a bizarre, outdated safety feature that seems almost comical by modern standards)\nContent Category: History\n\n[YOUTUBE_TITLES]\n\n1.  This 1950s Car Safety Idea Will SHOCK You! 🤯\n2.  Did You Know 1950s Cars Had THIS For Safety? (Unbelievable!)\n3.  They Thought THIS Was Car Safety in the 50s... You Won't Believe It!\n4.  Wildest 1950s Car Safety Feature: A Front-Mounted Wheel?!\n5.  1950s Car Safety: The Genius (or Insane?) Idea You've Never Seen\n\n[YOUTUBE_DESCRIPTION]\n\nEver wonder how car safety worked back in the 1950s? Get ready for a mind-blowing revelation! 🤯 This YouTube Short uncovers one of the most unexpected 'innovations' designers tried for frontal collision protection: a wheel mounted in the front to literally roll away from danger. Was it a stroke of genius or pure madness?\n\nJoin us on a trip back in time to explore the bizarre world of early automotive safety. See why this concept, though well-intentioned, didn't quite make it to modern cars!\n\nWhat do YOU think of this vintage car safety tech? Share your thoughts and reactions in the comments below! 👇\n#CarSafety #1950sCars #VintageCars #HistoryFacts #AutomotiveHistory #DidYouKnow #CrazyInventions\n\n[YOUTUBE_HASHTAGS]\n\n#History\n#Vintage\n#Cars\n#Automotive\n#Retro\n#CarSafety\n#1950sCars\n#ClassicCars\n#OldCars\n#Engineering\n#Inventions\n#VintageTech\n#AutoHistory\n#WeirdHistory\n#CarFacts\n#DidYouKnow\n#Mindblown\n#Unbelievable\n#CrazyInventions\n#YouTubeShorts\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: 1950s car safety\nSecondary keywords: vintage car safety, old car inventions, frontal collision wheel, bizarre car safety, car engineering history, retro automotive safety, weird car features, historical car tech\nLong-tail keywords: how cars were safe in 1950s, 1950s car accident protection, strange car safety features, early car safety designs, weird automotive inventions history\n\n[BONUS_CTA]\n\n1.  What's the craziest vintage invention you've ever seen? Tell us in the comments! 👇\n2.  Hit like if you were shocked by this 1950s car safety tech! ❤️\n3.  Subscribe for more mind-blowing history facts and vintage discoveries! 🔔",
+          "title": "This 1950s Car Safety Idea Will SHOCK You! 🤯",
+          "description": "Ever wonder how car safety worked back in the 1950s? Get ready for a mind-blowing revelation! 🤯 This YouTube Short uncovers one of the most unexpected 'innovations' designers tried for frontal collision protection: a wheel mounted in the front to literally roll away from danger. Was it a stroke of genius or pure madness?\n\nJoin us on a trip back in time to explore the bizarre world of early automotive safety. See why this concept, though well-intentioned, didn't quite make it to modern cars!\n\nWhat do YOU think of this vintage car safety tech? Share your thoughts and reactions in the comments below! 👇\n#CarSafety #1950sCars #VintageCars #HistoryFacts #AutomotiveHistory #DidYouKnow #CrazyInventions",
+          "hashtags": "#History\n#Vintage\n#Cars\n#Automotive\n#Retro\n#CarSafety\n#1950sCars\n#ClassicCars\n#OldCars\n#Engineering\n#Inventions\n#VintageTech\n#AutoHistory\n#WeirdHistory\n#CarFacts\n#DidYouKnow\n#Mindblown\n#Unbelievable\n#CrazyInventions\n#YouTubeShorts",
+          "keywords": "Primary keyword: 1950s car safety\nSecondary keywords: vintage car safety, old car inventions, frontal collision wheel, bizarre car safety, car engineering history, retro automotive safety, weird car features, historical car tech\nLong-tail keywords: how cars were safe in 1950s, 1950s car accident protection, strange car safety features, early car safety designs, weird automotive inventions history"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5114,7 +5120,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962183",
-      "updated_at": "2026-05-31T17:24:21.962186"
+      "updated_at": "2026-06-19T22:01:34.484284"
     }
   },
   {
