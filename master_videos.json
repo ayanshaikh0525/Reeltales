@@ -4880,20 +4880,26 @@
       "drive_link": "https://drive.google.com/file/d/1UzZYMmCr_LeO3AH5pJtYQP6LAOvEGZQd/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "It isaiact ASTRONAUTS CAN SURVIVE TWO MIN WITH \"OXYGEN AND \"SPACESUIT\" Ordinary People Itisa iact ASTRONAUTS CAN SURIVIVE TWOMN WITH \"OXYGEN TWO MN WTH \"OXYGEN It isa fact It isa faGt TWO MIN WITH \"OXYGEN: It isaiagt 80 years III Those Who Know 80 years UII @Jastro;_epace_attd Those Wlo Know",
+      "ocr_generated_at": "2026-06-19T18:31:15.248090"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "8XtY4obu6oY",
+        "uploaded_at": "2026-06-19T18:31:30.222425",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Human survival limits in the vacuum of space, contrasting astronauts with ordinary people, and revealing a surprising \"80-year\" fact.\nTarget Audience: People interested in space, science facts, human physiology, survival stories, and mind-blowing information.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (the unexpected \"80 years\" fact) combined with a hidden truth about human resilience in extreme environments.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  Astronauts vs YOU: How Long Can Humans REALLY Survive in Space? 🤯\n2.  The SHOCKING Truth About Space Survival! (80 Years?!)\n3.  Hidden Fact: What Happens When Humans Enter Space Without a Suit?\n4.  Astronaut Survival: The Mind-Blowing 2-Minute vs. 80-Year Mystery!\n5.  Space Survival SECRETS They Don't Want You To Know!\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered what truly happens if a human is exposed to the vacuum of space? 🚀 Most people think it's instant death, but the scientific facts about astronaut survival – even for ordinary people – might completely shock you! This Short dives deep into how long the human body can endure the extreme conditions without a spacesuit or oxygen. But here's the kicker: what's the mysterious \"80 years\" fact that \"Those Who Know\" refer to? Prepare for a mind-blowing reveal that challenges everything you thought you knew about space survival and human resilience! Watch till the end for the full, incredible explanation. #SpaceFacts #HumanSurvival\n\n[YOUTUBE_HASHTAGS]\n\n#Space #Science #Facts #DidYouKnow #Curiosity #Explore\n#Astronaut #Survival #HumanBody #SpaceExploration #ScienceFacts #NASA #Vacuum\n#MindBlown #ShockingFacts #ViralFacts #ShortsFeed #SpaceMystery #QuickFacts #LearnSomethingNew\n\n[YOUTUBE_KEYWORDS]\n\nastronaut survival, space survival, human survival in space, how long can humans survive in space, oxygen in space, human body in vacuum, space facts, surprising facts, nasa facts, human limits, space mystery, 80 years space fact, hidden space facts\n\n[BONUS_CTA]\n\n1.  Did this fact blow your mind? Hit the like button and share with a friend! 👇\n2.  What's the most unbelievable space fact you know? Tell us in the comments!\n3.  Follow for more mind-blowing science secrets daily! 🚀",
+          "title": "Astronauts vs YOU: How Long Can Humans REALLY Survive in Space? 🤯",
+          "description": "Ever wondered what truly happens if a human is exposed to the vacuum of space? 🚀 Most people think it's instant death, but the scientific facts about astronaut survival – even for ordinary people – might completely shock you! This Short dives deep into how long the human body can endure the extreme conditions without a spacesuit or oxygen. But here's the kicker: what's the mysterious \"80 years\" fact that \"Those Who Know\" refer to? Prepare for a mind-blowing reveal that challenges everything you thought you knew about space survival and human resilience! Watch till the end for the full, incredible explanation. #SpaceFacts #HumanSurvival",
+          "hashtags": "#Space #Science #Facts #DidYouKnow #Curiosity #Explore\n#Astronaut #Survival #HumanBody #SpaceExploration #ScienceFacts #NASA #Vacuum\n#MindBlown #ShockingFacts #ViralFacts #ShortsFeed #SpaceMystery #QuickFacts #LearnSomethingNew",
+          "keywords": "astronaut survival, space survival, human survival in space, how long can humans survive in space, oxygen in space, human body in vacuum, space facts, surprising facts, nasa facts, human limits, space mystery, 80 years space fact, hidden space facts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4946,7 +4952,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962056",
-      "updated_at": "2026-05-31T17:24:21.962060"
+      "updated_at": "2026-06-19T18:31:30.222450"
     }
   },
   {
