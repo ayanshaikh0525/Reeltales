@@ -4544,20 +4544,26 @@
       "drive_link": "https://drive.google.com/file/d/1A0fI1vPi-hX0fQwsbNqRTrsZDDsPp8Wd/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "013 Bro has too much Torque 813 Bro has to@ much Torque The Tyre just gave up 818",
+      "ocr_generated_at": "2026-06-19T03:36:54.542105"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "xvz-TPC77gU",
+        "uploaded_at": "2026-06-19T03:37:10.089536",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Extreme vehicle torque causing sudden tire failure.\nTarget Audience: Car enthusiasts, motorsport fans, auto mechanics, performance vehicle owners, and general audience interested in dramatic mechanical events.\nEmotion: Shock\nViral Angle: Unexpected and dramatic mechanical failure due to overwhelming power.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  This MUCH Torque?! Tyre just GAVE UP 🤯\n2.  Watch This Tire EXPLODE From Too Much Power!\n3.  Bro's Torque Broke the Laws of Physics!\n4.  You Won't BELIEVE How Much Power This Has!\n5.  When \"Too Much Torque\" Becomes a REAL Problem...\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to be shocked! 🤯 Witness what happens when a vehicle unleashes an unbelievable amount of torque – the tire literally just gave up! This isn't just a powerful engine; it's a force of nature. Ever wondered what \"too much torque\" actually looks like in action? This short clip is your answer. See the raw power that pushes automotive limits and causes an instant mechanical failure. How much torque do *you* think this beast has? Share your guesses in the comments! #CarFail #ExtremePower\n\n[YOUTUBE_HASHTAGS]\n#Shorts #ViralVideo #Trending #OMG #MustWatch #ExtremePower #Torque #CarFails #Automotive #EnginePerformance #TireFailure #MechanicalFailure #VehicleLimits #PowerBuild #HighPerformance #WhatTheTorque #UnbelievablePower #PhysicsDefied #ExtremeTorque #UnexpectedMoment\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: too much torque\nSecondary keywords: tire gave up, vehicle power, mechanical failure, engine torque, car performance, automotive limits\nLong-tail keywords: what happens when a tire gives up, extreme torque burnout, vehicle limits test, car parts failure, incredible engine power, high performance vehicle problems\n\n[BONUS_CTA]\n1.  What's the most extreme car moment you've ever witnessed? Tell us below!\n2.  Hit subscribe for more mind-blowing automotive moments and vehicle tests!\n3.  Could *your* car handle this much torque? 🤔 Let us know your thoughts!",
+          "title": "This MUCH Torque?! Tyre just GAVE UP 🤯",
+          "description": "Prepare to be shocked! 🤯 Witness what happens when a vehicle unleashes an unbelievable amount of torque – the tire literally just gave up! This isn't just a powerful engine; it's a force of nature. Ever wondered what \"too much torque\" actually looks like in action? This short clip is your answer. See the raw power that pushes automotive limits and causes an instant mechanical failure. How much torque do *you* think this beast has? Share your guesses in the comments! #CarFail #ExtremePower",
+          "hashtags": "#Shorts #ViralVideo #Trending #OMG #MustWatch #ExtremePower #Torque #CarFails #Automotive #EnginePerformance #TireFailure #MechanicalFailure #VehicleLimits #PowerBuild #HighPerformance #WhatTheTorque #UnbelievablePower #PhysicsDefied #ExtremeTorque #UnexpectedMoment",
+          "keywords": "Primary keyword: too much torque\nSecondary keywords: tire gave up, vehicle power, mechanical failure, engine torque, car performance, automotive limits\nLong-tail keywords: what happens when a tire gives up, extreme torque burnout, vehicle limits test, car parts failure, incredible engine power, high performance vehicle problems"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4610,7 +4616,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961848",
-      "updated_at": "2026-05-31T17:24:21.961851"
+      "updated_at": "2026-06-19T03:37:10.089562"
     }
   },
   {
