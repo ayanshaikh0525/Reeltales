@@ -4712,20 +4712,26 @@
       "drive_link": "https://drive.google.com/file/d/14p-TzlWq5CKq2whrEnUTDL41RoTHqn-9/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Speed vs Accuracy Burst the balloon towin",
+      "ocr_generated_at": "2026-06-19T13:31:44.555654"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "2tY1ajwDmko",
+        "uploaded_at": "2026-06-19T13:32:01.215781",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A challenge/experiment comparing the effectiveness of speed versus accuracy in a balloon-bursting task.\nTarget Audience: General audience interested in challenges, experiments, satisfying content, quick entertainment, and debates (e.g., skill vs. raw speed).\nEmotion: Curiosity\nViral Angle: Challenge/Experiment with a surprising or counter-intuitive outcome; the visual satisfaction of bursting balloons.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  Speed vs. Accuracy: Who WINS the Balloon Burst Challenge?!\n2.  The TRUTH About Speed vs Accuracy (Balloon Edition)\n3.  Mind-Blowing Results: Is Speed or Accuracy Better?\n4.  Can You Guess Who Burst More Balloons: Speed or Precision?\n5.  Speed OR Accuracy? The ULTIMATE Test!\n\n[YOUTUBE_DESCRIPTION]\nEver wondered if being fast or being precise is better? We put it to the ultimate test in our epic balloon bursting challenge! Watch to see the surprising results and find out if speed truly beats accuracy (or vice versa!) in this fun experiment. You won't want to miss the shocking reveal. What do you think will win? Let us know your guess before watching! #shorts #challenge #experiment\n\n[YOUTUBE_HASHTAGS]\n#YouTubeShorts\n#Challenge\n#Experiment\n#ViralVideo\n#TrendingNow\n#SpeedVsAccuracy\n#BalloonBurst\n#TestYourself\n#MindBlown\n#WatchUntilTheEnd\n#SurprisingResults\n#WhoWins\n#Satisfying\n#QuickExperiment\n#FunChallenge\n#Precision\n#SkillTest\n#Entertainment\n#EducationalShorts\n#ContentCreator\n\n[YOUTUBE_KEYWORDS]\nSpeed vs Accuracy, Balloon Burst, Challenge, Experiment, Precision, Fast, Win, Results, Test, Speed vs accuracy challenge, Bursting balloons experiment, Who wins speed or accuracy, Fast vs accurate balloon, Ultimate balloon challenge, Balloon pop, Viral challenge, YouTube Shorts experiment, Fun test, Skill challenge, Accuracy test.\n\n[BONUS_CTA]\n1.  Which side are YOU on? Let me know in the comments!\n2.  Hit that like button if you were surprised by the ending!\n3.  Subscribe for more mind-blowing challenges!",
+          "title": "Speed vs. Accuracy: Who WINS the Balloon Burst Challenge?!",
+          "description": "Ever wondered if being fast or being precise is better? We put it to the ultimate test in our epic balloon bursting challenge! Watch to see the surprising results and find out if speed truly beats accuracy (or vice versa!) in this fun experiment. You won't want to miss the shocking reveal. What do you think will win? Let us know your guess before watching! #shorts #challenge #experiment",
+          "hashtags": "#YouTubeShorts\n#Challenge\n#Experiment\n#ViralVideo\n#TrendingNow\n#SpeedVsAccuracy\n#BalloonBurst\n#TestYourself\n#MindBlown\n#WatchUntilTheEnd\n#SurprisingResults\n#WhoWins\n#Satisfying\n#QuickExperiment\n#FunChallenge\n#Precision\n#SkillTest\n#Entertainment\n#EducationalShorts\n#ContentCreator",
+          "keywords": "Speed vs Accuracy, Balloon Burst, Challenge, Experiment, Precision, Fast, Win, Results, Test, Speed vs accuracy challenge, Bursting balloons experiment, Who wins speed or accuracy, Fast vs accurate balloon, Ultimate balloon challenge, Balloon pop, Viral challenge, YouTube Shorts experiment, Fun test, Skill challenge, Accuracy test."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4778,7 +4784,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961949",
-      "updated_at": "2026-05-31T17:24:21.961952"
+      "updated_at": "2026-06-19T13:32:01.215806"
     }
   },
   {
