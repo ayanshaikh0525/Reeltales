@@ -4964,20 +4964,26 @@
       "drive_link": "https://drive.google.com/file/d/1I5sUy0bBunCjgnXB2ZL8Rb6Pjo54fgJV/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "What Kind Of Experiment ? What Kind @f Experiment ? Re)tTS JCFTS What is the reason ? RCFTS Fej @fvs",
+      "ocr_generated_at": "2026-06-19T20:26:06.300146"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "laRgUDRebIQ",
+        "uploaded_at": "2026-06-19T20:26:21.818457",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: An intriguing and unexplained experiment, focusing on its nature and underlying reason.\nTarget Audience: Curious individuals, mystery enthusiasts, people interested in surprising facts, science oddities, or mind-bending reveals.\nEmotion: Curiosity\nViral Angle: A mind-blowing reveal or hidden fact about an unusual experiment that sparks immediate questioning.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  What KIND of Experiment is THIS?! 🤯\n2.  The SHOCKING Reason Behind This Experiment...\n3.  You Won't BELIEVE What This Experiment Reveals!\n4.  Wait, What Is This Experiment & WHY?!\n5.  Unlocking the Mystery: What Kind of Experiment?\n\n[YOUTUBE_DESCRIPTION]\nEver encountered an experiment that left you utterly baffled? 🤔 This short will reveal the mind-bending truth behind one of the most curious phenomena you'll ever see! Get ready to question everything you thought you knew. We're diving deep into the \"what\" and \"why\" that will leave you speechless. Can you guess the reason before the big reveal? Watch to find out!\n\n[YOUTUBE_HASHTAGS]\n#shorts #experiment #mystery #science #unexplained #curiosity #mindblown #whatisthis #weirdscience #hiddenfacts #reveal #puzzling #wtf #viralshorts #trendingnow #shocking #mustwatch #youwontbelieveit #crazyscience #foryoupage\n\n[YOUTUBE_KEYWORDS]\nexperiment, reason, what kind of experiment, mystery, unexplained, why, science experiment, shocking reveal, mind blowing, curious, hidden fact, surprising outcome, strange phenomenon, unsolved mystery, discover, explanation, secret, reveal, amazing facts, physics, chemistry, biology, experiment gone wrong, experiment explained.\n\n[BONUS_CTA]\n1.  What's YOUR theory before the reveal? Drop it in the comments!\n2.  Hit like if your mind is officially blown!\n3.  Subscribe for more daily mysteries and jaw-dropping reveals!",
+          "title": "What KIND of Experiment is THIS?! 🤯",
+          "description": "Ever encountered an experiment that left you utterly baffled? 🤔 This short will reveal the mind-bending truth behind one of the most curious phenomena you'll ever see! Get ready to question everything you thought you knew. We're diving deep into the \"what\" and \"why\" that will leave you speechless. Can you guess the reason before the big reveal? Watch to find out!",
+          "hashtags": "#shorts #experiment #mystery #science #unexplained #curiosity #mindblown #whatisthis #weirdscience #hiddenfacts #reveal #puzzling #wtf #viralshorts #trendingnow #shocking #mustwatch #youwontbelieveit #crazyscience #foryoupage",
+          "keywords": "experiment, reason, what kind of experiment, mystery, unexplained, why, science experiment, shocking reveal, mind blowing, curious, hidden fact, surprising outcome, strange phenomenon, unsolved mystery, discover, explanation, secret, reveal, amazing facts, physics, chemistry, biology, experiment gone wrong, experiment explained."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5030,7 +5036,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962103",
-      "updated_at": "2026-05-31T17:24:21.962106"
+      "updated_at": "2026-06-19T20:26:21.818492"
     }
   },
   {
