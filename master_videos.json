@@ -4796,20 +4796,26 @@
       "drive_link": "https://drive.google.com/file/d/1eb04Ufqdi941crWweFDmYdgVkSQ2py8K/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Callithrix jacchus, one of the smallest primates im the world smallest primates im the world smallest primates in the world It Is Used In Medical Research Experiments:",
+      "ocr_generated_at": "2026-06-19T16:31:22.418301"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "DKsNwiYi38M",
+        "uploaded_at": "2026-06-19T16:31:38.649815",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Callithrix jacchus (Common Marmoset), its status as one of the smallest primates in the world, and its surprising use in medical research experiments.\nTarget Audience: Animal enthusiasts, individuals curious about science and ethics, people seeking surprising facts, and those interested in exotic wildlife.\nEmotion: Shock\nViral Angle: Unexpected twist/Mind-blowing reveal, contrasting the small, seemingly delicate nature of the primate with its significant and potentially controversial role in scientific research.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  This Tiny Primate Has a SHOCKING Secret! 🤯\n2.  The Smallest Monkey With a HUGE Scientific Role...\n3.  Callithrix Jacchus: The Unbelievable Truth\n4.  You Won't Believe What They Use This Primate For!\n5.  Mind-Blown: Smallest Primate's Hidden Purpose\n\n[YOUTUBE_DESCRIPTION]\n\n🤯 Prepare to be shocked! Meet the Callithrix jacchus, famously known as the common marmoset. This isn't just one of the smallest primates on Earth; it plays a *critical* (and often debated) role in medical research experiments! 🐒🔬\n\nIn this short, we uncover the hidden truth behind why such an incredibly tiny creature is so significant to science. You'll never look at this fascinating animal the same way again. Discover the facts that most people never hear about this amazing little monkey.\n\nWhat are your thoughts on this? Share in the comments! 👇\n\n#CallithrixJacchus #Marmoset #SmallestPrimate #MedicalResearch #ScienceFacts #AnimalFacts #DidYouKnow #ShockingTruth #HiddenFacts #PrimateResearch\n\n[YOUTUBE_HASHTAGS]\n\n#Animals\n#Shorts\n#Facts\n#Science\n#Wildlife\n#CallithrixJacchus\n#Marmoset\n#Primates\n#MedicalResearch\n#AnimalResearch\n#Biology\n#LabAnimals\n#ScienceFacts\n#AnimalFacts\n#ExoticAnimals\n#DidYouKnow\n#Unbelievable\n#ShockingFacts\n#HiddenTruth\n#MindBlown\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: Callithrix jacchus\nSecondary keywords: smallest primate, common marmoset, medical research, animal experiments, primate research\nLong-tail keywords: Callithrix jacchus medical research, why are marmosets used in research, smallest primates in the world, common marmoset facts, animal testing ethics, primate in science, facts about marmosets\n\n[BONUS_CTA]\n\n1.  Did this fact shock you? Let us know your thoughts in the comments! 👇\n2.  Hit like if you learned something new, and save this Short to share with friends! 💾\n3.  Subscribe for more mind-blowing animal secrets and scientific revelations! 🔔",
+          "title": "This Tiny Primate Has a SHOCKING Secret! 🤯",
+          "description": "🤯 Prepare to be shocked! Meet the Callithrix jacchus, famously known as the common marmoset. This isn't just one of the smallest primates on Earth; it plays a *critical* (and often debated) role in medical research experiments! 🐒🔬\n\nIn this short, we uncover the hidden truth behind why such an incredibly tiny creature is so significant to science. You'll never look at this fascinating animal the same way again. Discover the facts that most people never hear about this amazing little monkey.\n\nWhat are your thoughts on this? Share in the comments! 👇\n\n#CallithrixJacchus #Marmoset #SmallestPrimate #MedicalResearch #ScienceFacts #AnimalFacts #DidYouKnow #ShockingTruth #HiddenFacts #PrimateResearch",
+          "hashtags": "#Animals\n#Shorts\n#Facts\n#Science\n#Wildlife\n#CallithrixJacchus\n#Marmoset\n#Primates\n#MedicalResearch\n#AnimalResearch\n#Biology\n#LabAnimals\n#ScienceFacts\n#AnimalFacts\n#ExoticAnimals\n#DidYouKnow\n#Unbelievable\n#ShockingFacts\n#HiddenTruth\n#MindBlown",
+          "keywords": "Primary keyword: Callithrix jacchus\nSecondary keywords: smallest primate, common marmoset, medical research, animal experiments, primate research\nLong-tail keywords: Callithrix jacchus medical research, why are marmosets used in research, smallest primates in the world, common marmoset facts, animal testing ethics, primate in science, facts about marmosets"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -4862,7 +4868,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.961998",
-      "updated_at": "2026-05-31T17:24:21.962001"
+      "updated_at": "2026-06-19T16:31:38.649840"
     }
   },
   {
