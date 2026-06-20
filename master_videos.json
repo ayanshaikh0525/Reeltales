@@ -5720,20 +5720,26 @@
       "drive_link": "https://drive.google.com/file/d/1d0-kHI_2BxcqdP_hfQeJ63Druqy8VzQV/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "How a Concrete Truck drum is cleaned X Ci =4 Definitely not for Claustrophobic people X@#S At zs Claustrophobic peopl 10 lg @0717",
+      "ocr_generated_at": "2026-06-20T18:09:35.373589"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "lM2N1_dJaAs",
+        "uploaded_at": "2026-06-20T18:09:47.049574",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The unexpected and dangerous process of cleaning a concrete truck's mixing drum from the inside.\nTarget Audience: People interested in industrial processes, construction, heavy machinery, surprising facts, dangerous jobs, and those curious about how things work (or don't work for the claustrophobic).\nEmotion: Surprise\nViral Angle: Mind-blowing reveal of a hidden and dangerous industrial process. The \"not for claustrophobics\" hook creates immediate emotional tension and curiosity.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  How They Clean Concrete Trucks (NOT for the Claustrophobic) 😬\n2.  Inside a Concrete Mixer: You Won't Believe This Cleaning Method! 🤯\n3.  The Craziest Way to Clean a Concrete Drum! 🚧\n4.  Cleaning a Cement Truck Drum from the Inside (Shocking Process!)\n5.  POV: You're Cleaning a Concrete Mixer (Warning: Claustrophobia Trigger!)\n\n[YOUTUBE_DESCRIPTION]\nEver wondered how they clean the inside of a concrete truck's mixing drum? Prepare to be shocked! This video reveals the intense and potentially terrifying process of industrial drum cleaning. Definitely not a job for the faint of heart or anyone who's claustrophobic. See the dedication and danger involved in keeping these heavy machines running.\n\nWhat's the most surprising job you've ever seen? Let us know in the comments! 👇\n#ConcreteTruck #IndustrialCleaning #DangerousJobs #HowItsMade\n\n[YOUTUBE_HASHTAGS]\n#shorts #viralvideo #trending #satisfying #wow\n#concretetruck #concrete #construction #heavyequipment #machinery #industrial\n#dirtyjobs #work #mindblown #shockingfacts #youwontbelieve #waitforit #dangerousjobs #insanework #bluecollar #trucking #cementmixer\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: concrete truck cleaning\nSecondary keywords: concrete mixer, drum cleaning, construction job, industrial cleaning, cement truck, heavy equipment\nLong-tail keywords: how concrete trucks are cleaned, cleaning inside a cement mixer, dangerous construction jobs, industrial cleaning process, jobs not for claustrophobics, inside a concrete mixer drum\n\n[BONUS_CTA]\n1.  Could YOU do this job? Tell us in the comments! 👇\n2.  Share this with someone who needs to see this crazy process!\n3.  Hit LIKE if you were surprised by how they clean these!",
+          "title": "How They Clean Concrete Trucks (NOT for the Claustrophobic) 😬",
+          "description": "Ever wondered how they clean the inside of a concrete truck's mixing drum? Prepare to be shocked! This video reveals the intense and potentially terrifying process of industrial drum cleaning. Definitely not a job for the faint of heart or anyone who's claustrophobic. See the dedication and danger involved in keeping these heavy machines running.\n\nWhat's the most surprising job you've ever seen? Let us know in the comments! 👇\n#ConcreteTruck #IndustrialCleaning #DangerousJobs #HowItsMade",
+          "hashtags": "#shorts #viralvideo #trending #satisfying #wow\n#concretetruck #concrete #construction #heavyequipment #machinery #industrial\n#dirtyjobs #work #mindblown #shockingfacts #youwontbelieve #waitforit #dangerousjobs #insanework #bluecollar #trucking #cementmixer",
+          "keywords": "Primary keyword: concrete truck cleaning\nSecondary keywords: concrete mixer, drum cleaning, construction job, industrial cleaning, cement truck, heavy equipment\nLong-tail keywords: how concrete trucks are cleaned, cleaning inside a cement mixer, dangerous construction jobs, industrial cleaning process, jobs not for claustrophobics, inside a concrete mixer drum"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5786,7 +5792,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962594",
-      "updated_at": "2026-05-31T17:24:21.962597"
+      "updated_at": "2026-06-20T18:09:47.049598"
     }
   },
   {
