@@ -5804,20 +5804,26 @@
       "drive_link": "https://drive.google.com/file/d/1mdllW-fpCM7GW5cIlUON51SBmuAvjYY0/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "31/ATLAS will reach its closest point to the Sun (perihelion) on October 29,2025",
+      "ocr_generated_at": "2026-06-20T20:13:22.856379"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "1tWKsE6XPho",
+        "uploaded_at": "2026-06-20T20:13:37.916337",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Comet 31/ATLAS reaching its closest point to the Sun (perihelion) on October 29, 2025.\nTarget Audience: Space enthusiasts, science lovers, curious individuals, people interested in astronomy and future celestial events.\nEmotion: Curiosity, Surprise\nViral Angle: Mind-blowing reveal (precision of astronomical prediction), Hidden fact (about this specific comet and future event).\nContent Category: Facts, Educational\n\n[YOUTUBE_TITLES]\n\n1.  🤯 Comet ATLAS: Solar Date in 2025!\n2.  This Comet's Secret: Close Call with Sun!\n3.  Mind Blown: Comet ATLAS's 2025 Encounter!\n4.  Future Alert: Comet 31/ATLAS Perihelion!\n5.  Don't Miss: ATLAS Comet's 2025 Show!\n\n[YOUTUBE_DESCRIPTION]\n\n🤯 You won't believe how far in advance we can predict this! On October 29, 2025, Comet 31/ATLAS will make its closest approach to the Sun, known as **perihelion**. This isn't just any comet; it's a cosmic dance that astounds scientists! ✨ Get ready to witness a spectacular celestial event. What does 'perihelion' mean for the comet? And why is this date so significant? Dive into the incredible world of astronomy and discover the secrets of Comet ATLAS! #CometATLAS #SpaceFacts #Astronomy\n\n[YOUTUBE_HASHTAGS]\n\n#Space\n#Science\n#Astronomy\n#Universe\n#Comet\n#CometATLAS\n#31ATLAS\n#Perihelion\n#CelestialEvent\n#SolarSystem\n#SpaceFacts\n#FutureEvents\n#Astrophysics\n#NASA\n#SpaceNews\n#DidYouKnow\n#MindBlown\n#ViralFacts\n#2025Events\n#LearnOnYouTube\n\n[YOUTUBE_KEYWORDS]\n\nComet ATLAS, 31/ATLAS, Comet 31/ATLAS, perihelion, closest point to Sun, October 29 2025, space event 2025, astronomy facts, celestial event, future space events, comet close approach, space news, science explained, solar system, what is perihelion, comet facts.\n\n[BONUS_CTA]\n\n1.  What other celestial events should we cover? Comment below!\n2.  Don't miss a single space secret! Subscribe for more!\n3.  Save this video & mark your calendars for Oct 29, 2025!",
+          "title": "🤯 Comet ATLAS: Solar Date in 2025!",
+          "description": "🤯 You won't believe how far in advance we can predict this! On October 29, 2025, Comet 31/ATLAS will make its closest approach to the Sun, known as **perihelion**. This isn't just any comet; it's a cosmic dance that astounds scientists! ✨ Get ready to witness a spectacular celestial event. What does 'perihelion' mean for the comet? And why is this date so significant? Dive into the incredible world of astronomy and discover the secrets of Comet ATLAS! #CometATLAS #SpaceFacts #Astronomy",
+          "hashtags": "#Space\n#Science\n#Astronomy\n#Universe\n#Comet\n#CometATLAS\n#31ATLAS\n#Perihelion\n#CelestialEvent\n#SolarSystem\n#SpaceFacts\n#FutureEvents\n#Astrophysics\n#NASA\n#SpaceNews\n#DidYouKnow\n#MindBlown\n#ViralFacts\n#2025Events\n#LearnOnYouTube",
+          "keywords": "Comet ATLAS, 31/ATLAS, Comet 31/ATLAS, perihelion, closest point to Sun, October 29 2025, space event 2025, astronomy facts, celestial event, future space events, comet close approach, space news, science explained, solar system, what is perihelion, comet facts."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5870,7 +5876,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962643",
-      "updated_at": "2026-05-31T17:24:21.962646"
+      "updated_at": "2026-06-20T20:13:37.916368"
     }
   },
   {
