@@ -5636,20 +5636,26 @@
       "drive_link": "https://drive.google.com/file/d/1r6sAnbROuwlD8xZIzD9SFFBoTTtWwEKc/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Excited Deer Seems Like He Got Saved From Tiger Or Cheetahll Very Saied From Tiger Or Cheetahll Saved From Tiger @r Cheetahl! Very Excited Deer Now what happened ?? & Now what happened ?? %",
+      "ocr_generated_at": "2026-06-20T16:15:23.371257"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "rY0u-j7nVJY",
+        "uploaded_at": "2026-06-20T16:15:41.392262",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A deer exhibiting unusual excitement, potentially after a close encounter with a predator, and the mystery surrounding its behavior.\nTarget Audience: Animal lovers, wildlife enthusiasts, mystery seekers, viewers interested in unusual animal behavior, short-form content consumers.\nEmotion: Curiosity\nViral Angle: Unexplained Mystery / Unexpected Twist (The deer's \"excited\" reaction is highly unusual for an animal that just escaped a life-threatening situation, creating a powerful open loop and prompting viewers to wonder what truly happened.)\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  This Deer's Reaction After Escaping a Predator?! 🦌🤯\n2.  Saved From a Tiger: But Why Is This Deer SO Excited?!\n3.  The Happiest Deer Alive... But What REALLY Happened?! 🤔\n4.  Wild Animal Mystery: Did This Deer Just Cheat Death?!\n5.  You Won't Believe What Made This Deer Jump For Joy!\n\n[YOUTUBE_DESCRIPTION]\n\nGet ready for an animal mystery that will leave you stunned! 🤯 This deer is showing an incredible burst of energy and excitement. Was it just saved from a dangerous tiger or a swift cheetah? Its unusual reaction has everyone wondering: what incredible event just unfolded in the wild? 🤔\n\nThis rare footage captures a truly unforgettable moment. Watch closely, observe the deer's behavior, and share your best theories in the comments below! 👇 Don't miss this unbelievable look into nature's secrets.\n\n#AnimalMystery #DeerReaction #WildLifeFacts\n\n[YOUTUBE_HASHTAGS]\n\nLayer 1: Large audience hashtags\n#Animals\n#Nature\n#Wildlife\n#Shorts\n#Viral\n\nLayer 2: Niche-specific hashtags\n#Deer\n#AnimalRescue\n#WildAnimal\n#Predator\n#SurvivalStory\n#Mystery\n#AnimalBehavior\n#ForestLife\n#BigCats (implied predator)\n#NatureShorts\n\nLayer 3: Trend/viral hashtags\n#Unbelievable\n#WhatIf\n#TrendingShorts\n#MustWatch\n#MindBlown\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keyword: excited deer\nSecondary Keywords: deer reaction, deer saved, animal mystery, predator escape, wild deer behavior, animal survival\nLong-tail Keywords: what happened to excited deer, deer after predator encounter, wild deer strange reaction, happy deer mystery, animal encounter explained\n\n[BONUS_CTA]\n\n1.  What's YOUR theory? Drop it in the comments below! 👇\n2.  Hit like if you think this deer is a true warrior! 💪\n3.  Share this unbelievable mystery with a friend! 📲",
+          "title": "This Deer's Reaction After Escaping a Predator?! 🦌🤯",
+          "description": "Get ready for an animal mystery that will leave you stunned! 🤯 This deer is showing an incredible burst of energy and excitement. Was it just saved from a dangerous tiger or a swift cheetah? Its unusual reaction has everyone wondering: what incredible event just unfolded in the wild? 🤔\n\nThis rare footage captures a truly unforgettable moment. Watch closely, observe the deer's behavior, and share your best theories in the comments below! 👇 Don't miss this unbelievable look into nature's secrets.\n\n#AnimalMystery #DeerReaction #WildLifeFacts",
+          "hashtags": "Layer 1: Large audience hashtags\n#Animals\n#Nature\n#Wildlife\n#Shorts\n#Viral\n\nLayer 2: Niche-specific hashtags\n#Deer\n#AnimalRescue\n#WildAnimal\n#Predator\n#SurvivalStory\n#Mystery\n#AnimalBehavior\n#ForestLife\n#BigCats (implied predator)\n#NatureShorts\n\nLayer 3: Trend/viral hashtags\n#Unbelievable\n#WhatIf\n#TrendingShorts\n#MustWatch\n#MindBlown",
+          "keywords": "Primary Keyword: excited deer\nSecondary Keywords: deer reaction, deer saved, animal mystery, predator escape, wild deer behavior, animal survival\nLong-tail Keywords: what happened to excited deer, deer after predator encounter, wild deer strange reaction, happy deer mystery, animal encounter explained"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5702,7 +5708,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962532",
-      "updated_at": "2026-05-31T17:24:21.962535"
+      "updated_at": "2026-06-20T16:15:41.392287"
     }
   },
   {
