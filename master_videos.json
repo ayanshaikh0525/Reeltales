@@ -5300,20 +5300,26 @@
       "drive_link": "https://drive.google.com/file/d/1Vw-cb2_WiGJ5gZ0dU59NlKTu5xiuy7Ec/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Charging a Nokia With a Million Volts It will surely Be destroyed skuII It wll surely Be destroyede = skull It wll surelly Be destroyed=.2 n.skull It will surelly nskull NOKIA Vedale What?? It's still working? NOKIA} NoKIA JERALa JRL I7a How?2 JYRu Zale How?? 16TI M79 Ok it turned off destroyed Finally? got Still Turns @n Lord Noka For a reason",
+      "ocr_generated_at": "2026-06-20T06:58:57.463589"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "Kew-MDvrDSE",
+        "uploaded_at": "2026-06-20T06:59:11.491421",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Extreme durability test of a Nokia phone with a million volts.\nTarget Audience: Tech enthusiasts, meme culture followers, humor lovers, people interested in stress tests and unexpected outcomes, nostalgia seekers for classic phones.\nEmotion: Surprise\nViral Angle: Unexpected twist (legendary phone lives up to its indestructible reputation) and Mind-blowing reveal (confirming the Nokia meme in real-life).\nContent Category: Humor\n\n[YOUTUBE_TITLES]\n1.  Million Volts vs. Nokia: You Won't BELIEVE What Happened! 🤯\n2.  Can a Nokia Survive 1,000,000 Volts?! (The Answer Will SHOCK You)\n3.  We Charged a Nokia with a Million Volts... Then THIS!\n4.  The Indestructible Nokia Meets 1,000,000 Volts: A Legendary Test!\n5.  Nokia vs. Electrocution: Did it Finally Die?! (Spoiler: NO)\n\n[YOUTUBE_DESCRIPTION]\nWe took the internet's most legendary phone, the Nokia, and put it to the ultimate test: charging it with a million volts! Everyone said it would be instantly destroyed, but what actually happened will blow your mind. Watch till the end to see the shocking (literally!) truth about Nokia's indestructible reputation. Is this the toughest phone ever made? Find out! #NokiaDurability #TechExperiment #MillionVolts\n\n[YOUTUBE_HASHTAGS]\n#Shorts #Viral #Experiment #Tech #Challenge #Nokia #DurabilityTest #MillionVolts #PhoneDurability #GadgetTest #ShockTest #Electronics #OldNokia #NokiaMeme #Indestructible #Unexpected #Surprise #ScienceExperiment #WhatHappensNext #LordNokia\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: Nokia durability\nSecondary keywords: million volts, phone test, indestructible phone, tech experiment, high voltage\nLong-tail keywords: what happens when you charge Nokia with million volts, Nokia phone still working, extreme phone durability test, Nokia meme experiment, can Nokia survive high voltage\n\n[BONUS_CTA]\n1.  What's the toughest phone YOU'VE ever owned? Tell us below! 👇\n2.  Hit that LIKE button if you think Nokia is still the GOAT of durability!\n3.  Tag a friend who NEEDS to see this legendary Nokia moment!",
+          "title": "Million Volts vs. Nokia: You Won't BELIEVE What Happened! 🤯",
+          "description": "We took the internet's most legendary phone, the Nokia, and put it to the ultimate test: charging it with a million volts! Everyone said it would be instantly destroyed, but what actually happened will blow your mind. Watch till the end to see the shocking (literally!) truth about Nokia's indestructible reputation. Is this the toughest phone ever made? Find out! #NokiaDurability #TechExperiment #MillionVolts",
+          "hashtags": "#Shorts #Viral #Experiment #Tech #Challenge #Nokia #DurabilityTest #MillionVolts #PhoneDurability #GadgetTest #ShockTest #Electronics #OldNokia #NokiaMeme #Indestructible #Unexpected #Surprise #ScienceExperiment #WhatHappensNext #LordNokia",
+          "keywords": "Primary keyword: Nokia durability\nSecondary keywords: million volts, phone test, indestructible phone, tech experiment, high voltage\nLong-tail keywords: what happens when you charge Nokia with million volts, Nokia phone still working, extreme phone durability test, Nokia meme experiment, can Nokia survive high voltage"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5366,7 +5372,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962332",
-      "updated_at": "2026-05-31T17:24:21.962335"
+      "updated_at": "2026-06-20T06:59:11.491449"
     }
   },
   {
