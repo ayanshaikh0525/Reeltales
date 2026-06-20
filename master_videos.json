@@ -5216,20 +5216,26 @@
       "drive_link": "https://drive.google.com/file/d/1KIFV_MruC1OYlvUFsGwOiodxpDQ-oNCU/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Just A Photo Of Saturn's Largest Moon Ordinary Peoples The Pale Blue DoT Those Who Know",
+      "ocr_generated_at": "2026-06-20T02:40:08.347773"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "jXlrWvBwSJw",
+        "uploaded_at": "2026-06-20T02:40:21.564188",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The profound difference in perspective between an \"ordinary\" view of Saturn's largest moon (Titan) and the deep cosmic significance understood by \"those who know,\" evoking the \"Pale Blue Dot\" concept and the vastness of the universe.\nTarget Audience: Space enthusiasts, science lovers, people interested in philosophical perspective shifts, deep facts, and mind-bending revelations.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Hidden meaning / Perspective shift. The juxtaposition of \"ordinary people\" versus \"those who know\" creates an immediate intrigue and desire to be part of the \"knowing\" group.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Just A Photo Of Saturn's Moon? You're Missing THIS.\n2.  The REAL Meaning Behind This Saturn Moon Photo 🤯\n3.  Why \"Ordinary People\" Don't Understand This Space Fact.\n4.  Pale Blue Dot vs. Saturn's Largest Moon: The SHOCKING Scale.\n5.  What Do *Those Who Know* See In This Photo?\n\n[YOUTUBE_DESCRIPTION]\nThis isn't just a photo of Saturn's largest moon, Titan. For ordinary people, it might be just another celestial body. But for those who truly understand, it evokes the profound, humbling perspective of the \"Pale Blue Dot.\"\n\nWhat hidden truth does this image hold? Why does it change everything we thought we knew about our place in the universe? Get ready for a mind-bending shift in perspective that will make you look at the cosmos differently. This is more than a fact; it's a cosmic realization.\n\nDiscover why Saturn's moon holds a secret that reminds us of Earth's own cosmic significance (or insignificance!). Don't miss this deep dive into astronomy and perspective!\n\n#SpaceFacts #MindBlown #PerspectiveShift\n\n[YOUTUBE_HASHTAGS]\n#Space #Science #Astronomy #Universe #Facts #Saturn #TitanMoon #PaleBlueDot #CosmicPerspective #SolarSystem #Astrophotography #SpaceExploration #DidYouKnow #MindBlown #PerspectiveShift #ViralShorts #Shorts #SpaceTok #LearnOnShorts #DeepThoughts\n\n[YOUTUBE_KEYWORDS]\nSaturn's largest moon, Titan moon, Pale Blue Dot, space facts, cosmic perspective, universe scale, deep space facts, astronomy, space perspective, understanding the universe, hidden space facts, mind blowing space facts, saturn moon perspective, Carl Sagan Pale Blue Dot, why is titan important, solar system facts\n\n[BONUS_CTA]\n1.  What's YOUR perspective? Share in the comments! 👇\n2.  Hit that like button if this blew your mind! ✨\n3.  Save this for later and share it with someone who needs to see this! 🚀",
+          "title": "Just A Photo Of Saturn's Moon? You're Missing THIS",
+          "description": "This isn't just a photo of Saturn's largest moon, Titan. For ordinary people, it might be just another celestial body. But for those who truly understand, it evokes the profound, humbling perspective of the \"Pale Blue Dot.\"\n\nWhat hidden truth does this image hold? Why does it change everything we thought we knew about our place in the universe? Get ready for a mind-bending shift in perspective that will make you look at the cosmos differently. This is more than a fact; it's a cosmic realization.\n\nDiscover why Saturn's moon holds a secret that reminds us of Earth's own cosmic significance (or insignificance!). Don't miss this deep dive into astronomy and perspective!\n\n#SpaceFacts #MindBlown #PerspectiveShift",
+          "hashtags": "#Space #Science #Astronomy #Universe #Facts #Saturn #TitanMoon #PaleBlueDot #CosmicPerspective #SolarSystem #Astrophotography #SpaceExploration #DidYouKnow #MindBlown #PerspectiveShift #ViralShorts #Shorts #SpaceTok #LearnOnShorts #DeepThoughts",
+          "keywords": "Saturn's largest moon, Titan moon, Pale Blue Dot, space facts, cosmic perspective, universe scale, deep space facts, astronomy, space perspective, understanding the universe, hidden space facts, mind blowing space facts, saturn moon perspective, Carl Sagan Pale Blue Dot, why is titan important, solar system facts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5282,7 +5288,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962283",
-      "updated_at": "2026-05-31T17:24:21.962286"
+      "updated_at": "2026-06-20T02:40:21.564227"
     }
   },
   {
