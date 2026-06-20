@@ -5468,20 +5468,26 @@
       "drive_link": "https://drive.google.com/file/d/1oXxitJQ5TFL6SFVWzHHg4JYszjX3HaNa/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "China' s new robotic hand The Wuji Hand 2-Finger Power Hold With so many features 2Okg Power Grip 20kg Power Grip 8 & Superior Grasp With so many features Soft Enveloppe Maximulm Glrarla) Calpeebility 1.Ox Teleoperation 4.0x Repeatability Better than IOpum Repeatability Better than IOuum",
+      "ocr_generated_at": "2026-06-20T12:01:28.440194"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "KMu6hp8BvnA",
+        "uploaded_at": "2026-06-20T12:01:56.366150",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: China's new Wuji Hand 2-Finger robotic hand and its advanced capabilities (20kg power grip, superior grasp, precision, teleoperation).\nTarget Audience: Tech enthusiasts, robotics community, engineers, innovation curious, science/futurism fans, general public interested in cutting-edge technology.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal of a next-generation robotic hand with unprecedented strength and precision. The \"20kg Power Grip\" and \"10um Repeatability\" are the core, scroll-stopping facts.\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  This Robot Hand Lifts 20kg?! 🤯 Meet China's Wuji Hand\n2.  Mind-Blowing: Wuji Hand's Insane Robotic Grip & Precision!\n3.  The Future is HERE: Wuji Hand's Unbelievable Power & Control\n4.  Can a Robotic Hand Be THIS Strong? Wuji Hand Revealed!\n5.  20kg Grip, 10um Precision: Wuji Hand Changes Everything!\n\nThumbnail Text Suggestion:\n20kg GRIP!\n\n[YOUTUBE_DESCRIPTION]\n\n🤯 Get ready to be amazed by China's revolutionary Wuji Hand! This 2-finger robotic marvel is redefining automation with an incredible 20kg power grip and a superior grasp. Its advanced features, like 1.0x teleoperation and mind-blowing 10µm repeatability, push the boundaries of what's possible in robotics.\n\nWitness the future of industrial automation and precision engineering right here! What will they pick up next? 👇\n\n#WujiHand #Robotics #FutureTech #Automation #Engineering #Innovation #TechShorts #Mindblown #CoolTech #AI #Precision\n\n[YOUTUBE_HASHTAGS]\n#Robotics\n#Technology\n#Innovation\n#FutureTech\n#Automation\n#Engineering\n#Science\n#WujiHand\n#RoboticHand\n#BionicArm\n#PrecisionEngineering\n#AI\n#ChinaTech\n#IndustrialTech\n#TechShorts\n#Shorts\n#Mindblown\n#Futuristic\n#CoolTech\n#NewGadgets\n\n[YOUTUBE_KEYWORDS]\nWuji Hand, robotic hand, China Wuji Hand, 20kg power grip, superior grasp, teleoperation, 10um repeatability, 2-finger power hold, future of robotics, advanced robotic arm, precision robot, industrial robotics, new technology, automation, AI robotics, bionic hand, robot grip, tech innovation, future tech, engineering marvel.\n\n[BONUS_CTA]\n1. What's the first thing YOU'D pick up with the Wuji Hand? Tell us in the comments! 👇\n2. Hit the like button if you're ready for the future of robotics!\n3. Follow for more mind-blowing tech reveals and innovations!",
+          "title": "This Robot Hand Lifts 20kg?! 🤯 Meet China's Wuji Hand",
+          "description": "🤯 Get ready to be amazed by China's revolutionary Wuji Hand! This 2-finger robotic marvel is redefining automation with an incredible 20kg power grip and a superior grasp. Its advanced features, like 1.0x teleoperation and mind-blowing 10µm repeatability, push the boundaries of what's possible in robotics.\n\nWitness the future of industrial automation and precision engineering right here! What will they pick up next? 👇\n\n#WujiHand #Robotics #FutureTech #Automation #Engineering #Innovation #TechShorts #Mindblown #CoolTech #AI #Precision",
+          "hashtags": "#Robotics\n#Technology\n#Innovation\n#FutureTech\n#Automation\n#Engineering\n#Science\n#WujiHand\n#RoboticHand\n#BionicArm\n#PrecisionEngineering\n#AI\n#ChinaTech\n#IndustrialTech\n#TechShorts\n#Shorts\n#Mindblown\n#Futuristic\n#CoolTech\n#NewGadgets",
+          "keywords": "Wuji Hand, robotic hand, China Wuji Hand, 20kg power grip, superior grasp, teleoperation, 10um repeatability, 2-finger power hold, future of robotics, advanced robotic arm, precision robot, industrial robotics, new technology, automation, AI robotics, bionic hand, robot grip, tech innovation, future tech, engineering marvel."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5534,7 +5540,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962435",
-      "updated_at": "2026-05-31T17:24:21.962438"
+      "updated_at": "2026-06-20T12:01:56.366189"
     }
   },
   {
