@@ -5552,20 +5552,26 @@
       "drive_link": "https://drive.google.com/file/d/1_WmDQNgn7U1GG2SDrNV0DXqHWeHr7nI8/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Chinese VS German Suspension Technology 1- BMW: German 2- Audi: German 3- Nio ET9: Chinese world's first integrated hydraulic fully active suspension (FAS) system \"et9",
+      "ocr_generated_at": "2026-06-20T14:09:39.031850"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "E1XbJR9_Rj8",
+        "uploaded_at": "2026-06-20T14:09:52.143271",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Nio ET9's \"world's first integrated hydraulic fully active suspension\" system compared against leading German luxury car suspension (BMW, Audi).\nTarget Audience: Car enthusiasts, tech innovators, luxury EV buyers, early adopters, people interested in automotive engineering and the global shift in technological leadership.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal that a Chinese brand is leading in a sophisticated automotive technology, challenging established German engineering dominance.\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  China Just SHOCKED BMW & Audi! 🤯\n2.  Nio ET9: World's FIRST Active Suspension!\n3.  Did China Beat Germany in Car Tech? Nio ET9 Susp.\n4.  The SMOOTHEST Ride: Nio ET9 vs BMW/Audi?\n5.  Nio ET9 Hydraulic Suspension: Game Changer!\n\n[YOUTUBE_DESCRIPTION]\nGet ready to have your mind blown! 🤯 The Nio ET9 is making waves with the world's first integrated hydraulic fully active suspension (FAS) system. We're talking next-level engineering that challenges the best from BMW and Audi. Is this a new era for suspension technology? See why the Nio ET9 is a true game-changer in the automotive world.\n\n#NioET9 #SuspensionTech #WorldsFirst #CarInnovation\n\n[YOUTUBE_HASHTAGS]\n#NioET9 #ActiveSuspension #HydraulicSuspension #BMW #Audi #CarTech #WorldsFirst #EV #ElectricVehicles #FutureOfCars #AutomotiveInnovation #ChineseCars #GermanCars #LuxuryEV #CarEngineering #TechTok #CarTok #Mindblown #GameChanger #Shorts\n\n[YOUTUBE_KEYWORDS]\nNio ET9 suspension, active suspension, hydraulic suspension, BMW suspension, Audi suspension, Chinese car tech, German car tech, EV suspension, Nio ET9 integrated hydraulic fully active suspension, future car suspension technology, Nio ET9 vs BMW Audi suspension, innovative car technology\n\n[BONUS_CTA]\n1.  What do YOU think? Let us know in the comments if Nio just changed the game! 👇\n2.  Share this with a car enthusiast who needs to see this!\n3.  Save this if you want to remember the future of car tech!",
+          "title": "China Just SHOCKED BMW & Audi! 🤯",
+          "description": "Get ready to have your mind blown! 🤯 The Nio ET9 is making waves with the world's first integrated hydraulic fully active suspension (FAS) system. We're talking next-level engineering that challenges the best from BMW and Audi. Is this a new era for suspension technology? See why the Nio ET9 is a true game-changer in the automotive world.\n\n#NioET9 #SuspensionTech #WorldsFirst #CarInnovation",
+          "hashtags": "#NioET9 #ActiveSuspension #HydraulicSuspension #BMW #Audi #CarTech #WorldsFirst #EV #ElectricVehicles #FutureOfCars #AutomotiveInnovation #ChineseCars #GermanCars #LuxuryEV #CarEngineering #TechTok #CarTok #Mindblown #GameChanger #Shorts",
+          "keywords": "Nio ET9 suspension, active suspension, hydraulic suspension, BMW suspension, Audi suspension, Chinese car tech, German car tech, EV suspension, Nio ET9 integrated hydraulic fully active suspension, future car suspension technology, Nio ET9 vs BMW Audi suspension, innovative car technology"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -5618,7 +5624,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962484",
-      "updated_at": "2026-05-31T17:24:21.962487"
+      "updated_at": "2026-06-20T14:09:52.143303"
     }
   },
   {
