@@ -6224,20 +6224,26 @@
       "drive_link": "https://drive.google.com/file/d/1ybTZnC5jjfRQqUP-a3z3wIorUhu8L1Tg/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "1950s Craziest invention in 19508 Craziest fnvention in 19503 A normal car untibboo AIRPHIBIAL IRIAN AIRPHIBial A normal car Untibboo It turns into aplane It turns into & plane It turns into a plame",
+      "ocr_generated_at": "2026-06-21T12:09:37.511708"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "3WlzKVS0DI0",
+        "uploaded_at": "2026-06-21T12:09:53.457081",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The Airphibian, a 1950s invention of a car that transformed into a plane.\nTarget Audience: History buffs, tech enthusiasts, curious minds, general audience interested in vintage innovations and \"did you know\" facts.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal / Unexpected twist (a car that *actually* transforms into a plane)\nContent Category: Facts, History, Educational\n\n[YOUTUBE_TITLES]\n1.  🤯 1950s: This Car Literally Turned Into A Plane! #Mindblown\n2.  The CRAZIEST 1950s Invention You Never Knew Existed! (Flying Car?)\n3.  Wait, What? Your Car Could FLY in the 1950s?! #HistoryFacts\n4.  Mind-Blowing 1950s Tech: The Secret Car-Plane That Almost Flew!\n5.  From Road to Sky: Meet the 1950s \"Airphibian\"!\n\n[YOUTUBE_DESCRIPTION]\nPrepare to have your mind blown! 🤯 Forget self-driving cars, the 1950s had THIS! Discover the Airphibian, an invention so wild it's hard to believe. This wasn't just a classic car; it literally transformed into a plane, ready for takeoff!\n\nDive into the incredible story of one of the craziest and most innovative pieces of retro-futuristic engineering. Why didn't this incredible 1950s flying car take over the world? (Pun intended!) Watch to unveil this amazing, forgotten fact about vintage aviation and the quest for personal flight. A true engineering marvel and a fascinating piece of history you won't want to miss!\n\n#Airphibian #1950sInvention #FlyingCar #HistoryFacts #CraziestInventions #VintageTech #AviationHistory #DidYouKnow #EngineeringMarvel #Shorts\n\n[YOUTUBE_HASHTAGS]\n#Shorts\n#Viral\n#Invention\n#History\n#1950s\n#FlyingCar\n#Airphibian\n#VintageTech\n#Aviation\n#ClassicCars\n#Engineering\n#Mindblown\n#DidYouKnow\n#Unexpected\n#RetroFuture\n#ForgottenFacts\n#ScienceFacts\n#WhatIf\n#CrazyInventions\n#TechHistory\n\n[YOUTUBE_KEYWORDS]\n1950s invention, Airphibian, flying car, craziest invention, car plane, vintage aviation, retro technology, historical facts, amazing inventions, forgotten inventions, 1950s Airphibian facts, car that turns into a plane, history of flying cars, engineering marvels, retro future, personal aircraft, classic car history\n\n[BONUS_CTA]\n1.  Did this blow your mind? Hit that like button if you agree! 👇\n2.  What's YOUR favorite forgotten invention from history? Share it in the comments!\n3.  Subscribe for more mind-blowing history facts and incredible discoveries!",
+          "title": "🤯 1950s: This Car Literally Turned Into A Plane! #Mindblown",
+          "description": "Prepare to have your mind blown! 🤯 Forget self-driving cars, the 1950s had THIS! Discover the Airphibian, an invention so wild it's hard to believe. This wasn't just a classic car; it literally transformed into a plane, ready for takeoff!\n\nDive into the incredible story of one of the craziest and most innovative pieces of retro-futuristic engineering. Why didn't this incredible 1950s flying car take over the world? (Pun intended!) Watch to unveil this amazing, forgotten fact about vintage aviation and the quest for personal flight. A true engineering marvel and a fascinating piece of history you won't want to miss!\n\n#Airphibian #1950sInvention #FlyingCar #HistoryFacts #CraziestInventions #VintageTech #AviationHistory #DidYouKnow #EngineeringMarvel #Shorts",
+          "hashtags": "#Shorts\n#Viral\n#Invention\n#History\n#1950s\n#FlyingCar\n#Airphibian\n#VintageTech\n#Aviation\n#ClassicCars\n#Engineering\n#Mindblown\n#DidYouKnow\n#Unexpected\n#RetroFuture\n#ForgottenFacts\n#ScienceFacts\n#WhatIf\n#CrazyInventions\n#TechHistory",
+          "keywords": "1950s invention, Airphibian, flying car, craziest invention, car plane, vintage aviation, retro technology, historical facts, amazing inventions, forgotten inventions, 1950s Airphibian facts, car that turns into a plane, history of flying cars, engineering marvels, retro future, personal aircraft, classic car history"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6290,7 +6296,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962886",
-      "updated_at": "2026-05-31T17:24:21.962889"
+      "updated_at": "2026-06-21T12:09:53.457128"
     }
   },
   {
