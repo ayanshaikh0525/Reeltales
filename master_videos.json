@@ -6308,20 +6308,26 @@
       "drive_link": "https://drive.google.com/file/d/1bdZ-BYW6_wVYUzWcaVdvIl26vBzSBCE7/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "1c.4j Watch this CCTV video and you will be surprised: 4C49 I40 JL4u TL40 Ic40 T40 Look at this_ Venom?",
+      "ocr_generated_at": "2026-06-21T15:10:47.365938"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "CLmpms4mjx8",
+        "uploaded_at": "2026-06-21T15:11:02.558571",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Unexpected and mysterious sighting caught on CCTV footage, hinting at a \"Venom\"-like creature or phenomenon.\nTarget Audience: Viewers interested in mysteries, strange occurrences, viral videos, real-life surprises, and unexplained phenomena.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal / Unexpected creature or event caught on camera.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  🤯 CCTV SHOCK: Is THIS Venom?!\n2.  You Won't BELIEVE What CCTV Caught! 😱\n3.  Caught on Camera: The Mystery of \"Venom\"?\n4.  This CCTV Video Will SHOCK You! 🐍\n5.  What Was Caught?! The Craziest CCTV Reveal!\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to be absolutely shocked! 🤯 This CCTV footage has the internet buzzing, capturing something truly unbelievable that will make you question everything. Was it a creature? A strange phenomenon? The big question everyone's asking is: Is this... Venom?! Watch till the very end to see the full, surprising reveal and tell us what YOU think it is in the comments below! This is one of the most mysterious and shocking clips we've ever seen caught on camera. Don't miss out on this unexplained footage!\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts #ViralShorts #Trending #Mystery #Surprise #CCTVFootage #CaughtOnCamera #Unbelievable #WhatIsIt #ShockingVideo #StrangePhenomena #Unexplained #RealOrFake #MindBlown #CreatureFeature #InternetMystery #WatchThis #VenomMystery #SecurityCamera #ViralClip\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keywords: CCTV surprise, unexpected footage, Venom mystery\nSecondary Keywords: security camera, strange sighting, caught on camera, mystery video, viral CCTV, shocking footage\nLong-tail Keywords: what was caught on cctv, surprising creature on camera, unexplainable cctv footage, real or fake venom video, most shocking cctv video, mysterious creature on camera\n\n[BONUS_CTA]\n\n1.  What do YOU think this mysterious thing is? Tell us in the comments! 👇\n2.  🤯 Share this with a friend who loves a good mystery and shock!\n3.  Save this video and rewatch the surprising reveal! ✨",
+          "title": "🤯 CCTV SHOCK: Is THIS Venom?!",
+          "description": "Prepare to be absolutely shocked! 🤯 This CCTV footage has the internet buzzing, capturing something truly unbelievable that will make you question everything. Was it a creature? A strange phenomenon? The big question everyone's asking is: Is this... Venom?! Watch till the very end to see the full, surprising reveal and tell us what YOU think it is in the comments below! This is one of the most mysterious and shocking clips we've ever seen caught on camera. Don't miss out on this unexplained footage!",
+          "hashtags": "#Shorts #ViralShorts #Trending #Mystery #Surprise #CCTVFootage #CaughtOnCamera #Unbelievable #WhatIsIt #ShockingVideo #StrangePhenomena #Unexplained #RealOrFake #MindBlown #CreatureFeature #InternetMystery #WatchThis #VenomMystery #SecurityCamera #ViralClip",
+          "keywords": "Primary Keywords: CCTV surprise, unexpected footage, Venom mystery\nSecondary Keywords: security camera, strange sighting, caught on camera, mystery video, viral CCTV, shocking footage\nLong-tail Keywords: what was caught on cctv, surprising creature on camera, unexplainable cctv footage, real or fake venom video, most shocking cctv video, mysterious creature on camera"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6374,7 +6380,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962940",
-      "updated_at": "2026-05-31T17:24:21.962943"
+      "updated_at": "2026-06-21T15:11:02.558597"
     }
   },
   {
