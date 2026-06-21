@@ -6056,20 +6056,26 @@
       "drive_link": "https://drive.google.com/file/d/1EijDatIRw_jjw_dPrtx_paQTjk28tasX/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Controlled Explosion inside a tunnel shockwaves rippling through the tunnel walls likea pulse of energy the tunnel wallslikoa pulse of energys The waves travel at incredible speed, demonstrating thetaw physics of pressure wavesand material responsena confined Spaces speed; demonstrating theraw physics of pressurewavesand material responseina confined spaces speed, demonstrating theraw",
+      "ocr_generated_at": "2026-06-21T05:57:49.077921"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "kX-1-aPR5AA",
+        "uploaded_at": "2026-06-21T05:58:01.809060",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Controlled explosion shockwaves and the raw physics of pressure waves in confined spaces.\nTarget Audience: Science enthusiasts, engineering students, curious individuals, anyone interested in powerful visual phenomena and applied physics.\nEmotion: Surprise\nViral Angle: Mind-blowing visual demonstration of raw power and hidden physics revealed in an unexpected setting (a tunnel). The visual of \"shockwaves rippling through the tunnel walls like a pulse of energy\" is a key hook.\nContent Category: Educational / Facts\n\n[YOUTUBE_TITLES]\n1.  🤯 You Won't Believe What Happens Inside This Tunnel!\n2.  RAW POWER: Witness a Tunnel Shockwave Phenomenon!\n3.  Controlled Explosion: The Mind-Blowing Physics Revealed\n4.  Watch Shockwaves Ripple: Tunnel Physics UNLEASHED!\n5.  Incredible Speed: The Science Behind Tunnel Explosions\n\n[YOUTUBE_DESCRIPTION]\nWitness the unbelievable power of a controlled explosion inside a tunnel! 🤯 See shockwaves ripple through the tunnel walls like a pulse of pure energy. This incredible short demonstrates the raw physics of pressure waves and material response in confined spaces, traveling at unbelievable speeds. Prepare to be amazed by the hidden forces at play and the intricate science behind such a powerful event. What do you think happens next? Watch closely! #Shorts\n\n[YOUTUBE_HASHTAGS]\n#Science #Physics #Explosion #Shockwaves #Engineering #Power #RawPower #ScienceFacts #EducationalShorts #TunnelPhysics #PressureWaves #MaterialScience #ConfinedSpaces #AppliedPhysics #WavePhenomenon #MindBlown #ViralShorts #ScienceDemonstration #MustWatch #STEM\n\n[YOUTUBE_KEYWORDS]\nControlled explosion, shockwaves, tunnel physics, pressure waves, material response, confined spaces, raw physics, incredible speed, engineering, science demonstration, physics experiment, tunnel engineering, wave mechanics, applied science, power demonstration.\n\n[BONUS_CTA]\n1.  What did YOU find most surprising about this explosion? Tell us below!\n2.  If this blew your mind, smash that like button and share it with a friend!\n3.  Subscribe for more jaw-dropping science and engineering revelations!",
+          "title": "🤯 You Won't Believe What Happens Inside This Tunnel!",
+          "description": "Witness the unbelievable power of a controlled explosion inside a tunnel! 🤯 See shockwaves ripple through the tunnel walls like a pulse of pure energy. This incredible short demonstrates the raw physics of pressure waves and material response in confined spaces, traveling at unbelievable speeds. Prepare to be amazed by the hidden forces at play and the intricate science behind such a powerful event. What do you think happens next? Watch closely! #Shorts",
+          "hashtags": "#Science #Physics #Explosion #Shockwaves #Engineering #Power #RawPower #ScienceFacts #EducationalShorts #TunnelPhysics #PressureWaves #MaterialScience #ConfinedSpaces #AppliedPhysics #WavePhenomenon #MindBlown #ViralShorts #ScienceDemonstration #MustWatch #STEM",
+          "keywords": "Controlled explosion, shockwaves, tunnel physics, pressure waves, material response, confined spaces, raw physics, incredible speed, engineering, science demonstration, physics experiment, tunnel engineering, wave mechanics, applied science, power demonstration."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6122,7 +6128,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962788",
-      "updated_at": "2026-05-31T17:24:21.962791"
+      "updated_at": "2026-06-21T05:58:01.809087"
     }
   },
   {
