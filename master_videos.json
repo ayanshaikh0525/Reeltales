@@ -6644,20 +6644,26 @@
       "drive_link": "https://drive.google.com/file/d/1-neaIrOtK7jZ0ZCqKG2L98zniihB8cVm/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "DIY Wrench that fits bolts @f any size DI Wtench that fits DIY Wtench that fits DI Wiench that fits bolts @f ay size Simple and effective",
+      "ocr_generated_at": "2026-06-21T23:05:43.150479"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "uJaMTdzJPsQ",
+        "uploaded_at": "2026-06-21T23:05:57.524799",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A DIY (Do-It-Yourself) wrench designed to universally fit bolts of any size.\nTarget Audience: DIY enthusiasts, mechanics, engineers, inventors, general audience interested in clever hacks, tools, and problem-solving.\nEmotion: Surprise (followed by satisfaction at the cleverness and utility)\nViral Angle: Mind-blowing reveal (of a simple yet revolutionary tool design that solves a common problem)\nContent Category: Educational, Facts, Productivity\n\n[YOUTUBE_TITLES]\n1.  🤯 The ONLY Wrench You'll Ever Need! (Thumbnail text: \"Any Bolt Wrench\")\n2.  DIY Wrench Fits EVERY Size? You Won't Believe It. (Thumbnail text: \"Wrench Genius\")\n3.  Stop Buying Wrenches! This Simple Hack Changes Everything. (Thumbnail text: \"Wrench Hack\")\n4.  Genius Tool: Build a Universal Wrench That Works! (Thumbnail text: \"DIY Smart Tool\")\n5.  Is THIS the Future of Wrenches? Simple & Effective. (Thumbnail text: \"One Wrench Wonder\")\n\n[YOUTUBE_DESCRIPTION]\nThis isn't just a wrench; it's a game-changer! See how a simple DIY design creates a universal wrench that fits bolts of ANY size. No more searching for the right tool – this ingenious hack makes your life easier and your toolbox lighter.\n\nPrepare to be surprised by the sheer simplicity and effectiveness of this design. Imagine tackling any bolt with just ONE tool!\n\nWhat do you think of this DIY invention? Let us know in the comments! 👇\n\n#DIYTools #WrenchHack #LifeHacks\n\n[YOUTUBE_HASHTAGS]\n#DIY #Tools #Invention #LifeHack #Mechanic #WrenchHack #AdjustableWrench #UniversalTool #SmartDesign #Engineering #MindBlown #ViralShorts #GeniusIdea #ProblemSolved #TechShorts #Innovation #ToolTime #HomeImprovement #DIYProjects #MustHaveTools\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: DIY wrench, universal wrench\nSecondary keywords: adjustable wrench, tool hack, bolt wrench, simple effective wrench\nLong-tail keywords: wrench that fits any size bolt, how to make universal wrench, ingenious DIY tool, ultimate wrench hack\n\n[BONUS_CTA]\n1.  Would you build this universal wrench for your toolbox? Let us know below!\n2.  Hit that LIKE button if you think this DIY wrench is genius!\n3.  SHARE this mind-blowing tool hack with a friend who loves DIY!",
+          "title": "🤯 The ONLY Wrench You'll Ever Need! (Thumbnail text: \"Any Bolt Wrench\")",
+          "description": "This isn't just a wrench; it's a game-changer! See how a simple DIY design creates a universal wrench that fits bolts of ANY size. No more searching for the right tool – this ingenious hack makes your life easier and your toolbox lighter.\n\nPrepare to be surprised by the sheer simplicity and effectiveness of this design. Imagine tackling any bolt with just ONE tool!\n\nWhat do you think of this DIY invention? Let us know in the comments! 👇\n\n#DIYTools #WrenchHack #LifeHacks",
+          "hashtags": "#DIY #Tools #Invention #LifeHack #Mechanic #WrenchHack #AdjustableWrench #UniversalTool #SmartDesign #Engineering #MindBlown #ViralShorts #GeniusIdea #ProblemSolved #TechShorts #Innovation #ToolTime #HomeImprovement #DIYProjects #MustHaveTools",
+          "keywords": "Primary keyword: DIY wrench, universal wrench\nSecondary keywords: adjustable wrench, tool hack, bolt wrench, simple effective wrench\nLong-tail keywords: wrench that fits any size bolt, how to make universal wrench, ingenious DIY tool, ultimate wrench hack"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6710,7 +6716,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963152",
-      "updated_at": "2026-05-31T17:24:21.963155"
+      "updated_at": "2026-06-21T23:05:57.524836"
     }
   },
   {
