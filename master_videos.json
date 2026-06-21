@@ -6392,20 +6392,26 @@
       "drive_link": "https://drive.google.com/file/d/17ZomsZ_lZuQaWC72VEKLOp3nq0AAlCGP/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Wow Il Mars Soil Ordinary People Wow !I Mars Soil Wow Il Mars Soll Wowv Il Mars Soil Wowv Il Mars Soll What is The Matter?? Those Who Know",
+      "ocr_generated_at": "2026-06-21T17:23:20.320818"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "HuZoi0vp3pg",
+        "uploaded_at": "2026-06-21T17:23:42.772029",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The mysterious or surprising properties of Mars soil and what makes it significant.\nTarget Audience: Space enthusiasts, science curious individuals, those interested in mysteries, discoveries, and \"mind-blowing\" facts.\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal about Mars soil's true nature.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  What's REALLY wrong with Mars soil? 🤯\n2.  Mars Soil Secret: Scientists Don't Want You To Know!\n3.  Is Mars soil HIDING something? You won't believe it.\n4.  The TRUTH about Mars soil will shock you!\n5.  Mars Soil Mystery: What \"Those Who Know\" Understand.\n\n[YOUTUBE_DESCRIPTION]\n\nEver wonder why \"ordinary people\" might overlook the incredible secrets of Mars soil, while \"those who know\" are amazed? 🤔 Get ready to dive deep into the enigmatic composition of the Red Planet's surface! This isn't just dirt; it's a cosmic puzzle with implications for future space exploration and the search for life. We reveal the hidden facts about Martian soil that could change everything you thought you knew. What's the biggest secret Mars soil holds? Watch to find out why scientists are so focused on it! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#Space #Mars #NASA #Science #Universe #Discovery #Astronomy #Planets #MarsSoil #Martian #PlanetaryScience #SpaceExploration #RedPlanet #Geology #CosmicFacts #Mystery #Mindblown #DidYouKnow #Facts #ViralShorts\n\n[YOUTUBE_KEYWORDS]\n\nMars soil, Mars, soil, space, science, discovery, red planet, Martian, Mars soil composition, what is Mars soil, Mars soil mystery, secrets of Mars soil, why is Mars soil important, what's in Mars soil, Mars geology facts, planetary science\n\n[BONUS_CTA]\n\n1.  What Mars soil fact blew YOUR mind? Tell us below! 👇\n2.  Share this with a friend who loves space mysteries!\n3.  Follow for more mind-blowing cosmic secrets! ✨",
+          "title": "What's REALLY wrong with Mars soil? 🤯",
+          "description": "Ever wonder why \"ordinary people\" might overlook the incredible secrets of Mars soil, while \"those who know\" are amazed? 🤔 Get ready to dive deep into the enigmatic composition of the Red Planet's surface! This isn't just dirt; it's a cosmic puzzle with implications for future space exploration and the search for life. We reveal the hidden facts about Martian soil that could change everything you thought you knew. What's the biggest secret Mars soil holds? Watch to find out why scientists are so focused on it! 👇",
+          "hashtags": "#Space #Mars #NASA #Science #Universe #Discovery #Astronomy #Planets #MarsSoil #Martian #PlanetaryScience #SpaceExploration #RedPlanet #Geology #CosmicFacts #Mystery #Mindblown #DidYouKnow #Facts #ViralShorts",
+          "keywords": "Mars soil, Mars, soil, space, science, discovery, red planet, Martian, Mars soil composition, what is Mars soil, Mars soil mystery, secrets of Mars soil, why is Mars soil important, what's in Mars soil, Mars geology facts, planetary science"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6458,7 +6464,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.962989",
-      "updated_at": "2026-05-31T17:24:21.962992"
+      "updated_at": "2026-06-21T17:23:42.772066"
     }
   },
   {
