@@ -6980,20 +6980,26 @@
       "drive_link": "https://drive.google.com/file/d/1wIJpN3FyoO-YkBoR1Fvu2FSIwerJpuTF/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "SECRET TUNNEL FOUND IN THE MIDDLE OF NOWHERE NO EXIT NO TRACE: SOME SAY IT LEADS TO SOMETHING WE WERE NEVER MEANT TO SEE NO TRACE. SOME SAY IT LEADS NOWHERE NO EXIT_ NOWHERE NO EXIT, NO TRACE. SOME SAY IT LEADS",
+      "ocr_generated_at": "2026-06-22T18:45:02.098435"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "TRWL7D0lYLo",
+        "uploaded_at": "2026-06-22T18:45:14.770720",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A mysterious, secret tunnel discovered in an isolated location with no visible exit or origin, leading to speculation about its hidden purpose or destination.\nTarget Audience: People interested in mysteries, unexplained phenomena, conspiracy theories, strange discoveries, urban exploration, unsettling stories, and \"what if\" scenarios.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Hidden fact / Mystery / Unexpected discovery\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n1.  SECRET TUNNEL Found: No Exit, No Trace 🤯\n2.  Middle of Nowhere: This Secret Tunnel Has NO EXIT\n3.  Forbidden Discovery: What's Inside This Unexplained Tunnel?\n4.  They Found a Secret Tunnel With NO EXIT… What Was It?\n5.  This Secret Tunnel Leads To Something We Weren't Meant To See.\n\n[YOUTUBE_DESCRIPTION]\nA chilling discovery in the middle of nowhere has everyone baffled. They found a secret tunnel with no exit and no trace of who built it. Some say it leads to something we were never meant to see... others say it goes absolutely nowhere. What do you think is inside this mysterious hole? Where does this unexplained tunnel truly lead? This urban exploration mystery will make you question everything.\n\n[YOUTUBE_HASHTAGS]\n#SecretTunnel #Mystery #Unexplained #Discovery #Creepy #HiddenTruths #LostPlaces #UrbanExploration #Conspiracy #WhatIf #MindBlown #ViralShorts #Shorts #YouTubeShorts #StrangeFacts #AbandonedPlaces #Forbidden #NoExit #WhereDoesItLead #DeepMystery\n\n[YOUTUBE_KEYWORDS]\nSecret tunnel, middle of nowhere, no exit, no trace, unexplained, mystery, discovery, conspiracy, lost places, urban exploration, hidden truth, something we weren't meant to see, what if, mind blown, strange facts, abandoned places, forbidden, deep mystery, mysterious tunnel, secret discovery, paranormal, unsolved mystery.\n\n[BONUS_CTA]\n1.  What's YOUR theory? Drop a comment below! 👇\n2.  Hit like if you love a good mystery! ❤️\n3.  Share this with a friend who loves the unexplained! 🤯",
+          "title": "SECRET TUNNEL Found: No Exit, No Trace 🤯",
+          "description": "A chilling discovery in the middle of nowhere has everyone baffled. They found a secret tunnel with no exit and no trace of who built it. Some say it leads to something we were never meant to see... others say it goes absolutely nowhere. What do you think is inside this mysterious hole? Where does this unexplained tunnel truly lead? This urban exploration mystery will make you question everything.",
+          "hashtags": "#SecretTunnel #Mystery #Unexplained #Discovery #Creepy #HiddenTruths #LostPlaces #UrbanExploration #Conspiracy #WhatIf #MindBlown #ViralShorts #Shorts #YouTubeShorts #StrangeFacts #AbandonedPlaces #Forbidden #NoExit #WhereDoesItLead #DeepMystery",
+          "keywords": "Secret tunnel, middle of nowhere, no exit, no trace, unexplained, mystery, discovery, conspiracy, lost places, urban exploration, hidden truth, something we weren't meant to see, what if, mind blown, strange facts, abandoned places, forbidden, deep mystery, mysterious tunnel, secret discovery, paranormal, unsolved mystery."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7046,7 +7052,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963346",
-      "updated_at": "2026-05-31T17:24:21.963349"
+      "updated_at": "2026-06-22T18:45:14.770756"
     }
   },
   {
