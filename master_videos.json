@@ -6896,20 +6896,26 @@
       "drive_link": "https://drive.google.com/file/d/1sHzBo8qRugZnt-HFVBK95HBPX7yriaBW/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Highly dense metal Vs Shredder machie Vs Shredder machine The shredder machine absolutely cooked this time got",
+      "ocr_generated_at": "2026-06-22T14:37:20.790323"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "s30D9HkRlIU",
+        "uploaded_at": "2026-06-22T14:37:43.206398",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The unexpected failure or struggle of an industrial shredder machine against a piece of highly dense metal.\nTarget Audience: People interested in engineering, material science, destruction tests, machinery, \"what if\" scenarios, and satisfying/shocking experiments.\nEmotion: Surprise\nViral Angle: Unexpected twist (the dense metal \"wins\" against the powerful shredder)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Shredder VS DENSE Metal: The Machine Got COOKED?! 🤯\n2.  Can a Shredder Destroy THIS Metal? The Outcome SHOCKED Me!\n3.  This Metal Broke the Shredder! See What Happened...\n4.  Extreme Test: When Highly Dense Metal Met a Shredder Machine!\n5.  Watch the Shredder Fail Against UNBREAKABLE Metal!\n\n[YOUTUBE_DESCRIPTION]\nYou won't believe what happens when a powerful industrial shredder goes head-to-head with a chunk of incredibly dense metal! We pushed the machine to its limits, but this material had other plans. Did the shredder win, or did it get \"cooked\" trying? Find out in this shocking destruction test! What did you think would happen? 👇\n\n[YOUTUBE_HASHTAGS]\n#shredder #densemetal #machinery #engineering #destruction #experiment #materialscience #unexpected #fail #viral #shorts #sciencefacts #mechanical #challenge #shocking #innovation #unbelievable #whatif #industrial #resist\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: shredder vs dense metal\nSecondary keywords: machine failure, metal destruction, extreme test, material strength, industrial shredder\nLong-tail keywords: what happens when dense metal meets a shredder, shredder breaks on metal, industrial shredder challenge, strong metal test\n\n[BONUS_CTA]\n1.  Drop a comment: What did YOU think would happen? 👇\n2.  Hit that Like button if this test surprised you!\n3.  Subscribe for more mind-blowing engineering challenges!",
+          "title": "Shredder VS DENSE Metal: The Machine Got COOKED?! 🤯",
+          "description": "You won't believe what happens when a powerful industrial shredder goes head-to-head with a chunk of incredibly dense metal! We pushed the machine to its limits, but this material had other plans. Did the shredder win, or did it get \"cooked\" trying? Find out in this shocking destruction test! What did you think would happen? 👇",
+          "hashtags": "#shredder #densemetal #machinery #engineering #destruction #experiment #materialscience #unexpected #fail #viral #shorts #sciencefacts #mechanical #challenge #shocking #innovation #unbelievable #whatif #industrial #resist",
+          "keywords": "Primary keyword: shredder vs dense metal\nSecondary keywords: machine failure, metal destruction, extreme test, material strength, industrial shredder\nLong-tail keywords: what happens when dense metal meets a shredder, shredder breaks on metal, industrial shredder challenge, strong metal test"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6962,7 +6968,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963299",
-      "updated_at": "2026-05-31T17:24:21.963302"
+      "updated_at": "2026-06-22T14:37:43.206425"
     }
   },
   {
