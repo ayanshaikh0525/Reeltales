@@ -7148,20 +7148,26 @@
       "drive_link": "https://drive.google.com/file/d/1tSVmVv87jfSkQIWr1H2omCdGxJHMm5hf/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Dipping Sheep to Remove parasites sheep are dipped into a chemical solution for around 5 seconds This quick immersion helps in removing parasites, ticks and lice from their wool and skn wool and skno ticks and lice fron their",
+      "ocr_generated_at": "2026-06-22T23:16:57.638915"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "YIxADpOP9Qo",
+        "uploaded_at": "2026-06-22T23:17:11.684510",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Sheep parasite removal through chemical dipping.\nTarget Audience: Farmers, animal enthusiasts, general audience interested in agricultural practices, animal care, or unique processes.\nEmotion: Curiosity\nViral Angle: Unexpected process / Hidden fact (for those unfamiliar with farm practices).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  Farmers' Secret to Healthy Sheep Revealed! 🤯\n2.  This is HOW They Get Parasites Off Sheep! (Shocking!)\n3.  Sheep Dipping: The Weird Way Farms Keep Wool Clean!\n4.  Parasite Patrol: See How Sheep Are Kept Tick-Free!\n5.  Ever Wondered How Farmers Protect Their Sheep? Watch This!\n\n[YOUTUBE_DESCRIPTION]\nYou won't believe the quick and effective method farmers use to keep their sheep healthy! This short video reveals the crucial process of sheep dipping, where sheep are briefly immersed in a special chemical solution for around 5 seconds. It's an essential step in removing ticks, lice, and other parasites from their wool and skin.\n\nLearn how this vital farm practice ensures the well-being of livestock and the quality of wool. It's a fascinating look into the world of animal husbandry that many people have never seen before!\n\nWhat do you think about this farming technique? Let us know in the comments below! 👇\n\n[YOUTUBE_HASHTAGS]\n#Sheep #Farming #Animals #RuralLife #Agriculture #SheepDipping #ParasiteRemoval #LivestockCare #AnimalHealth #FarmLife #WoolHealth #AgriculturalPractices #DidYouKnow #FarmFacts #OddlySatisfying #EducationalShorts #MindBlown #WatchThis #ViralDiscovery #HowItsDone\n\n[YOUTUBE_KEYWORDS]\nsheep dipping, sheep parasite removal, livestock health, farm practices, wool care, how farmers remove parasites from sheep, what is sheep dipping, sheep tick and lice treatment, keeping sheep healthy method, animal husbandry, agricultural life, farm education\n\n[BONUS_CTA]\n1.  What's your biggest farm curiosity? Tell us below! 👇\n2.  Hit LIKE if you learned something new about farming today! ❤️\n3.  SHARE this video if you think more people should know this amazing process! ↗️",
+          "title": "Farmers' Secret to Healthy Sheep Revealed! 🤯",
+          "description": "You won't believe the quick and effective method farmers use to keep their sheep healthy! This short video reveals the crucial process of sheep dipping, where sheep are briefly immersed in a special chemical solution for around 5 seconds. It's an essential step in removing ticks, lice, and other parasites from their wool and skin.\n\nLearn how this vital farm practice ensures the well-being of livestock and the quality of wool. It's a fascinating look into the world of animal husbandry that many people have never seen before!\n\nWhat do you think about this farming technique? Let us know in the comments below! 👇",
+          "hashtags": "#Sheep #Farming #Animals #RuralLife #Agriculture #SheepDipping #ParasiteRemoval #LivestockCare #AnimalHealth #FarmLife #WoolHealth #AgriculturalPractices #DidYouKnow #FarmFacts #OddlySatisfying #EducationalShorts #MindBlown #WatchThis #ViralDiscovery #HowItsDone",
+          "keywords": "sheep dipping, sheep parasite removal, livestock health, farm practices, wool care, how farmers remove parasites from sheep, what is sheep dipping, sheep tick and lice treatment, keeping sheep healthy method, animal husbandry, agricultural life, farm education"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7214,7 +7220,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963443",
-      "updated_at": "2026-05-31T17:24:21.963446"
+      "updated_at": "2026-06-22T23:17:11.684538"
     }
   },
   {
