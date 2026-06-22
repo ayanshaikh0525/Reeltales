@@ -6812,20 +6812,26 @@
       "drive_link": "https://drive.google.com/file/d/1qzO03hQLZ86f6PJpkyHABGHU3yLR1voB/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "12 am 24-hour time lapse Where Sun Doesn't set 2 &m 8 &m 10 a The sun does not set in Antarctica during the summer months because the South Pole is tilted directly towards the sun resulting (n continuous daylight for roughly six months 12 pM towards the sun, continuous daylight for roughly six 2 pM resulting in towards the sun; 8 pM the South Pole is tilted dlirectly 10 pn continuous daylight for [oughly six",
+      "ocr_generated_at": "2026-06-22T08:59:10.088351"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "7bAj31p5NNk",
+        "uploaded_at": "2026-06-22T08:59:25.196090",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The phenomenon of continuous daylight in Antarctica during summer, showcased through a 24-hour time-lapse.\nTarget Audience: People curious about natural phenomena, science enthusiasts, geography lovers, those interested in extreme environments, and viewers seeking educational or \"mind-blowing\" facts.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (uncovering a lesser-known scientific truth) combined with Rare footage (a 24-hour time-lapse of continuous daylight).\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  Antarctica's Secret: The Sun NEVER Sets?! 🤯\n2.  Watch 24 Hours of Continuous Sun in Antarctica!\n3.  Mind-Blown: This Is Why The Sun Doesn't Set In Antarctica\n4.  Ever Seen The Midnight Sun? Antarctica's Wild Reality!\n5.  You Won't Believe What Happens To The Sun Here... (Antarctica)\n\n[YOUTUBE_DESCRIPTION]\n\nPrepare to have your mind blown! 🤯 This incredible 24-hour time-lapse takes you to Antarctica during its summer months, revealing an unbelievable truth: the sun *never* sets!\n\nEver wondered how this is possible? It's all because the South Pole is tilted directly towards the sun, resulting in continuous daylight for roughly six months straight. Witness this stunning natural phenomenon and discover one of Earth's most amazing secrets!\n\nDid you know about Antarctica's endless summer days? Let us know what you think in the comments! 👇\n\n#Antarctica #MidnightSun #ScienceFacts #EarthSecrets\n\n[YOUTUBE_HASHTAGS]\n#Shorts\n#YouTubeShorts\n#Antarctica\n#MidnightSun\n#ContinuousDaylight\n#PolarRegion\n#EarthFacts\n#ScienceFacts\n#Geography\n#DidYouKnow\n#MindBlown\n#Unbelievable\n#NatureFacts\n#Explore\n#TimeLapse\n#SummerSolstice\n#SouthPole\n#PlanetEarth\n#ExtremePhenomena\n#EducationalContent\n\n[YOUTUBE_KEYWORDS]\nAntarctica sun doesn't set, continuous daylight Antarctica, South Pole summer, why sun never sets Antarctica, Antarctica 24 hour time lapse, midnight sun Antarctica, polar region daylight, earth tilt phenomenon, six months daylight Antarctica, Antarctica summer facts, geographical facts, science of Antarctica, extreme environments, educational science shorts, polar daylight explanation\n\n[BONUS_CTA]\n1.  🤯 Was your mind blown? Hit like & subscribe for more incredible facts!\n2.  What's the most surprising thing you learned about Antarctica? Tell us below! 👇\n3.  Share this video with someone who needs to see this unbelievable phenomenon!",
+          "title": "Antarctica's Secret: The Sun NEVER Sets?! 🤯",
+          "description": "Prepare to have your mind blown! 🤯 This incredible 24-hour time-lapse takes you to Antarctica during its summer months, revealing an unbelievable truth: the sun *never* sets!\n\nEver wondered how this is possible? It's all because the South Pole is tilted directly towards the sun, resulting in continuous daylight for roughly six months straight. Witness this stunning natural phenomenon and discover one of Earth's most amazing secrets!\n\nDid you know about Antarctica's endless summer days? Let us know what you think in the comments! 👇\n\n#Antarctica #MidnightSun #ScienceFacts #EarthSecrets",
+          "hashtags": "#Shorts\n#YouTubeShorts\n#Antarctica\n#MidnightSun\n#ContinuousDaylight\n#PolarRegion\n#EarthFacts\n#ScienceFacts\n#Geography\n#DidYouKnow\n#MindBlown\n#Unbelievable\n#NatureFacts\n#Explore\n#TimeLapse\n#SummerSolstice\n#SouthPole\n#PlanetEarth\n#ExtremePhenomena\n#EducationalContent",
+          "keywords": "Antarctica sun doesn't set, continuous daylight Antarctica, South Pole summer, why sun never sets Antarctica, Antarctica 24 hour time lapse, midnight sun Antarctica, polar region daylight, earth tilt phenomenon, six months daylight Antarctica, Antarctica summer facts, geographical facts, science of Antarctica, extreme environments, educational science shorts, polar daylight explanation"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6878,7 +6884,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963247",
-      "updated_at": "2026-05-31T17:24:21.963250"
+      "updated_at": "2026-06-22T08:59:25.196114"
     }
   },
   {
