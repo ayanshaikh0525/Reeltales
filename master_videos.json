@@ -6728,20 +6728,26 @@
       "drive_link": "https://drive.google.com/file/d/12oYL1OLbxOQp499tP8pNPcmggyQIcIPK/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Wow, what an amazing Skyscapers buildingll Wow; what an amazing Skyscapers buildingl! Now | understand Now | understand !! Now [ understand !!",
+      "ocr_generated_at": "2026-06-22T02:59:41.862513"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "OOsj_nbZjoc",
+        "uploaded_at": "2026-06-22T02:59:55.291794",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The astounding features or secrets behind a skyscraper's design/engineering.\nTarget Audience: Architecture enthusiasts, engineering curious, travel lovers, those seeking wonder, urban explorers.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal / Hidden fact\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n1.  🤯 The SECRET reason this skyscraper BLEW MY MIND!\n2.  Wait, THIS is why this amazing building works?!\n3.  Skyscraper Reveal: You won't believe what I just understood!\n4.  Modern Architecture's Hidden Genius: Finally Explained!\n5.  This Building's Design Secret Just Shocked Me! #Skyscraper\n\n[YOUTUBE_DESCRIPTION]\nEver looked at an incredible skyscraper and wondered, \"How?!\" This architectural marvel finally made me understand the groundbreaking genius behind its construction. 🤯 From its unique features to the engineering brilliance, there's a secret that sets it apart.\n\nWatch to find out the mind-blowing truth that made me say, \"Now I understand!\"\nWhat's your favorite architectural wonder? Share it in the comments below! 👇\n\n#SkyscraperFacts #ModernArchitecture #EngineeringMarvels #BuildingSecrets #MindBlown\n\n[YOUTUBE_HASHTAGS]\n#Skyscraper\n#Architecture\n#Engineering\n#BuildingDesign\n#ModernArchitecture\n#Cityscape\n#UrbanPlanning\n#StructuralEngineering\n#ArchitecturalMarvel\n#FutureBuildings\n#DesignInspiration\n#DidYouKnow\n#MindBlown\n#ShortsFeed\n#ViralShort\n#WatchTillEnd\n#SecretRevealed\n#WowFacts\n#AmazingBuildings\n#ArchitecturalInnovation\n\n[YOUTUBE_KEYWORDS]\nskyscraper, architecture, engineering, building, modern design, amazing skyscraper facts, how skyscrapers are built, secrets of skyscrapers, modern architecture marvels, incredible building design, urban planning, structural engineering, future cities, unique buildings, architectural innovation, design inspiration, building technology, urban development, towering structures, city architecture\n\n[BONUS_CTA]\n1. What's the most amazing building you've ever seen? Tell us in the comments!\n2. Hit 'Follow' for more mind-blowing facts about the world's wonders!\n3. Share this with someone who loves impressive engineering!",
+          "title": "🤯 The SECRET reason this skyscraper BLEW MY MIND!",
+          "description": "Ever looked at an incredible skyscraper and wondered, \"How?!\" This architectural marvel finally made me understand the groundbreaking genius behind its construction. 🤯 From its unique features to the engineering brilliance, there's a secret that sets it apart.\n\nWatch to find out the mind-blowing truth that made me say, \"Now I understand!\"\nWhat's your favorite architectural wonder? Share it in the comments below! 👇\n\n#SkyscraperFacts #ModernArchitecture #EngineeringMarvels #BuildingSecrets #MindBlown",
+          "hashtags": "#Skyscraper\n#Architecture\n#Engineering\n#BuildingDesign\n#ModernArchitecture\n#Cityscape\n#UrbanPlanning\n#StructuralEngineering\n#ArchitecturalMarvel\n#FutureBuildings\n#DesignInspiration\n#DidYouKnow\n#MindBlown\n#ShortsFeed\n#ViralShort\n#WatchTillEnd\n#SecretRevealed\n#WowFacts\n#AmazingBuildings\n#ArchitecturalInnovation",
+          "keywords": "skyscraper, architecture, engineering, building, modern design, amazing skyscraper facts, how skyscrapers are built, secrets of skyscrapers, modern architecture marvels, incredible building design, urban planning, structural engineering, future cities, unique buildings, architectural innovation, design inspiration, building technology, urban development, towering structures, city architecture"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -6794,7 +6800,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963200",
-      "updated_at": "2026-05-31T17:24:21.963203"
+      "updated_at": "2026-06-22T02:59:55.291828"
     }
   },
   {
