@@ -7064,20 +7064,26 @@
       "drive_link": "https://drive.google.com/file/d/1HFheY3UIMnXpoTgGd0CsWdJgczgVmsQH/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Just w8 and Watched The Clock That Becomes Digital From Analog 7 FA",
+      "ocr_generated_at": "2026-06-22T21:31:41.022614"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "tjZgcRt7Nis",
+        "uploaded_at": "2026-06-22T21:31:55.859177",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The innovative transformation of an analog clock into a digital display.\nTarget Audience: Tech enthusiasts, design lovers, gadget collectors, people curious about clever engineering, and anyone who appreciates satisfying visual reveals.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Unexpected transformation\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  This clock defies logic! 🤯 Analog to Digital transformation you HAVE to see\n2.  Analog Clock BECOMES Digital! Watch the Mind-Blowing Shift\n3.  How does THIS clock go digital? You won't believe your eyes!\n4.  The satisfying moment an analog clock turns into a digital display\n5.  Analog to Digital Clock: Secret Revealed! #CoolTech\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered how an analog clock could magically transform into a digital display? 🤯 This incredible gadget redefines time-telling with a mind-blowing shift! Watch closely as the hands disappear and numbers emerge in a seamless, satisfying transition. It's an engineering marvel and a truly unique clock transformation that will leave you amazed. Don't miss this clever design in action! What do you think of this innovative timepiece?\n\n[YOUTUBE_HASHTAGS]\n\n#shorts #viralshorts #trending #foryou #fyp #analogclock #digitalclock #clock #gadget #tech #innovation #design #engineering #timetelling #satisfyingvideos #mindblown #cooltech #transformation #uniquedesign #viraltech #mustsee #howdoesitwork #magicclock #reveal\n\n[YOUTUBE_KEYWORDS]\n\n*   **Primary Keyword:** Analog to Digital Clock\n*   **Secondary Keywords:** Clock transformation, Digital display, Unique gadget, Timepiece\n*   **Long-tail Keywords:** How an analog clock becomes digital, Mind-blowing clock design, Satisfying clock transformation, Innovative time display, Cool tech gadgets, Watch analog clock transform digital\n\n[BONUS_CTA]\n\n1.  Mind blown? Share this incredible clock transformation with a friend! 👇\n2.  What's the coolest gadget you've ever seen? Let me know in the comments!\n3.  Tap that LIKE button if you found this clock's reveal satisfying! ❤️",
+          "title": "This clock defies logic! 🤯 Analog to Digital transformation you HAVE to see",
+          "description": "Ever wondered how an analog clock could magically transform into a digital display? 🤯 This incredible gadget redefines time-telling with a mind-blowing shift! Watch closely as the hands disappear and numbers emerge in a seamless, satisfying transition. It's an engineering marvel and a truly unique clock transformation that will leave you amazed. Don't miss this clever design in action! What do you think of this innovative timepiece?",
+          "hashtags": "#shorts #viralshorts #trending #foryou #fyp #analogclock #digitalclock #clock #gadget #tech #innovation #design #engineering #timetelling #satisfyingvideos #mindblown #cooltech #transformation #uniquedesign #viraltech #mustsee #howdoesitwork #magicclock #reveal",
+          "keywords": "*   **Primary Keyword:** Analog to Digital Clock\n*   **Secondary Keywords:** Clock transformation, Digital display, Unique gadget, Timepiece\n*   **Long-tail Keywords:** How an analog clock becomes digital, Mind-blowing clock design, Satisfying clock transformation, Innovative time display, Cool tech gadgets, Watch analog clock transform digital"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7130,7 +7136,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963395",
-      "updated_at": "2026-05-31T17:24:21.963398"
+      "updated_at": "2026-06-22T21:31:55.859212"
     }
   },
   {
