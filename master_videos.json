@@ -7316,20 +7316,26 @@
       "drive_link": "https://drive.google.com/file/d/1mffr6DfrRBCnr1_tDnFER7SM9-KvpmmX/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Today's my Birthday ( 10 july_ Happy Birthday Legend Today's my Birthday ( 10 july Today's my Birthday ( 10 july _ But. Who Will Open The Key To The Universe In This Era ? Reallly?? Realllye? Really?? Realllyz?",
+      "ocr_generated_at": "2026-06-23T13:50:11.829515"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "cmOrUPHpscs",
+        "uploaded_at": "2026-06-23T13:50:25.062830",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: The profound, unanswered question of who will unlock the \"Key To The Universe\" in the current era, sparked by a personal reflection.\nTarget Audience: Individuals interested in philosophy, mystery, futurism, existential questions, and the potential of humanity.\nEmotion: Curiosity\nViral Angle: Mind-blowing question / Profound mystery\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  My Birthday Question: Who Will Unlock The Universe's Secret? 🤔\n2.  🤯 Today's The Day! But Who Holds The Key To The Universe?\n3.  On My Birthday, I Ask: Who Will Guide Humanity's Future? ✨\n4.  The ULTIMATE Question: Key To The Universe? You DECIDE.\n5.  Who Opens The Key To The Universe In This Era? A Deep Dive.\n\n[YOUTUBE_DESCRIPTION]\nIt's my birthday, but there's a question that's been weighing on my mind: Who will be the one to open the Key To The Universe in our time? 🤯 This isn't just a random thought; it's a deep dive into humanity's potential and future. What do YOU think? Is it a person, an idea, or something else entirely? Share your theories below! Let's explore this mind-bending mystery together.\n\n[YOUTUBE_HASHTAGS]\n#Shorts #Mystery #KeyToTheUniverse #BigQuestions #Philosophy #FutureOfHumanity #Unanswered #MindBlown #DeepThoughts #Existential #HumanPotential #UnlockTheSecret #ViralShorts #WhatIf #Consciousness #UniversalKey #TrendingNow #DailyMystery #DeepMeaning #NewEra\n\n[YOUTUBE_KEYWORDS]\nPrimary keyword: Key To The Universe\nSecondary keywords: Humanity's Future, Big Questions, Unanswered Mystery, Philosophical Mystery\nLong-tail keywords: Who will open the key to the universe, Deep philosophical questions, Future of human civilization, Unlocking universal secrets, Humanity's potential questions\n\n[BONUS_CTA]\n1.  Who do YOU think will open the Key To The Universe? Share your wildest theories! 👇\n2.  Hit like if this question made you think! Then tell me your answer in the comments!\n3.  Tag someone who needs to ponder this question with us! 🤯",
+          "title": "My Birthday Question: Who Will Unlock The Universe's Secret? 🤔",
+          "description": "It's my birthday, but there's a question that's been weighing on my mind: Who will be the one to open the Key To The Universe in our time? 🤯 This isn't just a random thought; it's a deep dive into humanity's potential and future. What do YOU think? Is it a person, an idea, or something else entirely? Share your theories below! Let's explore this mind-bending mystery together.",
+          "hashtags": "#Shorts #Mystery #KeyToTheUniverse #BigQuestions #Philosophy #FutureOfHumanity #Unanswered #MindBlown #DeepThoughts #Existential #HumanPotential #UnlockTheSecret #ViralShorts #WhatIf #Consciousness #UniversalKey #TrendingNow #DailyMystery #DeepMeaning #NewEra",
+          "keywords": "Primary keyword: Key To The Universe\nSecondary keywords: Humanity's Future, Big Questions, Unanswered Mystery, Philosophical Mystery\nLong-tail keywords: Who will open the key to the universe, Deep philosophical questions, Future of human civilization, Unlocking universal secrets, Humanity's potential questions"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7382,7 +7388,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963542",
-      "updated_at": "2026-05-31T17:24:21.963545"
+      "updated_at": "2026-06-23T13:50:25.062857"
     }
   },
   {
