@@ -7400,20 +7400,26 @@
       "drive_link": "https://drive.google.com/file/d/1DTUUfipj0M5C7CRtHRcZvxsJVhnHl4NF/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Wow__!! Magic Nature Light Wow:_ Magic Nature Light Wow:_!! Magic Nature Light 0-luciferin Lucitonte Me\"\" AMP . CO; Lieht Oxxluciferin D-luciferin Lucifcrase Mg\"\" AMP . CO1 Light Oxyluciferin Tell me in the comments CHEMILUMNSCENE CHEMILUMINSCENE CHEMLUMINSCENE Oxyluciterin Lucitcrase Ught",
+      "ocr_generated_at": "2026-06-23T16:25:03.499540"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "xexiDGweSpA",
+        "uploaded_at": "2026-06-23T16:25:17.319416",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Bioluminescence and Chemiluminescence (How nature creates its own light)\nTarget Audience: Science enthusiasts, nature lovers, curious minds, individuals seeking educational and \"wow\" facts.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (The scientific explanation behind nature's 'magic' light)\nContent Category: Facts\n\n[YOUTUBE_TITLES]\n\n1.  🤯 Nature's SECRET Magic Light REVEALED!\n2.  How Nature Creates Its OWN Glow (Bioluminescence Explained!)\n3.  Ever Wondered How Nature Lights Up? The Science Is WILD!\n4.  The REAL Magic Behind Nature's Glow (Chemiluminescence!)\n5.  Nature's Own Light: The Mind-BLOWING Chemistry!\n\n[YOUTUBE_DESCRIPTION]\n\nDid you know nature can create its own light without electricity? 🤯 Prepare to be amazed by the incredible science of **bioluminescence** and **chemiluminescence**! ✨ From deep-sea creatures to glowing fungi, discover the 'magic' behind nature's most stunning light shows. It's not magic, it's pure chemistry!\n\nThis short reveals the fascinating process where living organisms produce light through chemical reactions. Ever seen a firefly light up or a glowing mushroom? This is how!\n\nWhat other natural phenomena blow your mind? Tell us in the comments! 👇\n\n#Bioluminescence #Chemiluminescence #NatureFacts #Science\n\n[YOUTUBE_HASHTAGS]\n\n#Nature #Science #Facts #DidYouKnow #AmazingFacts #Bioluminescence #Chemiluminescence #NatureLight #GlowingNature #NaturalPhenomena #Biology #Chemistry #DeepSea #Mindblown #Wow #Shorts #YouTubeShorts #Educational #ScienceFacts #Unbelievable\n\n[YOUTUBE_KEYWORDS]\n\nBioluminescence, Chemiluminescence, Nature light, Magic nature light, How nature glows, Glowing animals, Natural light, Science facts, What is bioluminescence, How do fireflies glow, Chemiluminescence explained, Science behind natural glow, Natural phenomena, Glowing mushrooms, Light producing organisms\n\n[BONUS_CTA]\n\n1.  Mind blown? Hit that like button and subscribe for more amazing science!\n2.  What's your favorite glowing creature? Share your thoughts in the comments! 👇\n3.  Don't miss out on more mind-bending facts – turn on notifications!",
+          "title": "🤯 Nature's SECRET Magic Light REVEALED!",
+          "description": "Did you know nature can create its own light without electricity? 🤯 Prepare to be amazed by the incredible science of **bioluminescence** and **chemiluminescence**! ✨ From deep-sea creatures to glowing fungi, discover the 'magic' behind nature's most stunning light shows. It's not magic, it's pure chemistry!\n\nThis short reveals the fascinating process where living organisms produce light through chemical reactions. Ever seen a firefly light up or a glowing mushroom? This is how!\n\nWhat other natural phenomena blow your mind? Tell us in the comments! 👇\n\n#Bioluminescence #Chemiluminescence #NatureFacts #Science",
+          "hashtags": "#Nature #Science #Facts #DidYouKnow #AmazingFacts #Bioluminescence #Chemiluminescence #NatureLight #GlowingNature #NaturalPhenomena #Biology #Chemistry #DeepSea #Mindblown #Wow #Shorts #YouTubeShorts #Educational #ScienceFacts #Unbelievable",
+          "keywords": "Bioluminescence, Chemiluminescence, Nature light, Magic nature light, How nature glows, Glowing animals, Natural light, Science facts, What is bioluminescence, How do fireflies glow, Chemiluminescence explained, Science behind natural glow, Natural phenomena, Glowing mushrooms, Light producing organisms"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7466,7 +7472,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963602",
-      "updated_at": "2026-05-31T17:24:21.963605"
+      "updated_at": "2026-06-23T16:25:17.319440"
     }
   },
   {
