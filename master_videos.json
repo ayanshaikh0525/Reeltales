@@ -7484,20 +7484,26 @@
       "drive_link": "https://drive.google.com/file/d/1fA1JwFJmeApryZIjlLS-oNEbkCoOOFnL/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Apollo Mission 15 Part :3 Apoll Mssion 15 But Something Is Messed Up & But Something Is Messed Up * But Something Is Messed Up",
+      "ocr_generated_at": "2026-06-23T19:07:57.915770"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "4lLD7w1om3A",
+        "uploaded_at": "2026-06-23T19:08:10.843234",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: A hidden problem or mystery associated with the Apollo 15 mission.\nTarget Audience: Space enthusiasts, history buffs, conspiracy theorists, mystery lovers, and those interested in \"untold stories\" or \"hidden facts.\"\nEmotion: Curiosity\nViral Angle: Hidden fact / Mind-blowing reveal / Unexpected twist regarding a major historical event (Apollo 15). The phrase \"something is messed up\" is the core hook.\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  Apollo 15: The Glitch Nobody Talks About 🤫\n2.  What REALLY Went Wrong on Apollo 15? 🤯\n3.  NASA Hid THIS from Apollo 15? You won't believe it.\n4.  Apollo 15's Untold Secret: Something Was Messed Up!\n5.  The Apollo 15 Problem They Didn't Show You 🚀\n\n[YOUTUBE_DESCRIPTION]\n\nDid you know there was a significant issue on the Apollo 15 mission that rarely gets mentioned? Most people only remember the success, but something was truly messed up behind the scenes. This short dives into the unexpected twist and reveals a hidden fact about the Apollo Mission 15. Get ready for a mind-blowing reveal about one of history's most iconic moon landings. What did NASA not want you to know? Find out now!\n\n[YOUTUBE_HASHTAGS]\n\n#Apollo15 #SpaceMystery #NASA #MoonLanding #HiddenFacts #UntoldStory #SpaceExploration #Conspiracy #HistoryFacts #DidYouKnow #SpaceFacts #MindBlown #Mystery #YouTubeShorts #ShortsFeed #ViralShorts #SpaceHistory #FactCheck #Astronomy #ApolloMission\n\n[YOUTUBE_KEYWORDS]\n\nApollo 15, Apollo Mission 15, Moon landing, NASA, space problem, secret, messed up, space mystery, hidden facts, untold story, what went wrong Apollo 15, Apollo 15 facts, space mission secrets, astronaut, space history, lunar module, command module, scientific discovery, historical events.\n\n[BONUS_CTA]\n\n1.  What's your take on this Apollo 15 secret? Let us know in the comments! 👇\n2.  Hit like if you think there are more hidden truths about space missions!\n3.  Subscribe for more shocking historical reveals and space mysteries! 🔔",
+          "title": "Apollo 15: The Glitch Nobody Talks About 🤫",
+          "description": "Did you know there was a significant issue on the Apollo 15 mission that rarely gets mentioned? Most people only remember the success, but something was truly messed up behind the scenes. This short dives into the unexpected twist and reveals a hidden fact about the Apollo Mission 15. Get ready for a mind-blowing reveal about one of history's most iconic moon landings. What did NASA not want you to know? Find out now!",
+          "hashtags": "#Apollo15 #SpaceMystery #NASA #MoonLanding #HiddenFacts #UntoldStory #SpaceExploration #Conspiracy #HistoryFacts #DidYouKnow #SpaceFacts #MindBlown #Mystery #YouTubeShorts #ShortsFeed #ViralShorts #SpaceHistory #FactCheck #Astronomy #ApolloMission",
+          "keywords": "Apollo 15, Apollo Mission 15, Moon landing, NASA, space problem, secret, messed up, space mystery, hidden facts, untold story, what went wrong Apollo 15, Apollo 15 facts, space mission secrets, astronaut, space history, lunar module, command module, scientific discovery, historical events."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7550,7 +7556,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963655",
-      "updated_at": "2026-05-31T17:24:21.963658"
+      "updated_at": "2026-06-23T19:08:10.843261"
     }
   },
   {
