@@ -7568,20 +7568,26 @@
       "drive_link": "https://drive.google.com/file/d/1U0fP7zCIcIz-putR1g-SosNyYasEEnBE/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Doctor fixes a pulled Elbow in seconds Doctor fixes a pulled he gently rotates and pops the joint back into place without any tools or tearss any tools Or tearss any tools Or tearsb",
+      "ocr_generated_at": "2026-06-23T21:28:12.738977"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "kn4CeFIsc4A",
+        "uploaded_at": "2026-06-23T21:28:27.412283",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Doctor fixing a pulled elbow (Nursemaid's elbow) in seconds, without tools or pain.\nTarget Audience: Parents, individuals interested in quick medical fixes, satisfying content, healthcare professionals, and general viewers fascinated by the human body and simple solutions.\nEmotion: Satisfaction (seeing a problem instantly and painlessly resolved), Surprise (at the speed and simplicity).\nViral Angle: Mind-blowing reveal of a simple, effective, and quick medical \"trick\" or procedure that many people are unaware of, executed effortlessly.\nContent Category: Educational, Facts\n\n[YOUTUBE_TITLES]\n\n1.  Doctor Fixes Pulled Elbow in SECONDS! 🤯 (Thumbnail Text: INSTANT FIX!)\n2.  You Won't Believe How Easily He Fixed This Elbow! (Thumbnail Text: ELBOW MAGIC)\n3.  Nursemaid's Elbow FIXED: The Simplest Solution You've Never Seen! (Thumbnail Text: NO TEARS!)\n4.  Watch This Doctor Pop an Elbow Back in Place - NO Tools, NO Tears! (Thumbnail Text: PULLED ELBOW)\n5.  INSTANT Elbow Relief: Medical Magic You NEED To See! (Thumbnail Text: SECONDS TO FIX)\n\n[YOUTUBE_DESCRIPTION]\n\nSeriously satisfying! 🤯 Watch in awe as a skilled doctor demonstrates an incredible technique to fix a pulled elbow (often called Nursemaid's Elbow) in mere seconds. No fancy tools, no pain, just pure expertise and a gentle rotation to pop the joint back into place. This quick fix is mind-blowing and a testament to the power of medical knowledge. Share this amazing moment of instant relief!\n\n#PulledElbow #NursemaidsElbow #MedicalMiracle #QuickFix\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts\n#Doctor\n#Health\n#Medical\n#Body\n#PulledElbow\n#NursemaidsElbow\n#ElbowInjury\n#JointManipulation\n#PediatricCare\n#ViralVideo\n#QuickFix\n#Satisfying\n#MindBlown\n#LearnOnTikTok\n#Amazing\n#LifeHack\n#MedicalFacts\n#InstantRelief\n#NoPain\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keyword: pulled elbow fix\nSecondary Keywords: doctor fixes elbow, nursemaid's elbow, joint manipulation, elbow injury treatment\nLong-tail Keywords: how to fix a pulled elbow, doctor fixes child's pulled elbow in seconds, medical procedure for dislocated elbow, quick elbow pop back in place, what is a pulled elbow, arm pain quick fix, chiropractic elbow adjustment\n\n[BONUS_CTA]\n\n1.  Mind-blown by this quick fix? Hit like & subscribe for more incredible medical insights!\n2.  Ever seen a pulled elbow fixed so fast? Share your reaction in the comments below! 👇\n3.  Tag a friend who needs to see this amazing medical 'magic'!",
+          "title": "Doctor Fixes Pulled Elbow in SECONDS! 🤯 (Thumbnail Text: INSTANT FIX!)",
+          "description": "Seriously satisfying! 🤯 Watch in awe as a skilled doctor demonstrates an incredible technique to fix a pulled elbow (often called Nursemaid's Elbow) in mere seconds. No fancy tools, no pain, just pure expertise and a gentle rotation to pop the joint back into place. This quick fix is mind-blowing and a testament to the power of medical knowledge. Share this amazing moment of instant relief!\n\n#PulledElbow #NursemaidsElbow #MedicalMiracle #QuickFix",
+          "hashtags": "#Shorts\n#Doctor\n#Health\n#Medical\n#Body\n#PulledElbow\n#NursemaidsElbow\n#ElbowInjury\n#JointManipulation\n#PediatricCare\n#ViralVideo\n#QuickFix\n#Satisfying\n#MindBlown\n#LearnOnTikTok\n#Amazing\n#LifeHack\n#MedicalFacts\n#InstantRelief\n#NoPain",
+          "keywords": "Primary Keyword: pulled elbow fix\nSecondary Keywords: doctor fixes elbow, nursemaid's elbow, joint manipulation, elbow injury treatment\nLong-tail Keywords: how to fix a pulled elbow, doctor fixes child's pulled elbow in seconds, medical procedure for dislocated elbow, quick elbow pop back in place, what is a pulled elbow, arm pain quick fix, chiropractic elbow adjustment"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7634,7 +7640,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963707",
-      "updated_at": "2026-05-31T17:24:21.963710"
+      "updated_at": "2026-06-23T21:28:27.412312"
     }
   },
   {
