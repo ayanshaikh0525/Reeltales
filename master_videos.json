@@ -8156,20 +8156,26 @@
       "drive_link": "https://drive.google.com/file/d/158RGaCB0wpQYvZPtS8KGduGE8hxupuSF/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "BE SEEN GHAB $ WICKI Luo culot How This Zebra Crossing Forces Drivers to Finally Notice Pedestrians 1. GRAB 2. LoOIc 3. WAVE CROSS GRAB bRICK? GRAD Look WAV{ CROS$ RANVILL SLAND ranvilz 'SLAND easl Aisl Tlad Ghan Loo1 MnE SEFN 'n GRiCK} LRtk5t BE SEER anadr 4. CROSS GRAI BRICK! LOOK WAVE Ssekd Hant GRAB A 2. LOOK",
+      "ocr_generated_at": "2026-06-24T22:12:12.773020"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "rYRF4ecEMR8",
+        "uploaded_at": "2026-06-24T22:12:27.271451",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Innovative pedestrian crossing design for enhanced driver awareness and road safety.\nTarget Audience: Drivers, pedestrians, urban planners, safety advocates, city residents, anyone interested in clever solutions to common problems.\nEmotion: Satisfaction (seeing a clever and effective solution to a pervasive problem).\nViral Angle: Mind-blowing reveal of a simple yet ingenious solution to a universal problem (drivers often not noticing pedestrians).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n1.  🤯 This Zebra Crossing FORCES Drivers to LOOK!\n2.  Finally! The Smart Road Design That Saves Pedestrians!\n3.  You Won't Believe How This Crossing Makes Drivers NOTICE!\n4.  Genius Urban Hack: Why Drivers Can't Ignore THIS Crosswalk\n5.  Every City Needs THIS: The Secret to Pedestrian Safety\n\n[YOUTUBE_DESCRIPTION]\nEver wonder why drivers sometimes miss pedestrians? 🤔 This incredible zebra crossing design is changing everything! Watch how this simple yet ingenious solution *forces* drivers to finally look up and notice people on the road. It's not just a crosswalk; it's a brilliant piece of urban planning that drastically improves pedestrian safety. From the visual cues to the psychological triggers, discover the secrets behind this revolutionary road innovation. Share this if you think every city needs one! 👇\n\n[YOUTUBE_HASHTAGS]\n#Shorts\n#Viral\n#Innovation\n#LifeHack\n#FYP\n#PedestrianSafety\n#RoadSafety\n#ZebraCrossing\n#TrafficDesign\n#SmartCity\n#SafetyFirst\n#UrbanDesign\n#CityLife\n#MindBlown\n#ProblemSolved\n#CleverDesign\n#SafetyTips\n#Genius\n#WatchThis\n#RoadInnovation\n\n[YOUTUBE_KEYWORDS]\nPedestrian safety, zebra crossing, driver awareness, road design, urban innovation, traffic safety, crosswalk solution, smart city planning, road safety tips, how to improve road safety, ingenious design, urban development, driver education.\n\n[BONUS_CTA]\n1.  What do you think? Should every city adopt this design? Let me know in the comments! 👇\n2.  Hit like if you believe this genius crossing saves lives! ❤️\n3.  Share this video to spread awareness about smarter pedestrian safety! ➡️",
+          "title": "🤯 This Zebra Crossing FORCES Drivers to LOOK!",
+          "description": "Ever wonder why drivers sometimes miss pedestrians? 🤔 This incredible zebra crossing design is changing everything! Watch how this simple yet ingenious solution *forces* drivers to finally look up and notice people on the road. It's not just a crosswalk; it's a brilliant piece of urban planning that drastically improves pedestrian safety. From the visual cues to the psychological triggers, discover the secrets behind this revolutionary road innovation. Share this if you think every city needs one! 👇",
+          "hashtags": "#Shorts\n#Viral\n#Innovation\n#LifeHack\n#FYP\n#PedestrianSafety\n#RoadSafety\n#ZebraCrossing\n#TrafficDesign\n#SmartCity\n#SafetyFirst\n#UrbanDesign\n#CityLife\n#MindBlown\n#ProblemSolved\n#CleverDesign\n#SafetyTips\n#Genius\n#WatchThis\n#RoadInnovation",
+          "keywords": "Pedestrian safety, zebra crossing, driver awareness, road design, urban innovation, traffic safety, crosswalk solution, smart city planning, road safety tips, how to improve road safety, ingenious design, urban development, driver education."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -8222,7 +8228,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.969157",
-      "updated_at": "2026-05-31T17:24:21.969161"
+      "updated_at": "2026-06-24T22:12:27.271477"
     }
   },
   {
