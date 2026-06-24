@@ -7820,20 +7820,26 @@
       "drive_link": "https://drive.google.com/file/d/18k3SfNLYJx-FvgnDboqv16UqIvho1w1q/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Recently We Witnessed A Total Lunar 'Eclipseo Eclipse: A Total Lunar Eclipse: 'Eclipse: Result Blood Moon Don't miss the Partial Solar Eclipse on 21 Sept _ Eclipse on 21 Sept_ Eclipse on 21 Sept Newzealand, Parts of Antarctica And South Pacific Ocean region.",
+      "ocr_generated_at": "2026-06-24T06:41:40.087653"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "g1GqSFzijrY",
+        "uploaded_at": "2026-06-24T06:41:55.328924",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Eclipses (Past Total Lunar Eclipse / Blood Moon & Upcoming Partial Solar Eclipse)\nTarget Audience: Astronomy enthusiasts, science curious individuals, general public interested in rare natural phenomena.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal (of celestial beauty and rarity) combined with urgency (don't miss the next event).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  Blood Moon Secret REVEALED! Next Eclipse?! 😱\n2.  Solar Eclipse Sept 21: You're MISSING This!\n3.  Mind-Blowing Blood Moon: What's Coming Next?\n4.  How To See The Sept 21 Solar Eclipse!\n5.  Eclipse Season: Blood Moon & Solar Eclipse Dates!\n\n[YOUTUBE_DESCRIPTION]\n\n🤯 Just witnessed an incredible Total Lunar Eclipse, also known as the mystical Blood Moon! If you missed that celestial spectacle, get ready because another rare event is on its way!\n\nA Partial Solar Eclipse is coming up on September 21st! ☀️🌑 This cosmic show will be visible in New Zealand, parts of Antarctica, and the South Pacific Ocean region.\n\nAre you in the prime viewing location? Don't miss your chance to witness the cosmos in action! We break down everything you need to know about the upcoming solar eclipse and recap the stunning Blood Moon.\n\nWhich eclipse fascinates you more – the incredible Blood Moon or the upcoming Solar Eclipse? Let us know in the comments below! 👇\n\n[YOUTUBE_HASHTAGS]\n\n#Eclipse #Space #Astronomy #Science #ViralVideo #Universe #SolarEclipse #LunarEclipse #BloodMoon #CelestialEvent #Stargazing #NewZealandEclipse #SouthernHemisphere #SpaceFacts #MindBlown #RarePhenomenon #CosmicEvents #MustWatch #EducationalContent #September21\n\n[YOUTUBE_KEYWORDS]\n\nSolar Eclipse, Lunar Eclipse, Blood Moon, September 21 Eclipse, Partial Solar Eclipse September 21, Total Lunar Eclipse Blood Moon, Where to see Solar Eclipse, Eclipse viewing New Zealand, Astronomy facts, Celestial events, Space phenomena.\n\n[BONUS_CTA]\n\n1.  Which eclipse amazes you more? Tell us below! 👇\n2.  Tap 'Subscribe' for your daily dose of mind-blowing space facts!\n3.  Don't let your friends miss this! Share this Short now! ➡️",
+          "title": "Blood Moon Secret REVEALED! Next Eclipse?! 😱",
+          "description": "🤯 Just witnessed an incredible Total Lunar Eclipse, also known as the mystical Blood Moon! If you missed that celestial spectacle, get ready because another rare event is on its way!\n\nA Partial Solar Eclipse is coming up on September 21st! ☀️🌑 This cosmic show will be visible in New Zealand, parts of Antarctica, and the South Pacific Ocean region.\n\nAre you in the prime viewing location? Don't miss your chance to witness the cosmos in action! We break down everything you need to know about the upcoming solar eclipse and recap the stunning Blood Moon.\n\nWhich eclipse fascinates you more – the incredible Blood Moon or the upcoming Solar Eclipse? Let us know in the comments below! 👇",
+          "hashtags": "#Eclipse #Space #Astronomy #Science #ViralVideo #Universe #SolarEclipse #LunarEclipse #BloodMoon #CelestialEvent #Stargazing #NewZealandEclipse #SouthernHemisphere #SpaceFacts #MindBlown #RarePhenomenon #CosmicEvents #MustWatch #EducationalContent #September21",
+          "keywords": "Solar Eclipse, Lunar Eclipse, Blood Moon, September 21 Eclipse, Partial Solar Eclipse September 21, Total Lunar Eclipse Blood Moon, Where to see Solar Eclipse, Eclipse viewing New Zealand, Astronomy facts, Celestial events, Space phenomena."
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7886,7 +7892,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963856",
-      "updated_at": "2026-05-31T17:24:21.963859"
+      "updated_at": "2026-06-24T06:41:55.328948"
     }
   },
   {
