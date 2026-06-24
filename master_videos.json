@@ -7736,20 +7736,26 @@
       "drive_link": "https://drive.google.com/file/d/1TKKAckhLIVYQtHNNiSrfS-QUsH5pkOXr/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "vs Cat Dog Wait for the cat The dogs struggle to cross The struggle to cross dogs Cats are built different ~too@asy was Gthat ~too #that easy",
+      "ocr_generated_at": "2026-06-24T02:36:10.706382"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "92PUJMV5EFc",
+        "uploaded_at": "2026-06-24T02:36:24.561655",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Cat's superior agility and ease in overcoming an obstacle compared to a dog's struggle.\nTarget Audience: Animal lovers, pet owners, fans of funny or surprising animal content, general short-form video consumers.\nEmotion: Surprise\nViral Angle: Mind-blowing reveal (about cat capabilities) / Unexpected contrast between common animal abilities.\nContent Category: Animals\n\n[YOUTUBE_TITLES]\n\n1.  Wait for the CAT! 🤯 You Won't Believe What Happens Next!\n2.  Cats Are BUILT DIFFERENT: Dog vs Cat Agility Challenge\n3.  Dogs STRUGGLED, But This Cat Made It Look TOO EASY!\n4.  Why Cats Are The ULTIMATE Agility Champions (Dog Couldn't!)\n5.  Cat vs Dog: One Made It Look Effortless. Guess Who?\n\n[YOUTUBE_DESCRIPTION]\n\nWatch this hilarious and surprising agility challenge between a dog and a cat! The dogs really struggled to cross this obstacle, making it look incredibly difficult. But then, the cat steps up to the plate... and it's a completely different story. Prepare to be amazed by how easily the cat navigates the challenge, proving once again that cats are truly built different. This viral short shows the incredible difference in animal agility. Who knew one little animal could make it look *that* easy? Don't miss the epic contrast that's got everyone talking! #CatsBuiltDifferent\n\n[YOUTUBE_HASHTAGS]\n\n#CatsBuiltDifferent #CatVsDog #AnimalAgility #PetChallenge #FunnyAnimals #CutePets #AgilityDogs #AgilityCats #ViralShort #ShortsFeed #MindBlown #AnimalFacts #PetSoftiktok #WatchTillTheEnd #EpicFail #AnimalHumor #PetGoals #EasyPeasy #AnimalBehavior #Unexpected\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: Cat vs Dog Agility, Cats Built Different\nSecondary keywords: Animal challenge, dog struggle, cat jumps easy, funny pets, pet agility, animal comparison, cat ability, animal skills\nLong-tail keywords: Why cats are so agile, dog vs cat obstacle course, watch cat jump effortlessly, animal agility challenge reaction, cat parkour\n\n[BONUS_CTA]\n\n1.  Which animal do YOU think is more agile? Tell us in the comments! 👇\n2.  Hit subscribe for more mind-blowing animal moments!\n3.  Share this with a friend who needs to see how cats are built different!",
+          "title": "Wait for the CAT! 🤯 You Won't Believe What Happens Next!",
+          "description": "Watch this hilarious and surprising agility challenge between a dog and a cat! The dogs really struggled to cross this obstacle, making it look incredibly difficult. But then, the cat steps up to the plate... and it's a completely different story. Prepare to be amazed by how easily the cat navigates the challenge, proving once again that cats are truly built different. This viral short shows the incredible difference in animal agility. Who knew one little animal could make it look *that* easy? Don't miss the epic contrast that's got everyone talking! #CatsBuiltDifferent",
+          "hashtags": "#CatsBuiltDifferent #CatVsDog #AnimalAgility #PetChallenge #FunnyAnimals #CutePets #AgilityDogs #AgilityCats #ViralShort #ShortsFeed #MindBlown #AnimalFacts #PetSoftiktok #WatchTillTheEnd #EpicFail #AnimalHumor #PetGoals #EasyPeasy #AnimalBehavior #Unexpected",
+          "keywords": "Primary keyword: Cat vs Dog Agility, Cats Built Different\nSecondary keywords: Animal challenge, dog struggle, cat jumps easy, funny pets, pet agility, animal comparison, cat ability, animal skills\nLong-tail keywords: Why cats are so agile, dog vs cat obstacle course, watch cat jump effortlessly, animal agility challenge reaction, cat parkour"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -7802,7 +7808,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.963806",
-      "updated_at": "2026-05-31T17:24:21.963809"
+      "updated_at": "2026-06-24T02:36:24.561682"
     }
   },
   {
