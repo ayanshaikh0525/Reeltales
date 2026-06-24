@@ -8072,20 +8072,26 @@
       "drive_link": "https://drive.google.com/file/d/16nvWpctj_ngZZ18DzlLzkhUEqgGcHpq1/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "A person downshifted to Ist gear at 200kmph (124mph) broken pistons; shattered cylinders; and a wrecked engine block broken pistons, The violent force of over-revving the engine while downshifting at such a high speed leads to catastrophic failue: over-reving the engine to catastrophic failure: over-revving the engine",
+      "ocr_generated_at": "2026-06-24T20:31:43.359970"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "MLn5smnZOz4",
+        "uploaded_at": "2026-06-24T20:31:57.583377",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Catastrophic engine failure due to extreme high-speed downshifting (over-revving).\nTarget Audience: Car enthusiasts, mechanics, automotive students, and anyone interested in mechanical failures, speed, and shocking consequences of poor driving decisions.\nEmotion: Shock\nViral Angle: Mind-blowing reveal (of the extreme damage caused by a single, catastrophic mistake).\nContent Category: Educational\n\n[YOUTUBE_TITLES]\n\n1.  200km/h Downshift to 1st Gear: ENGINE GONE! 🤯\n2.  THIS is Why You DON'T Downshift at 124 MPH! 💥\n3.  Catastrophic Engine Failure: High-Speed Downshift HORROR!\n4.  Watch What Happens When You Over-Rev An Engine at 200km/h!\n5.  Instant Engine Wreck: The High-Speed Downshift Mistake You MUST Avoid.\n\n[YOUTUBE_DESCRIPTION]\n\nEver wondered what happens when an engine meets an extreme high-speed downshift? This video reveals the shocking truth: a catastrophic failure caused by severe over-revving. At 200km/h (124mph), dropping into 1st gear isn't just a mistake, it's a death sentence for your engine. Prepare to see the violent consequences: broken pistons, shattered cylinders, and a completely wrecked engine block. Learn why you should NEVER try this and save your engine from certain destruction! Don't let this happen to your ride. #EngineFailure #CarMechanics\n\n[YOUTUBE_HASHTAGS]\n\n#EngineFailure #OverRevving #Downshift #CatastrophicFailure #CarMechanics #Automotive #Engines #BrokenEngine #CarTok #MechanicalFailure #PerformanceCars #CarMaintenance #YouTubeShorts #Shorts #WhatHappensIf #CarFacts #LearnOnTikTok #AutomotiveEducation #MindBlown #Don'tTryThis\n\n[YOUTUBE_KEYWORDS]\n\nPrimary Keyword: engine failure\nSecondary Keywords: catastrophic engine failure, downshift, over-revving, broken pistons, wrecked engine, 200kmph, 124mph, blown engine, engine damage\nLong-tail Keywords: what happens when you downshift at high speed, engine blows up at 200kmph, how to destroy an engine, extreme engine damage, car engine destroyed, instant engine failure, why not to over-rev an engine\n\n[BONUS_CTA]\n\n1.  Hit LIKE if you learned something shocking! 😱 Share this warning with a friend who loves cars!\n2.  What's the worst engine mistake you've ever seen? Tell us in the comments! 👇\n3.  Subscribe for more mind-blowing automotive facts and avoid costly mistakes!",
+          "title": "km/h Downshift to 1st Gear: ENGINE GONE! 🤯",
+          "description": "Ever wondered what happens when an engine meets an extreme high-speed downshift? This video reveals the shocking truth: a catastrophic failure caused by severe over-revving. At 200km/h (124mph), dropping into 1st gear isn't just a mistake, it's a death sentence for your engine. Prepare to see the violent consequences: broken pistons, shattered cylinders, and a completely wrecked engine block. Learn why you should NEVER try this and save your engine from certain destruction! Don't let this happen to your ride. #EngineFailure #CarMechanics",
+          "hashtags": "#EngineFailure #OverRevving #Downshift #CatastrophicFailure #CarMechanics #Automotive #Engines #BrokenEngine #CarTok #MechanicalFailure #PerformanceCars #CarMaintenance #YouTubeShorts #Shorts #WhatHappensIf #CarFacts #LearnOnTikTok #AutomotiveEducation #MindBlown #Don'tTryThis",
+          "keywords": "Primary Keyword: engine failure\nSecondary Keywords: catastrophic engine failure, downshift, over-revving, broken pistons, wrecked engine, 200kmph, 124mph, blown engine, engine damage\nLong-tail Keywords: what happens when you downshift at high speed, engine blows up at 200kmph, how to destroy an engine, extreme engine damage, car engine destroyed, instant engine failure, why not to over-rev an engine"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -8138,7 +8144,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.969072",
-      "updated_at": "2026-05-31T17:24:21.969083"
+      "updated_at": "2026-06-24T20:31:57.583408"
     }
   },
   {
