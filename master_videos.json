@@ -8324,20 +8324,26 @@
       "drive_link": "https://drive.google.com/file/d/1wwrn9XrL7UcN5hBybX_M6LLdJKhvyYvS/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "What kind of experiment is this? YT Channel : @bbo YT Channel : @bbc Vacuum YT Channel @bbc Those Who Know",
+      "ocr_generated_at": "2026-06-25T08:25:38.425270"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "iwtcekHsgp0",
+        "uploaded_at": "2026-06-25T08:25:53.631135",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Mysterious Scientific Experiment\nTarget Audience: Curiosity-driven viewers, science enthusiasts, educational content seekers.\nEmotion: Curiosity\nViral Angle: Mind-blowing reveal / Unexpected twist (of an unknown experiment)\nContent Category: Mystery\n\n[YOUTUBE_TITLES]\n\n1.  🤯 What IS This Experiment?!\n2.  Can You Guess This INSANE Science Mystery?\n3.  The BBC Experiment That Broke The Internet!\n4.  You Won't Believe What This Experiment Does!\n5.  What Kind of Experiment Is This?! #ScienceShorts\n\n[YOUTUBE_DESCRIPTION]\n\nEver seen an experiment quite like this? 🤔 Prepare to have your mind blown by one of the most puzzling scientific demonstrations we've ever encountered. From the fascinating world of @bbc, @bbcVacuum, and @bbcThoseWhoKnow, this viral Short will leave you asking \"What kind of experiment is this?!\" Watch till the end to discover the truth behind this incredible science mystery, or test your own knowledge in the comments! 👇 Don't miss out on this head-scratcher!\n\n[YOUTUBE_HASHTAGS]\n\n#Shorts #Science #Experiment #Mystery #DidYouKnow #MindBlown #Curiosity #ScienceFacts #Educational #STEM #Physics #WhatIsThis #Unexplained #BBC #ScienceIsCool #ViralScience #LearnOnShorts #BrainTeaser #VacuumScience #MustWatch\n\n[YOUTUBE_KEYWORDS]\n\nPrimary keyword: experiment\nSecondary keywords: science, mystery, BBC, what is this\nLong-tail keywords: what kind of experiment is this, strange science experiment, BBC science, educational experiment short, viral science shorts, mind blowing experiment, physics experiment mystery, learn science shorts\n\n[BONUS_CTA]\n\n1.  What's YOUR guess? Drop it in the comments! 👇\n2.  Hit 'Subscribe' for more mind-bending science facts!\n3.  Share this mystery with a friend who loves a good puzzle!",
+          "title": "🤯 What IS This Experiment?!",
+          "description": "Ever seen an experiment quite like this? 🤔 Prepare to have your mind blown by one of the most puzzling scientific demonstrations we've ever encountered. From the fascinating world of @bbc, @bbcVacuum, and @bbcThoseWhoKnow, this viral Short will leave you asking \"What kind of experiment is this?!\" Watch till the end to discover the truth behind this incredible science mystery, or test your own knowledge in the comments! 👇 Don't miss out on this head-scratcher!",
+          "hashtags": "#Shorts #Science #Experiment #Mystery #DidYouKnow #MindBlown #Curiosity #ScienceFacts #Educational #STEM #Physics #WhatIsThis #Unexplained #BBC #ScienceIsCool #ViralScience #LearnOnShorts #BrainTeaser #VacuumScience #MustWatch",
+          "keywords": "Primary keyword: experiment\nSecondary keywords: science, mystery, BBC, what is this\nLong-tail keywords: what kind of experiment is this, strange science experiment, BBC science, educational experiment short, viral science shorts, mind blowing experiment, physics experiment mystery, learn science shorts"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -8390,7 +8396,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.969263",
-      "updated_at": "2026-05-31T17:24:21.969266"
+      "updated_at": "2026-06-25T08:25:53.631166"
     }
   },
   {
