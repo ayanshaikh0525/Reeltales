@@ -8240,20 +8240,26 @@
       "drive_link": "https://drive.google.com/file/d/1fM_vUSYM6U7VMH_qZXVb_tpjZe1YyGP1/view"
     },
     "content": {
-      "processed": false,
+      "processed": true,
       "processed_folder_id": "",
       "processed_folder_link": "",
-      "ocr_text": "",
-      "ocr_generated_at": ""
+      "ocr_text": "Drone runs out of battery, so owner turns into am athlete Will he be able to save it? What a save",
+      "ocr_generated_at": "2026-06-25T00:03:28.856532"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": "",
-        "uploaded_at": "",
+        "uploaded": true,
+        "upload_id": "lLTetmmaZns",
+        "uploaded_at": "2026-06-25T00:03:56.404270",
         "attempts": 0,
         "last_error": "",
-        "metadata": {}
+        "metadata": {
+          "raw_response": "[VIRAL_ANALYSIS]\n\nPrimary Topic: Owner's athletic attempt to save a drone with a dead battery.\nTarget Audience: Drone enthusiasts, tech lovers, people who enjoy thrilling rescue stories, sports fans, those who appreciate quick thinking and agility.\nEmotion: Surprise\nViral Angle: Unexpected save through incredible athleticism / Mind-blowing reveal of a successful, dramatic rescue.\nContent Category: Story\n\n[YOUTUBE_TITLES]\n1.  Drone ran out of battery! What happened NEXT?! 🤯\n2.  He saved his drone like an Olympic athlete! 🏃‍♂️💨\n3.  You won't BELIEVE how he caught his falling drone!\n4.  Watch this IMPOSSIBLE drone save! 🔋⬇️\n5.  This is how you save a dying drone! Epic catch!\n\n[YOUTUBE_DESCRIPTION]\nHis drone ran out of battery mid-flight, but the owner wasn't giving up! Witness the incredible moment he turns into an athlete to make an impossible save. The tension was real, the reaction was priceless, and the save... absolutely mind-blowing! You HAVE to see this quick thinking and pure agility.\n\nWhat would YOU do if your drone suddenly died? Share your thoughts in the comments! 👇\n\n#DroneSave #EpicRescue #QuickThinking\n\n[YOUTUBE_HASHTAGS]\n#shorts #viralvideo #trending #dronelife #drones #droneracing #tech #gadgets #aerialphotography #dronepilot #whatasave #unexpected #shocking #reaction #agility #athletic #mindblown #impossible #rescue #fpv\n\n[YOUTUBE_KEYWORDS]\ndrone save, drone battery dead, drone rescue, athletic save, owner saves drone, impossible catch, drone recovery, drone fall, amazing save, quick thinking, drone tips, drone fails compilation (for comparison), tech rescue, drone moments, viral drone video\n\n[BONUS_CTA]\n1.  Smash the like button if you were on the edge of your seat!\n2.  Drop a comment: Would you risk it all for your drone?\n3.  Share this unbelievable save with someone who needs to see it!",
+          "title": "Drone ran out of battery! What happened NEXT?! 🤯",
+          "description": "His drone ran out of battery mid-flight, but the owner wasn't giving up! Witness the incredible moment he turns into an athlete to make an impossible save. The tension was real, the reaction was priceless, and the save... absolutely mind-blowing! You HAVE to see this quick thinking and pure agility.\n\nWhat would YOU do if your drone suddenly died? Share your thoughts in the comments! 👇\n\n#DroneSave #EpicRescue #QuickThinking",
+          "hashtags": "#shorts #viralvideo #trending #dronelife #drones #droneracing #tech #gadgets #aerialphotography #dronepilot #whatasave #unexpected #shocking #reaction #agility #athletic #mindblown #impossible #rescue #fpv",
+          "keywords": "drone save, drone battery dead, drone rescue, athletic save, owner saves drone, impossible catch, drone recovery, drone fall, amazing save, quick thinking, drone tips, drone fails compilation (for comparison), tech rescue, drone moments, viral drone video"
+        }
       },
       "instagram": {
         "uploaded": false,
@@ -8306,7 +8312,7 @@
     },
     "workflow": {
       "created_at": "2026-05-31T17:24:21.969209",
-      "updated_at": "2026-05-31T17:24:21.969212"
+      "updated_at": "2026-06-25T00:03:56.404296"
     }
   },
   {
